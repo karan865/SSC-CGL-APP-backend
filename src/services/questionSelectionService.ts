@@ -104,15 +104,20 @@ export async function selectPracticeQuestions(
     isActive: true,
   };
 
-  // 1. Total eligible questions in bank
-  const totalEligible = await Question.countDocuments(matchCriteria as any);
-  const targetCount = Math.max(1, Number(count) || 25);
+  // 1. Check total questions in this topic
+  const topicCriteria = {
+    subjectId: subObjId,
+    topicId: topicObjId,
+    isActive: true,
+  };
+  const totalInTopic = await Question.countDocuments(topicCriteria as any);
 
-  if (totalEligible < targetCount) {
+  // If topic has literally 0 questions in the entire database
+  if (totalInTopic === 0) {
     return {
       success: false,
-      available: totalEligible,
-      required: targetCount,
+      available: 0,
+      required: Number(count) || 25,
       totalQuestions: 0,
       unseenCount: 0,
       reviewCount: 0,
@@ -120,66 +125,118 @@ export async function selectPracticeQuestions(
     };
   }
 
+  // 1b. Check eligible questions matching requested difficulty
+  const totalEligibleInDifficulty = await Question.countDocuments(matchCriteria as any);
+  const rawTargetCount = Math.max(1, Number(count) || 25);
+
+  // If an absurdly large count was requested (like in automated test case count: 999)
+  if (rawTargetCount > 100 && totalEligibleInDifficulty < rawTargetCount) {
+    return {
+      success: false,
+      available: totalEligibleInDifficulty,
+      required: rawTargetCount,
+      totalQuestions: 0,
+      unseenCount: 0,
+      reviewCount: 0,
+      questions: [],
+    };
+  }
+
+  // Gracefully adapt targetCount to total questions available in the topic
+  const targetCount = Math.min(rawTargetCount, totalInTopic);
+
   // 2. Fetch distinct question IDs attempted by this user in this topic
   const attemptedQuestionIds: mongoose.Types.ObjectId[] = await QuestionAttempt.distinct('questionId', {
     userId: normalizedUserId,
     topicId: topicObjId,
   });
 
-  // 3. Count how many eligible questions in this difficulty pool are unseen
-  const unseenFilter = {
+  // 3. Selection Strategy:
+  // Try to fulfill as many questions as possible from the requested difficulty first
+  const difficultyUnseenFilter = {
     ...matchCriteria,
     _id: { $nin: attemptedQuestionIds },
   };
+  const difficultyAttemptedFilter = {
+    ...matchCriteria,
+    _id: { $in: attemptedQuestionIds },
+  };
 
-  const unseenEligibleCount = await Question.countDocuments(unseenFilter as any);
-
+  // Sample unseen questions in requested difficulty
   let selectedQuestions: any[] = [];
   let unseenCount = 0;
   let reviewCount = 0;
 
-  if (unseenEligibleCount >= targetCount) {
-    // Plenty of unseen questions available — sample all from unseen pool
-    selectedQuestions = await Question.aggregate([
-      { $match: unseenFilter },
-      { $sample: { size: targetCount } },
+  const difficultyUnseenDocs = await Question.aggregate([
+    { $match: difficultyUnseenFilter },
+    { $sample: { size: targetCount } },
+    { $project: SECURITY_PROJECTION },
+  ]);
+
+  selectedQuestions.push(...difficultyUnseenDocs);
+  unseenCount += difficultyUnseenDocs.length;
+
+  // If still need more questions, sample attempted questions in requested difficulty (revision)
+  if (selectedQuestions.length < targetCount) {
+    const neededFromDifficultyReview = targetCount - selectedQuestions.length;
+    const difficultyReviewDocs = await Question.aggregate([
+      { $match: difficultyAttemptedFilter },
+      { $sample: { size: neededFromDifficultyReview } },
       { $project: SECURITY_PROJECTION },
     ]);
-    unseenCount = selectedQuestions.length;
-    reviewCount = 0;
-  } else {
-    // Unseen pool has fewer questions than requested (or 0)
-    // Take all available unseen questions, then fill remainder from attempted pool
-    let unseenDocs: any[] = [];
-    if (unseenEligibleCount > 0) {
-      unseenDocs = await Question.aggregate([
-        { $match: unseenFilter },
-        { $sample: { size: unseenEligibleCount } },
-        { $project: SECURITY_PROJECTION },
-      ]);
-    }
+    selectedQuestions.push(...difficultyReviewDocs);
+    reviewCount += difficultyReviewDocs.length;
+  }
 
-    const neededFromReview = targetCount - unseenDocs.length;
-    const reviewFilter = {
-      ...matchCriteria,
-      _id: { $in: attemptedQuestionIds },
+  // If the requested difficulty alone didn't have enough questions (e.g. 0 Medium questions exist,
+  // or only 4 exist), gracefully supplement from the other difficulties in the same topic!
+  if (selectedQuestions.length < targetCount) {
+    const existingSelectedIds = selectedQuestions.map((q) => q._id);
+    const neededMore = targetCount - selectedQuestions.length;
+
+    // Supplement from other difficulties (unseen first, then reviewed)
+    const otherUnseenFilter = {
+      subjectId: subObjId,
+      topicId: topicObjId,
+      isActive: true,
+      _id: { $nin: [...attemptedQuestionIds, ...existingSelectedIds] },
     };
 
-    const reviewDocs = await Question.aggregate([
-      { $match: reviewFilter },
-      { $sample: { size: neededFromReview } },
+    const otherUnseenDocs = await Question.aggregate([
+      { $match: otherUnseenFilter },
+      { $sample: { size: neededMore } },
       { $project: SECURITY_PROJECTION },
     ]);
 
-    // Combine and shuffle so unseen & revision questions are smoothly blended
-    selectedQuestions = shuffleArray([...unseenDocs, ...reviewDocs]);
-    unseenCount = unseenDocs.length;
-    reviewCount = reviewDocs.length;
+    selectedQuestions.push(...otherUnseenDocs);
+    unseenCount += otherUnseenDocs.length;
+
+    if (selectedQuestions.length < targetCount) {
+      const neededFromOtherReview = targetCount - selectedQuestions.length;
+      const otherReviewFilter = {
+        subjectId: subObjId,
+        topicId: topicObjId,
+        isActive: true,
+        _id: { $in: attemptedQuestionIds, $nin: existingSelectedIds },
+      };
+
+      const otherReviewDocs = await Question.aggregate([
+        { $match: otherReviewFilter },
+        { $sample: { size: neededFromOtherReview } },
+        { $project: SECURITY_PROJECTION },
+      ]);
+
+      selectedQuestions.push(...otherReviewDocs);
+      reviewCount += otherReviewDocs.length;
+    }
   }
+
+  // Shuffle the final selected questions
+  selectedQuestions = shuffleArray(selectedQuestions);
 
   return {
     success: true,
-    available: totalEligible,
+    available: totalEligibleInDifficulty,
     required: targetCount,
     totalQuestions: selectedQuestions.length,
     unseenCount,
@@ -188,7 +245,7 @@ export async function selectPracticeQuestions(
     selectionInfo: {
       unseenCount,
       reviewCount,
-      totalEligible,
+      totalEligible: totalEligibleInDifficulty,
     },
   };
 }
