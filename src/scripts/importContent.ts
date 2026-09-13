@@ -8,6 +8,7 @@ import { Subject } from '../models/Subject';
 import { Topic } from '../models/Topic';
 import { Question } from '../models/Question';
 import { loadValidationContext, validateQuestion } from '../services/validation/contentValidator';
+import { ensureSSCExamHierarchy } from './seedExamHierarchy';
 
 // Resolve paths
 const CONTENT_DIR = path.resolve(__dirname, '../../content');
@@ -137,6 +138,12 @@ async function runImporter() {
   await mongoose.connect(mongoUri);
   console.log('✅ Connected to MongoDB successfully.\n');
 
+  // 0. Ensure SSC CGL Exam Hierarchy exists
+  const { exam, stage, paper } = await ensureSSCExamHierarchy();
+  const examId = exam._id as mongoose.Types.ObjectId;
+  const stageId = stage._id as mongoose.Types.ObjectId;
+  const paperId = paper._id as mongoose.Types.ObjectId;
+
   // 1. Sync Subjects
   const subjectSlugToId = new Map<string, mongoose.Types.ObjectId>();
   if (fs.existsSync(SUBJECTS_FILE)) {
@@ -154,6 +161,9 @@ async function runImporter() {
         doc.description = s.description;
         doc.order = s.order ?? 0;
         doc.isActive = s.isActive ?? true;
+        doc.examId = examId;
+        doc.stageId = stageId;
+        doc.paperId = paperId;
         await doc.save();
       } else {
         doc = await Subject.create({
@@ -162,6 +172,9 @@ async function runImporter() {
           description: s.description,
           order: s.order ?? 0,
           isActive: s.isActive ?? true,
+          examId,
+          stageId,
+          paperId,
         });
       }
 
@@ -207,6 +220,9 @@ async function runImporter() {
             slug: t.slug,
             order: t.order ?? 0,
             isActive: t.isActive ?? true,
+            examId,
+            stageId,
+            paperId,
           },
         },
         { upsert: true, returnDocument: 'after' }
@@ -380,6 +396,9 @@ async function runImporter() {
             $set: {
               subjectId: resolvedSubjectId,
               topicId: resolvedTopicId,
+              examId,
+              stageId,
+              paperId,
               questionText: q.questionText.trim(),
               optionA: formatted.optionA,
               optionB: formatted.optionB,

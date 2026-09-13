@@ -1,10 +1,27 @@
 import mongoose, { Schema, Document } from 'mongoose';
 
-export type QuestionType = 'PYQ' | 'PYQ_INSPIRED' | 'SAMPLE_PAPER' | 'RELATED_PRACTICE';
-export type SourceType = 'OFFICIAL_PYQ' | 'INTERNAL' | 'REFERENCE_BOOK' | 'EXAM_MEMORY';
+export type QuestionType =
+  | 'PYQ'
+  | 'PYQ_INSPIRED'
+  | 'SAMPLE_PAPER'
+  | 'RELATED_PRACTICE'
+  | 'PRACTICE'
+  | 'MODEL'
+  | 'CURRENT_AFFAIRS';
+
+export type SourceType =
+  | 'OFFICIAL_PYQ'
+  | 'INTERNAL'
+  | 'REFERENCE_BOOK'
+  | 'EXAM_MEMORY'
+  | string;
+
 export type QAStatus = 'DRAFT' | 'REVIEW' | 'VERIFIED' | 'REJECTED';
 
 export interface IQuestion extends Document {
+  examId?: mongoose.Types.ObjectId;
+  stageId?: mongoose.Types.ObjectId;
+  paperId?: mongoose.Types.ObjectId;
   subjectId: mongoose.Types.ObjectId;
   topicId: mongoose.Types.ObjectId;
   questionText: string;
@@ -19,6 +36,8 @@ export interface IQuestion extends Document {
   sourceType?: SourceType;
   qaStatus?: QAStatus;
   year?: number;
+  sourceYear?: number;
+  sourceDate?: Date;
   exam?: string;
   tier?: number;
   shift?: string;
@@ -31,6 +50,9 @@ export interface IQuestion extends Document {
 
 const questionSchema = new Schema<IQuestion>(
   {
+    examId: { type: Schema.Types.ObjectId, ref: 'Exam', required: false },
+    stageId: { type: Schema.Types.ObjectId, ref: 'ExamStage', required: false },
+    paperId: { type: Schema.Types.ObjectId, ref: 'ExamPaper', required: false },
     subjectId: { type: Schema.Types.ObjectId, ref: 'Subject', required: true },
     topicId: { type: Schema.Types.ObjectId, ref: 'Topic', required: true },
     questionText: { type: String, required: true },
@@ -43,12 +65,11 @@ const questionSchema = new Schema<IQuestion>(
     difficulty: { type: String, enum: ['Easy', 'Medium', 'Hard'], required: true },
     questionType: {
       type: String,
-      enum: ['PYQ', 'PYQ_INSPIRED', 'SAMPLE_PAPER', 'RELATED_PRACTICE'],
+      enum: ['PYQ', 'PYQ_INSPIRED', 'SAMPLE_PAPER', 'RELATED_PRACTICE', 'PRACTICE', 'MODEL', 'CURRENT_AFFAIRS'],
       default: 'PYQ_INSPIRED',
     },
     sourceType: {
       type: String,
-      enum: ['OFFICIAL_PYQ', 'INTERNAL', 'REFERENCE_BOOK', 'EXAM_MEMORY'],
       default: 'INTERNAL',
     },
     qaStatus: {
@@ -57,6 +78,8 @@ const questionSchema = new Schema<IQuestion>(
       default: 'VERIFIED',
     },
     year: { type: Number },
+    sourceYear: { type: Number },
+    sourceDate: { type: Date },
     exam: { type: String },
     tier: { type: Number },
     shift: { type: String },
@@ -75,5 +98,17 @@ questionSchema.index({ isActive: 1 });
 questionSchema.index({ qaStatus: 1 });
 questionSchema.index({ questionType: 1 });
 questionSchema.index({ subjectId: 1, topicId: 1, difficulty: 1, isActive: 1 });
+
+// Multi-exam query indexes
+questionSchema.index({ examId: 1, isActive: 1 });
+questionSchema.index({
+  examId: 1,
+  stageId: 1,
+  paperId: 1,
+  subjectId: 1,
+  topicId: 1,
+  difficulty: 1,
+  isActive: 1,
+});
 
 export const Question = mongoose.model<IQuestion>('Question', questionSchema);
