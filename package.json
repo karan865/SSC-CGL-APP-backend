@@ -12,6 +12,7 @@
     "import:file": "tsx src/scripts/importContent.ts --file",
     "validate-content": "tsx src/scripts/validateContent.ts",
     "content-report": "tsx src/scripts/contentReport.ts",
+    "export:docs": "tsx src/scripts/exportQuestionsOnly.ts",
     "test": "tsx src/scripts/testMockFlow.ts && tsx src/scripts/testPerformanceFlow.ts && tsx src/scripts/testSmartSelection.ts && tsx src/scripts/testRevisionFlow.ts && tsx src/scripts/testStudyPlanFlow.ts && tsx src/scripts/testStreakFlow.ts"
   },
   "keywords": [],

@@ -1,0 +1,677 @@
+[
+  {
+    "questionText": "Find the odd one out:",
+    "options": [
+      "Copper",
+      "Iron",
+      "Gold",
+      "Brass"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Copper, Iron, and Gold are pure chemical elements/metals, whereas Brass is an alloy (Copper + Zinc).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q2] Find the odd one out: (Options: January, March...)",
+    "options": [
+      "January",
+      "March",
+      "July",
+      "November"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "January, March, and July have 31 days each, while November has 30 days.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q3] Find the odd one out: (Options: Square, Rectangle...)",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Cube"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Square, Rectangle, and Rhombus are two-dimensional (2D) planar figures, whereas Cube is three-dimensional (3D).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q4] Find the odd one out: (Options: Eagle, Bat...)",
+    "options": [
+      "Eagle",
+      "Bat",
+      "Ostrich",
+      "Penguin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Eagle, Ostrich, and Penguin are birds (Aves), whereas Bat is a mammal (Mammalia).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q5] Find the odd one out: (Options: Carrot, Radish...)",
+    "options": [
+      "Carrot",
+      "Radish",
+      "Beetroot",
+      "Tomato"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Carrot, Radish, and Beetroot grow underground (root vegetables), while Tomato grows above ground (fruit/fruiting vegetable).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q6] Find the odd one out: (Options: 27, 64...)",
+    "options": [
+      "27",
+      "64",
+      "125",
+      "144"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "27 (3\u00b3), 64 (4\u00b3), and 125 (5\u00b3) are perfect cubes, whereas 144 is only a perfect square (12\u00b2).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q7] Find the odd one out: (Options: 17, 23...)",
+    "options": [
+      "17",
+      "23",
+      "29",
+      "33"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "17, 23, and 29 are prime numbers, whereas 33 is a composite number (3 * 11).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q8] Find the odd one out: (Options: Kathakali, Bharatanatyam...)",
+    "options": [
+      "Kathakali",
+      "Bharatanatyam",
+      "Odissi",
+      "Bhangra"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Kathakali, Bharatanatyam, and Odissi are classical dances of India, whereas Bhangra is a folk dance of Punjab.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q9] Find the odd one out: (Options: Eyes, Nose...)",
+    "options": [
+      "Eyes",
+      "Nose",
+      "Ears",
+      "Heart"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Eyes, Nose, and Ears are external sensory organs, whereas Heart is an internal organ.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q10] Find the odd one out: (Options: Curd, Butter...)",
+    "options": [
+      "Curd",
+      "Butter",
+      "Cheese",
+      "Oil"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Curd, Butter, and Cheese are dairy products derived from milk, whereas Oil is vegetable/plant-derived.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q11] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q12] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q13] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q14] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q15] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q16] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q17] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q18] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q19] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q20] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q21] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q22] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q23] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q24] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q25] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q26] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q27] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q28] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q29] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q30] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q31] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q32] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q33] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q34] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q35] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q36] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q37] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q38] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q39] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q40] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q41] Select the odd letter/number cluster from the given alternatives: (Options: 25, 36...)",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "25 (5\u00b2), 36 (6\u00b2), 49 (7\u00b2) are perfect squares; 54 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q42] Select the odd letter/number cluster from the given alternatives: (Options: 13, 17...)",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "13, 17, 19 are prime numbers; 21 is divisible by 3 and 7.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q43] Select the odd letter/number cluster from the given alternatives: (Options: 121, 169...)",
+    "options": [
+      "121",
+      "169",
+      "225",
+      "289"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "121 (11\u00b2), 169 (13\u00b2), 289 (17\u00b2) are squares of prime numbers; 225 is 15\u00b2 (composite).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q44] Select the odd letter/number cluster from the given alternatives: (Options: 48, 64...)",
+    "options": [
+      "48",
+      "64",
+      "80",
+      "95"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "48, 64, 80 are divisible by 16; 95 is not.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q45] Select the odd letter/number cluster from the given alternatives: (Options: B, D...)",
+    "options": [
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "B(2), D(4), F(6) have even alphabet positions; I(9) is odd.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

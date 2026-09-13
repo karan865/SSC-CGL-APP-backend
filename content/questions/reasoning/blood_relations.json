@@ -1,0 +1,677 @@
+[
+  {
+    "questionText": "Pointing to a photograph, a man said, 'I have no brother or sister but that man\\'s father is my father\\'s son.' Whose photograph was it?",
+    "options": [
+      "His son's",
+      "His father's",
+      "His own",
+      "His nephew's"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'My father\\'s son' with no brothers means the speaker himself. Since the man\\'s father is the speaker himself, the photograph is of his son.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing to a lady, a man said, 'Her mother\\'s only daughter is my mother.' How is the man related to the lady?",
+    "options": [
+      "Son",
+      "Brother",
+      "Nephew",
+      "Husband"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The lady\\'s mother\\'s only daughter is the lady herself. So the lady is the man\\'s mother. Thus, the man is her son.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Introducing a girl, Vipin said, 'Her mother is the only daughter of my mother-in-law.' How is Vipin related to the girl?",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Husband"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vipin\\'s mother-in-law\\'s only daughter is Vipin\\'s wife. Since the girl\\'s mother is Vipin\\'s wife, Vipin is the girl\\'s father.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A is B\\'s sister. C is B\\'s mother. D is C\\'s father. E is D\\'s mother. How is A related to D?",
+    "options": [
+      "Granddaughter",
+      "Daughter",
+      "Grandmother",
+      "Great granddaughter"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A is daughter of C, and C is daughter of D. Therefore, A is the granddaughter of D.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Grandmother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Only daughter of my mother' is the woman herself. So the woman is his mother.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P + Q means P is the brother of Q; P - Q means P is the sister of Q; and P * Q means P is the father of Q, which of the following means that C is the son of M?",
+    "options": [
+      "M * N - C + F",
+      "M * C - F",
+      "M + N * C",
+      "M * N + C"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "M * N means M is father of N. N - C means N is sister of C. C + F means C is brother of F. So C is male and a child of M, hence C is the son of M.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A man said to a lady, 'Your mother\\'s husband\\'s sister is my aunt.' How is the lady related to the man?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Mother",
+      "Granddaughter"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lady\\'s mother\\'s husband is lady\\'s father. Lady\\'s father\\'s sister is lady\\'s aunt. Since she is also the man\\'s aunt, the lady is the man\\'s sister (or cousin). In standard SSC options, Sister.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing to a person, Deepak said, 'His only brother is the father of my daughter\\'s father.' How is the person related to Deepak?",
+    "options": [
+      "Uncle",
+      "Father",
+      "Grandfather",
+      "Brother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'My daughter\\'s father' is Deepak himself. Deepak\\'s father is the only brother of the person. So the person is the brother of Deepak\\'s father, i.e., Deepak\\'s paternal uncle.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A is the brother of B. B is the daughter of C. D is the father of A. How is C related to D?",
+    "options": [
+      "Wife",
+      "Mother",
+      "Sister",
+      "Daughter"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A and B are brother and sister. Their father is D. Since B is the daughter of C, C must be the mother, meaning C is the wife of D.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If A is the son of Q, Q and Y are sisters, Z is the mother of Y, P is the son of Z, then which of the following statements is true?",
+    "options": [
+      "P is the maternal uncle of A",
+      "P is the brother of A",
+      "Z is the sister of A",
+      "P and Q are sisters"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q and Y are sisters, Z is their mother. P is the son of Z, so P is brother of Q and Y. Since Q is the mother of A, P is the maternal uncle of A.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Introducing a man, a woman said, 'He is the only son of my mother\\'s mother.' How is the woman related to the man?",
+    "options": [
+      "Niece",
+      "Mother",
+      "Aunt",
+      "Sister"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Woman\\'s mother\\'s mother is maternal grandmother. Grandmother\\'s only son is maternal uncle. Woman is the niece of the man.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A\\'s mother is the sister of B and has a daughter C. How is A related to B\\'s niece?",
+    "options": [
+      "Brother (or Self)",
+      "Uncle",
+      "Nephew",
+      "Father"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "B\\'s sister has daughter C, so C is B\\'s niece. A is also the child of B\\'s sister, so A is the brother of B\\'s niece C.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing to a photograph, a woman says, 'This man\\'s son\\'s sister is my mother-in-law.' How is the woman\\'s husband related to the man in the photograph?",
+    "options": [
+      "Grandson",
+      "Son",
+      "Nephew",
+      "Son-in-law"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Man\\'s son\\'s sister is the man\\'s daughter. She is the mother-in-law of the woman. Woman\\'s husband is her son. So he is the daughter\\'s son of the man in the photograph, which means Grandson.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "B is the brother of A, whose only sister is mother of C. D is maternal grandmother of C. How is A related to D?",
+    "options": [
+      "Daughter",
+      "Son",
+      "Brother",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A\\'s only sister is mother of C, so D (maternal grandmother of C) is the mother of A\\'s sister and A. Since A has an 'only sister' and B is male, A must be female (daughter) or male (son). In SSC official key, A is the daughter.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Rahul\\'s mother is the only daughter of Monika\\'s father. How is Monika\\'s husband related to Rahul?",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Grandfather"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Monika\\'s father\\'s only daughter is Monika herself. So Rahul\\'s mother is Monika. Therefore, Monika\\'s husband is Rahul\\'s father.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "P is the father of Q and R is the son of S. T is the brother of P. If Q is the sister of R, how is S related to T?",
+    "options": [
+      "Sister-in-law",
+      "Brother",
+      "Daughter",
+      "Wife"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is sister of R, so Q and R are siblings. P is their father, R is son of S, so S is their mother (P\\'s wife). T is brother of P, so S is T\\'s sister-in-law.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing to Ketan, Namrata said, 'He is the son of my father\\'s only son.' How is Ketan\\'s mother related to Namrata?",
+    "options": [
+      "Sister-in-law",
+      "Sister",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Namrata\\'s father\\'s only son is Namrata\\'s brother. Ketan is his son. Ketan\\'s mother is the wife of Namrata\\'s brother, so she is Namrata\\'s sister-in-law.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "X is the husband of Y. W is the daughter of X. Z is the husband of W. N is the daughter of Z. How is Y related to N?",
+    "options": [
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother",
+      "Sister"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "X and Y are husband and wife. W is their daughter. N is the daughter of W. Therefore, Y is the maternal grandmother (Nani) of N.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If 'A $ B' means A is the brother of B; 'A @ B' means A is the wife of B; 'A # B' means A is the daughter of B, what does 'P # Q @ R $ S' mean?",
+    "options": [
+      "P is the daughter of R",
+      "P is the niece of S",
+      "P is the sister of S",
+      "P is the mother of S"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q @ R means Q is wife of R. P # Q means P is daughter of Q. So P is daughter of both Q and R. R $ S means R is brother of S. Hence P is the daughter of R.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Sunil is the son of Keshav. Simran, Keshav\\'s sister, has a son Maruti and daughter Sita. Prem is the maternal uncle of Maruti. How is Sunil related to Maruti?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Uncle",
+      "Nephew"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sunil is the son of Keshav, while Maruti is the son of Simran (Keshav\\'s sister). Children of siblings are cousins.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A man pointing to a lady says, 'Her grandfather is the only son of my grandfather.' How is the lady related to the man?",
+    "options": [
+      "Daughter",
+      "Sister",
+      "Niece",
+      "Aunt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speaker\\'s grandfather\\'s only son is the speaker\\'s father. If the lady\\'s grandfather is the speaker\\'s father, the speaker is the lady\\'s father (or uncle). Thus the lady is his daughter.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "M is the sister of K. D is the brother of K. F is the mother of M. How is K related to F?",
+    "options": [
+      "Son or Daughter",
+      "Son",
+      "Daughter",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "F is the mother of M, K, and D. Since the gender of K is not specified in the statement, K is either the son or daughter of F.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A is father of C and D is son of B. E is brother of A. If C is sister of D, how is B related to E?",
+    "options": [
+      "Sister-in-law",
+      "Sister",
+      "Mother",
+      "Daughter"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "C and D are siblings. A is father, so B must be mother (A\\'s wife). E is brother of A, so B is E\\'s sister-in-law.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pointing towards a girl, Chetan said, 'She is the daughter of the only child of my grandmother.' How is Chetan related to that girl?",
+    "options": [
+      "Brother",
+      "Father",
+      "Uncle",
+      "Cousin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chetan\\'s grandmother\\'s only child is Chetan\\'s father/mother. The girl is the daughter of that child, so the girl is Chetan\\'s sister, meaning Chetan is her brother.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Ravi\\'s brother is Suresh. Suresh\\'s sister is Meena. Ravi\\'s father is Ram. How is Meena related to Ram?",
+    "options": [
+      "Daughter",
+      "Sister",
+      "Mother",
+      "Niece"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ravi, Suresh, and Meena are all siblings with Ram as their father. Therefore, Meena is Ram\\'s daughter.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Amit introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Amit?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amit\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Amit, Amit is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Rohit introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Rohit?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Rohit\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Rohit, Rohit is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Vikram introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Vikram?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vikram\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Vikram, Vikram is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Pooja introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Pooja?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pooja\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Pooja, Pooja is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Anjali introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Anjali?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Anjali\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Anjali, Anjali is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Karan introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Karan?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Karan\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Karan, Karan is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Suresh introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Suresh?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Suresh\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Suresh, Suresh is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Manish introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Manish?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Manish\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Manish, Manish is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Priya introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Priya?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Priya\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Priya, Priya is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Neha introduces a boy saying, 'He is the son of the only brother of my father.' How is the boy related to Neha?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Nephew",
+      "Uncle"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Neha\\'s father\\'s brother is paternal uncle. The uncle\\'s son is a cousin.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If P is the mother of Neha, Neha is the sister of Q, and Q is the father of R, how is P related to R?",
+    "options": [
+      "Paternal Grandmother",
+      "Maternal Grandmother",
+      "Aunt",
+      "Mother"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Q is the father of R, and P is the mother of Q. Therefore, P is the paternal grandmother of R.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "questionText": "Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-11] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-12] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-13] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-14] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-15] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-16] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-17] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-18] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-19] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-20] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-21] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-22] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-23] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-24] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-25] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-26] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-27] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-28] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-29] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-30] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-31] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-32] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-33] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-34] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-35] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-36] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-37] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-38] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-39] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-40] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-41] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-42] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-43] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-44] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-45] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-46] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-47] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-48] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-49] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-50] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-51] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-52] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-53] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-54] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-55] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-56] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-57] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-58] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-59] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-60] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-61] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-62] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-63] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-64] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-65] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-66] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-67] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-68] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-69] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-70] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-71] Select the one-word substitute for: 'A person who loves or collects books'",
+    "options": [
+      "Bibliophile",
+      "Bibliographer",
+      "Philanthropist",
+      "Polyglot"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Bibliophile is an avid lover and collector of books.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-72] Select the one-word substitute for: 'One who looks on the bright side of things'",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Stoic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Optimist is someone who anticipates positive outcomes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-73] Select the one-word substitute for: 'One who looks on the dark side of things'",
+    "options": [
+      "Pessimist",
+      "Cynic",
+      "Skeptic",
+      "Misogynist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Pessimist expects the worst possible result.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-74] Select the one-word substitute for: 'A person who does not believe in the existence of God'",
+    "options": [
+      "Atheist",
+      "Agnostic",
+      "Theist",
+      "Monotheist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An Atheist rejects belief in the existence of deities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-75] Select the one-word substitute for: 'One who eats human flesh'",
+    "options": [
+      "Cannibal",
+      "Carnivore",
+      "Herbivore",
+      "Omnivore"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Cannibal consumes members of its own species (specifically human flesh).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-76] Select the one-word substitute for: 'A handwriting that cannot be easily read'",
+    "options": [
+      "Illegible",
+      "Eligible",
+      "Inaudible",
+      "Illiterate"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Illegible handwriting is impossible or nearly impossible to read.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-77] Select the one-word substitute for: 'A person who speaks many languages'",
+    "options": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Polyglot is someone who knows and is able to use several languages fluently.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-78] Select the one-word substitute for: 'The murder of a king'",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Patricide",
+      "Fratricide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Regicide is the act of killing a king or monarch.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-79] Select the one-word substitute for: 'An animal that lives both on land and in water'",
+    "options": [
+      "Amphibian",
+      "Reptile",
+      "Mammal",
+      "Aquatic"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amphibians (like frogs and salamanders) live both on land and in water.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[OWS-80] Select the one-word substitute for: 'A remedy for all diseases'",
+    "options": [
+      "Panacea",
+      "Antibiotic",
+      "Elixir",
+      "Placebo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A Panacea is a universal remedy or cure-all.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  }
+]

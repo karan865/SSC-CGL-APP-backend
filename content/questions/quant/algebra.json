@@ -1,0 +1,1052 @@
+[
+  {
+    "questionText": "If x + 1/x = 5, find the value of x² + 1/x².",
+    "options": [
+      "23",
+      "25",
+      "27",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x + 1/x)² = x² + 1/x² + 2. So x² + 1/x² = 5² - 2 = 25 - 2 = 23.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x + 1/x = 4, find the value of x³ + 1/x³.",
+    "options": [
+      "52",
+      "64",
+      "48",
+      "56"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 4³ - 3(4) = 64 - 12 = 52.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x - 1/x = 3, find the value of x² + 1/x².",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "13"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x - 1/x)² = x² + 1/x² - 2 => x² + 1/x² = 3² + 2 = 9 + 2 = 11.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x - 1/x = 4, find the value of x³ - 1/x³.",
+    "options": [
+      "76",
+      "64",
+      "52",
+      "68"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x³ - 1/x³ = (x - 1/x)³ + 3(x - 1/x) = 4³ + 3(4) = 64 + 12 = 76.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x + 1/x = 3, find the value of x⁴ + 1/x⁴.",
+    "options": [
+      "47",
+      "49",
+      "51",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x² + 1/x² = 3² - 2 = 7. Then x⁴ + 1/x⁴ = 7² - 2 = 49 - 2 = 47.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If a + b + c = 0, what is the value of (a³ + b³ + c³) / (3abc)?",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "-1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "If a + b + c = 0, then by algebraic identity, a³ + b³ + c³ = 3abc. Therefore, (a³ + b³ + c³) / (3abc) = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If a + b + c = 6 and a² + b² + c² = 14, find the value of ab + bc + ca.",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(a + b + c)² = a² + b² + c² + 2(ab + bc + ca) => 6² = 14 + 2(ab + bc + ca) => 36 - 14 = 22 = 2(ab + bc + ca) => ab + bc + ca = 11.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If a + b + c = 9, ab + bc + ca = 26, find the value of a³ + b³ + c³ - 3abc.",
+    "options": [
+      "27",
+      "81",
+      "54",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "a³ + b³ + c³ - 3abc = (a + b + c)[(a + b + c)² - 3(ab + bc + ca)] = 9 * [9² - 3(26)] = 9 * [81 - 78] = 9 * 3 = 27.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = 1, find the value of x¹² + x⁶ + 1.",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "-1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x + 1/x = 1 => x² - x + 1 = 0. Multiplying by (x + 1): x³ + 1 = 0 => x³ = -1. Therefore, x⁶ = (x³)² = (-1)² = 1, and x¹² = (x⁶)² = 1. Value = 1 + 1 + 1 = 3.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x + 1/x = -1, find the value of x³.",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x + 1/x = -1 => x² + x + 1 = 0. Multiplying by (x - 1): x³ - 1 = 0 => x³ = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x + 1/x = √3, find the value of x⁶ + 1.",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Cubing both sides: x³ + 1/x³ = (√3)³ - 3(√3) = 3√3 - 3√3 = 0 => (x⁶ + 1) / x³ = 0 => x⁶ + 1 = 0.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If (a - 1)² + (b - 2)² + (c - 3)² = 0, find the value of a + b + c.",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Since squares of real numbers are non-negative, their sum is 0 if and only if each term is 0. So a = 1, b = 2, c = 3. a + b + c = 1 + 2 + 3 = 6.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x = 997, y = 998, z = 999, find the value of x² + y² + z² - xy - yz - zx.",
+    "options": [
+      "3",
+      "1",
+      "6",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Identity: x² + y² + z² - xy - yz - zx = (1/2) * [ (x - y)² + (y - z)² + (z - x)² ] = (1/2) * [ (-1)² + (-1)² + (2)² ] = (1/2) * [1 + 1 + 4] = 6 / 2 = 3.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + y = 12 and xy = 32, find the value of x² + y².",
+    "options": [
+      "80",
+      "144",
+      "64",
+      "112"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x² + y² = (x + y)² - 2xy = 12² - 2(32) = 144 - 64 = 80.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x + y = 10 and x² + y² = 58, find the value of xy.",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x + y)² = x² + y² + 2xy => 100 = 58 + 2xy => 2xy = 42 => xy = 21.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If 2x + 1/(3x) = 4, find the value of 9x² + 1/(4x²).",
+    "options": [
+      "33",
+      "36",
+      "30",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Multiply the equation by 3/2: (3/2)*(2x) + (3/2)*(1/(3x)) = 4*(3/2) => 3x + 1/(2x) = 6. Square both sides: 9x² + 1/(4x²) + 2*(3x)*(1/(2x)) = 36 => 9x² + 1/(4x²) + 3 = 36 => 9x² + 1/(4x²) = 33.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a + 1/a = 2, find the value of a⁶⁴ + 1/a⁶⁴.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "a + 1/a = 2 => (a - 1)² = 0 => a = 1. So a⁶⁴ + 1/a⁶⁴ = 1⁶⁴ + 1/1⁶⁴ = 1 + 1 = 2.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If a + 1/a = -2, find the value of a³⁷ + 1/a³⁷.",
+    "options": [
+      "-2",
+      "2",
+      "0",
+      "-1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "a + 1/a = -2 => (a + 1)² = 0 => a = -1. Since 37 is odd, (-1)³⁷ + 1/(-1)³⁷ = -1 + (-1) = -2.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x = 3 + 2√2, find the value of x + 1/x.",
+    "options": [
+      "6",
+      "4√2",
+      "3",
+      "2√2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1/x = 1 / (3 + 2√2) = (3 - 2√2) / (9 - 8) = 3 - 2√2. So x + 1/x = (3 + 2√2) + (3 - 2√2) = 6.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x = 3 + 2√2, find the value of √x - 1/√x.",
+    "options": [
+      "2",
+      "√2",
+      "2√2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x = (√2 + 1)² so √x = √2 + 1. Then 1/√x = √2 - 1. So √x - 1/√x = (√2 + 1) - (√2 - 1) = 2.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = 5, find the value of x^5 + 1/x^5.",
+    "options": [
+      "2525",
+      "2520",
+      "2530",
+      "2500"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x² + 1/x²) = 5² - 2 = 23. (x³ + 1/x³) = 5³ - 3(5) = 110. (x² + 1/x²)(x³ + 1/x³) = x^5 + 1/x^5 + (x + 1/x) => 23 * 110 = x^5 + 1/x^5 + 5 => 2530 - 5 = 2525.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a + b + c = 7 and a³ + b³ + c³ - 3abc = 301, find the value of ab + bc + ca.",
+    "options": [
+      "4",
+      "2",
+      "-2",
+      "6"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a³ + b³ + c³ - 3abc = (a + b + c)[(a + b + c)² - 3(ab + bc + ca)] => 301 = 7 * [49 - 3k] => 43 = 49 - 3k => 3k = 6 => k = 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x⁴ + x²y² + y⁴ = 21 and x² + xy + y² = 7, find the value of 1/x² + 1/y².",
+    "options": [
+      "5/4",
+      "5/2",
+      "7/4",
+      "3/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x² + xy + y²)(x² - xy + y²) = x⁴ + x²y² + y⁴ ⇒ 7 × (x² - xy + y²) = 21 ⇒ x² - xy + y² = 3. Adding the two equations: 2(x² + y²) = 10 ⇒ x² + y² = 5. Subtracting gives: 2xy = 4 ⇒ xy = 2 ⇒ x²y² = 4. Therefore, 1/x² + 1/y² = x² + y²/x²y² = 5/4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 2 + √3, find the value of (x⁶ + x⁴ + x² + 1)/x³.",
+    "options": [
+      "52",
+      "56",
+      "64",
+      "48"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(x⁶ + x⁴ + x² + 1)/x³ = (x³ + 1/x³) + (x + 1/x). Since x = 2 + √3, 1/x = 2 - √3 => x + 1/x = 4. x³ + 1/x³ = 4³ - 3(4) = 52. Total = 52 + 4 = 56.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 2x - 1/(2x) = 5, find the value of 4x² + 1/(4x²).",
+    "options": [
+      "25",
+      "27",
+      "23",
+      "29"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(2x - 1/(2x))² = 4x² + 1/(4x²) - 2 => 25 = 4x² + 1/(4x²) - 2 => 4x² + 1/(4x²) = 27.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a² + b² + c² + 96 = 8(a + b - 2c), find the value of √(ab - bc + ca).",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(a² - 8a + 16) + (b² - 8b + 16) + (c² + 16c + 64) = 0 ⇒ (a - 4)² + (b - 4)² + (c + 8)² = 0. Thus a = 4, b = 4, c = -8. √(ab - bc + ca) = √(16 - (-32) + (-32)) = √(16) = 4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = √5 + 2, find the value of x³ - 1/x³.",
+    "options": [
+      "76",
+      "18√5",
+      "72",
+      "34√5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1/x = √5 - 2. x - 1/x = (√5 + 2) - (√5 - 2) = 4. x³ - 1/x³ = (x - 1/x)³ + 3(x - 1/x) = 4³ + 3(4) = 64 + 12 = 76.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 99, y = 100, z = 101, find the value of x² + y² + z² - xy - yz - zx.",
+    "options": [
+      "1",
+      "3",
+      "0",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "x² + y² + z² - xy - yz - zx = 1/2 * [(x - y)² + (y - z)² + (z - x)²] = 1/2 * [(-1)² + (-1)² + (2)²] = 1/2 * (1 + 1 + 4) = 3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + y = 3 and x² + y² = 101, find the value of x³ + y³.",
+    "options": [
+      "417",
+      "427",
+      "437",
+      "441"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "(x + y)² = x² + y² + 2xy => 9 = 101 + 2xy => 2xy = -92 => xy = -46. x³ + y³ = (x + y)(x² - xy + y²) = 3 * (101 - (-46)) = 3 * 147 = 441.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x/y + y/x = -1 (where x, y ≠ 0), find the value of x³ - y³.",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "(x² + y²)/(xy) = -1 => x² + y² + xy = 0. x³ - y³ = (x - y)(x² + xy + y²) = (x - y) * 0 = 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = 5, find the value of x⁵ + 1/x⁵.",
+    "options": [
+      "2525",
+      "2520",
+      "2530",
+      "2500"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x² + 1/x² = 5² - 2 = 23 x³ + 1/x³ = 5³ - 3(5) = 110 (x² + 1/x²)(x³ + 1/x³) = x⁵ + 1/x⁵ + (x + 1/x) 23 × 110 = x⁵ + 1/x⁵ + 5 ⇒ 2530 - 5 = 2525.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 2 + √(3), find the value of x^6 + x⁴ + x² + 1/x³.",
+    "options": [
+      "52",
+      "56",
+      "64",
+      "48"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "x^6 + x⁴ + x² + 1/x³ = (x³ + 1/x³) + (x + 1/x). Since x = 2 + √(3), 1/x = 2 - √(3) ⇒ x + 1/x = 4. x³ + 1/x³ = 4³ - 3(4) = 52. Total = 52 + 4 = 56.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 2x - 1/2x = 5, find the value of 4x² + 1/4x².",
+    "options": [
+      "25",
+      "27",
+      "23",
+      "29"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(2x - 1/2x)² = 4x² + 1/4x² - 2 ⇒ 25 = 4x² + 1/4x² - 2 ⇒ 4x² + 1/4x² = 27.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = √(5) + 2, find the value of x³ - 1/x³.",
+    "options": [
+      "76",
+      "18√(5)",
+      "72",
+      "34√(5)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1/x = √(5) - 2 ⇒ x - 1/x = (√(5) + 2) - (√(5) - 2) = 4. x³ - 1/x³ = (x - 1/x)³ + 3(x - 1/x) = 4³ + 3(4) = 64 + 12 = 76.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = 5, find the value of x² - 1/x².",
+    "options": [
+      "5√(21)",
+      "25",
+      "10√(21)",
+      "5√(23)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 5√(21).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x² + 1/x² = 38, find the value of x - 1/x (where x > 0).",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 6.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = √(5), find the value of x³ + 1/x³.",
+    "options": [
+      "2√(5)",
+      "3√(5)",
+      "4√(5)",
+      "5√(5)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2√(5).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a + b + c = 9, and ab + bc + ca = 26, find the value of a³ + b³ + c³ - 3abc.",
+    "options": [
+      "27",
+      "81",
+      "54",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 27.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a³ + b³ = 72 and ab = 8, find the value of a + b.",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 6.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + y + z = 0, find the value of x²/yz + y²/zx + z²/xy.",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "-3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 2^x = 3^y = 6^{-z}, find the value of (1/x + 1/y + 1/z).",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the value of √{6 + √{6 + √(6 + ... \\infty)}}.",
+    "options": [
+      "3",
+      "2",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the value of √{20 - √{20 - √(20 - ... \\infty)}}.",
+    "options": [
+      "4",
+      "5",
+      "20",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a = √(3) + √(2) and b = √(3) - √(2), find the value of a² + b².",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 3 + 2√(2), find the value of √(x) - \\frac{1}{√(x)}.",
+    "options": [
+      "2",
+      "1",
+      "2√(2)",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If α and β are the roots of the equation x² - 5x + 6 = 0, find the value of α² + β².",
+    "options": [
+      "13",
+      "25",
+      "12",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 13.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If α and β are the roots of the equation 2x² - 3x + 1 = 0, find the quadratic equation whose roots are α/β and β/α.",
+    "options": [
+      "2x² - 5x + 2 = 0",
+      "x² - 3x + 2 = 0",
+      "2x² - 3x + 1 = 0",
+      "x² - 5x + 1 = 0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2x² - 5x + 2 = 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The sum of two numbers is 15 and their product is 56. Find the sum of their reciprocals.",
+    "options": [
+      "15/56",
+      "56/15",
+      "1/15",
+      "1/56"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 15/56.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a and b are the roots of x² - px + q = 0, find the value of 1/a + 1/b.",
+    "options": [
+      "p/q",
+      "q/p",
+      "-p/q",
+      "-q/p"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): p/q.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "What must be added to 4x² - 12x to make it a perfect square?",
+    "options": [
+      "9",
+      "36",
+      "16",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 9.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x/x² - 5x + 1 = 1/6, find the value of x + 1/x.",
+    "options": [
+      "11",
+      "6",
+      "5",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 11.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a/b + b/a = 1, find the value of a³ + b³.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a⁴ + a²b² + b⁴ = 8 and a² + ab + b² = 4, find the value of ab.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x² - 4x + 1 = 0, find the value of x³ + 1/x³.",
+    "options": [
+      "52",
+      "64",
+      "48",
+      "60"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 52.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If (a+b+c) = 15 and a²+b²+c² = 83, find the value of a³+b³+c³ - 3abc.",
+    "options": [
+      "180",
+      "160",
+      "200",
+      "240"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 180.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If p = 99, find the value of p(p² + 3p + 3).",
+    "options": [
+      "999999",
+      "1000000",
+      "99999",
+      "9999"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 999999.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x - y = 4 and xy = 45, find the value of x³ - y³.",
+    "options": [
+      "604",
+      "594",
+      "614",
+      "584"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 604.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 2x + 1/3x = 5, find the value of 5x/6x² + 20x + 1.",
+    "options": [
+      "1/7",
+      "1/5",
+      "1/6",
+      "1/4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1/7.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 2 - √(3), find the value of x³ - 1/x³.",
+    "options": [
+      "-30√(3)",
+      "-18√(3)",
+      "30√(3)",
+      "18√(3)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): -30√(3).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a² + b² + c² = 2(a - b - c) - 3, find the value of 4a - 3b + 5c.",
+    "options": [
+      "2",
+      "0",
+      "4",
+      "-2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If (x-a)² + (y-b)² + (z-c)² = 0, and a=3, b=4, c=5, find x+y+z.",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 12.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = √(3), find the value of x^{18} + x^{12} + x^6 + 1.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a/b = 2/3 and b/c = 4/5, find the value of a+b/b+c.",
+    "options": [
+      "20/27",
+      "27/20",
+      "8/15",
+      "15/8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 20/27.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = 11, find the value of x⁵ - 12x⁴ + 12x³ - 12x² + 12x - 1.",
+    "options": [
+      "10",
+      "11",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x² + y² = 29 and xy = 10, where x > 0, y > 0, x > y, find the value of x+y/x-y.",
+    "options": [
+      "7/3",
+      "3/7",
+      "7/2",
+      "2/7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 7/3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a²/bc + b²/ca + c²/ab = 3, find the value of a + b + c (assuming a, b, c are real and not all equal).",
+    "options": [
+      "0",
+      "3",
+      "1",
+      "abc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x⁴ + 1/x⁴ = 119, find the value of x³ - 1/x³ (where x > 1).",
+    "options": [
+      "36",
+      "24",
+      "42",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 36.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 3x - 2y = 5 and xy = 4, find the value of 27x³ - 8y³.",
+    "options": [
+      "485",
+      "385",
+      "585",
+      "415"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 485.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a + b = 5 and a² + b² = 13, find the value of a - b (where a > b).",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x + 1/x = 2, find the value of x²⁰²⁶ + \\frac{1}{x²⁰²⁶}.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "2026"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

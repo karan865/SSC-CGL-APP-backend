@@ -1,0 +1,1127 @@
+[
+  {
+    "questionText": "Which is the longest river in India?",
+    "options": [
+      "Ganga",
+      "Godavari",
+      "Yamuna",
+      "Brahmaputra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Ganga is the longest river running within India with a length of 2,525 km.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which river is known as the 'Dakshin Ganga' (Ganga of the South)?",
+    "options": [
+      "Godavari",
+      "Krishna",
+      "Cauvery",
+      "Mahanadi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Godavari is the longest peninsular river (1,465 km) and is known as Dakshin Ganga.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Palk Strait separates India from which country?",
+    "options": [
+      "Sri Lanka",
+      "Maldives",
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Palk Strait lies between Tamil Nadu (India) and the Jaffna district of Sri Lanka.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which latitude line passes through the middle of India?",
+    "options": [
+      "Tropic of Cancer (23.5\u00b0 N)",
+      "Equator (0\u00b0)",
+      "Tropic of Capricorn (23.5\u00b0 S)",
+      "Prime Meridian"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Tropic of Cancer (23.5\u00b0 N) passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which is the highest peak in India (located in Sikkim)?",
+    "options": [
+      "Kanchenjunga",
+      "Nanda Devi",
+      "Kamet",
+      "K2 (Godwin-Austen)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kanchenjunga (8,586 m) is the highest peak situated in undisputed Indian territory (Sikkim). K2 lies in PoK.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which soil is also popularly known as 'Regur Soil'?",
+    "options": [
+      "Black Soil",
+      "Alluvial Soil",
+      "Red Soil",
+      "Laterite Soil"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Black soil is known as Regur soil or black cotton soil, ideal for cotton cultivation due to high moisture retention.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Majuli, the world's largest inhabited river island, is located on which river?",
+    "options": [
+      "Brahmaputra",
+      "Ganga",
+      "Indus",
+      "Godavari"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Majuli is an island in the Brahmaputra River in Assam.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which state of India has the longest coastline?",
+    "options": [
+      "Gujarat",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gujarat has the longest mainland coastline in India (approx 1,600 km).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The 'Standard Meridian of India' (82\u00b030' E) passes through which city in Uttar Pradesh?",
+    "options": [
+      "Mirzapur (near Prayagraj)",
+      "Varanasi",
+      "Lucknow",
+      "Kanpur"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 82\u00b030' E longitude passing through Mirzapur determines Indian Standard Time (IST), which is UTC+5:30.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which is the largest freshwater lake in India?",
+    "options": [
+      "Wular Lake",
+      "Chilika Lake",
+      "Sambhar Lake",
+      "Vembanad Lake"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India, formed by tectonic activity and fed by Jhelum.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-16] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-17] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-18] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-19] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-20] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-21] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-22] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-23] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-24] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-25] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-26] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-27] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-28] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-29] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-30] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-31] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-32] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-33] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-34] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-35] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-36] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-37] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-38] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-39] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-40] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-41] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-42] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-43] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-44] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-45] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-46] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-47] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-48] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-49] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-50] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-51] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-52] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-53] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-54] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-55] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-56] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-57] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-58] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-59] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-60] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-61] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-62] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-63] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-64] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-65] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-66] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-67] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-68] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-69] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-70] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-71] Jim Corbett National Park, India's first national park established in 1936, is in:",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Nainital district of Uttarakhand, originally named Hailey National Park.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-72] Kaziranga National Park in Assam is famous for:",
+    "options": [
+      "One-horned Rhinoceros",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "Snow Leopard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kaziranga hosts two-thirds of the world's great one-horned rhinoceroses.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-73] Sundarbans Delta is formed by the confluence of which rivers?",
+    "options": [
+      "Ganga and Brahmaputra",
+      "Ganga and Yamuna",
+      "Indus and Jhelum",
+      "Godavari and Krishna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sundarbans delta is formed by the Ganga, Brahmaputra, and Meghna rivers.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-74] The Western Ghats and Eastern Ghats meet at which hills?",
+    "options": [
+      "Nilgiri Hills",
+      "Anaimalai Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Nilgiri Hills in Tamil Nadu serve as the junction of the Western and Eastern Ghats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Geo-75] Which is the highest waterfall in India?",
+    "options": [
+      "Kunchikal Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kunchikal Falls (455 m) on the Varahi river in Karnataka is the highest tiered waterfall in India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

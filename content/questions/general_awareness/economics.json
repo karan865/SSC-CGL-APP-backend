@@ -1,0 +1,1052 @@
+[
+  {
+    "questionText": "In which year was the Reserve Bank of India (RBI) nationalized?",
+    "options": [
+      "1949",
+      "1935",
+      "1947",
+      "1951"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "RBI was established on April 1, 1935 under the RBI Act 1934 and was nationalized on January 1, 1949.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who is known as the 'Father of Modern Economics'?",
+    "options": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Alfred Marshall",
+      "Karl Marx"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Adam Smith is considered the father of modern economics for his seminal work 'The Wealth of Nations' (1776).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Five-Year Plan in India was based on the 'Mahalanobis Model'?",
+    "options": [
+      "Second Five-Year Plan (1956-61)",
+      "First Five-Year Plan (1951-56)",
+      "Third Five-Year Plan (1961-66)",
+      "Fourth Five-Year Plan (1969-74)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Second Plan (1956-61) emphasized rapid industrialization and heavy industries based on P.C. Mahalanobis' model.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What does 'Repo Rate' refer to in banking?",
+    "options": [
+      "Rate at which RBI lends short-term funds to commercial banks",
+      "Rate at which commercial banks deposit funds with RBI",
+      "Interest rate on fixed deposits",
+      "Lending rate to retail customers"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Repo rate is the key policy interest rate at which the central bank (RBI) lends money to commercial banks against government securities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is 'Stagflation' characterized by in economics?",
+    "options": [
+      "High inflation combined with stagnant economic growth and high unemployment",
+      "Low inflation with high growth",
+      "High deflation with rapid growth",
+      "Stable prices with declining exports"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Stagflation is a situation of persistent high inflation combined with high unemployment and stagnant economic output.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The 'Goods and Services Tax' (GST) came into effect in India on which date?",
+    "options": [
+      "1st July 2017",
+      "1st April 2017",
+      "8th November 2016",
+      "15th August 2017"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "GST was introduced in India on July 1, 2017 under the 101st Constitutional Amendment Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which index is primarily used by the RBI as the headline measure of inflation for monetary policy?",
+    "options": [
+      "Consumer Price Index (Combined) CPI-C",
+      "Wholesale Price Index (WPI)",
+      "Gross Domestic Product Deflator",
+      "Producer Price Index (PPI)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Following the Urjit Patel committee recommendations, RBI adopted the Consumer Price Index (CPI-Combined) for inflation targeting.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which sector contributes the maximum share to India's Gross Domestic Product (GDP)?",
+    "options": [
+      "Services Sector",
+      "Agriculture Sector",
+      "Industrial Sector",
+      "Mining Sector"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Services (tertiary) sector accounts for over 53% of India's Gross Value Added (GVA).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the full form of 'NITI' in NITI Aayog?",
+    "options": [
+      "National Institution for Transforming India",
+      "National Institute for Technical Innovation",
+      "National Initiative for Trade and Industry",
+      "National Index for Technology in India"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on January 1, 2015.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Gresham's Law in economics states that:",
+    "options": [
+      "Bad money drives out good money",
+      "Good money drives out bad money",
+      "Supply creates its own demand",
+      "Demand creates its own supply"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gresham's Law is a monetary principle stating that 'bad money drives out good' from circulation if both have the same nominal value.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-16] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-17] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-18] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-19] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-20] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-21] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-22] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-23] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-24] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-25] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-26] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-27] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-28] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-29] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-30] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-31] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-32] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-33] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-34] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-35] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-36] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-37] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-38] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-39] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-40] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-41] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-42] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-43] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-44] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-45] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-46] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-47] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-48] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-49] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-50] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-51] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-52] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-53] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-54] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-55] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-56] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-57] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-58] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-59] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-60] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-61] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-62] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-63] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-64] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-65] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-66] What is 'Fiscal Deficit'?",
+    "options": [
+      "Excess of total expenditure over total receipts excluding borrowings",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total government borrowing",
+      "Budget deficit minus interest payments"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-67] The 'Lorenz Curve' is used to measure:",
+    "options": [
+      "Inequality in income or wealth distribution",
+      "Inflation rate",
+      "Unemployment rate",
+      "Poverty line"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lorenz curve represents income or wealth inequality graphically. The Gini coefficient is derived from it.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-68] Primary Deficit is calculated as:",
+    "options": [
+      "Fiscal Deficit - Interest Payments",
+      "Revenue Deficit - Grants",
+      "Budget Deficit - Borrowings",
+      "Total Deficit - Capital Receipts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Primary Deficit = Fiscal Deficit - Net Interest Payments made on past loans.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-69] The 'Phillips Curve' depicts the inverse relationship between:",
+    "options": [
+      "Inflation and Unemployment",
+      "Price and Demand",
+      "Income and Expenditure",
+      "Growth and Deficit"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between inflation and unemployment in the short run.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Eco-70] Which organization calculates and publishes the official National Income figures in India?",
+    "options": [
+      "National Statistical Office (NSO)",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) estimates GDP and National Income.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

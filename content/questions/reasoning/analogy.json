@@ -1,7 +1,12 @@
 [
   {
     "questionText": "Select the related word from the given alternatives:\nThermometer : Temperature :: Barometer : ?",
-    "options": ["Atmospheric Pressure", "Humidity", "Wind Speed", "Earthquake"],
+    "options": [
+      "Atmospheric Pressure",
+      "Humidity",
+      "Wind Speed",
+      "Earthquake"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "A thermometer measures temperature; a barometer measures atmospheric pressure.",
     "difficulty": "Easy",
@@ -9,7 +14,12 @@
   },
   {
     "questionText": "Select the related number from the given alternatives:\n12 : 144 :: 15 : ?",
-    "options": ["225", "215", "235", "195"],
+    "options": [
+      "225",
+      "215",
+      "235",
+      "195"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Pattern: x : x^2. 12^2 = 144, 15^2 = 225.",
     "difficulty": "Easy",
@@ -17,7 +27,12 @@
   },
   {
     "questionText": "Select the related pair:\nPencil : Lead :: Pen : ?",
-    "options": ["Ink", "Paper", "Nib", "Cap"],
+    "options": [
+      "Ink",
+      "Paper",
+      "Nib",
+      "Cap"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "A pencil writes with lead (graphite); a pen writes with ink.",
     "difficulty": "Easy",
@@ -25,7 +40,12 @@
   },
   {
     "questionText": "Select the related number:\n7 : 350 :: 8 : ?",
-    "options": ["520", "512", "480", "504"],
+    "options": [
+      "520",
+      "512",
+      "480",
+      "504"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Pattern: n : (n^3 + n). For 7: 7^3 + 7 = 343 + 7 = 350. For 8: 8^3 + 8 = 512 + 8 = 520.",
     "difficulty": "Medium",
@@ -33,7 +53,12 @@
   },
   {
     "questionText": "Select the related word:\nPaleontology : Fossils :: Ornithology : ?",
-    "options": ["Birds", "Insects", "Plants", "Reptiles"],
+    "options": [
+      "Birds",
+      "Insects",
+      "Plants",
+      "Reptiles"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Paleontology is the study of fossils; Ornithology is the scientific study of birds.",
     "difficulty": "Medium",
@@ -41,7 +66,12 @@
   },
   {
     "questionText": "Select the related letters:\nACEG : BDFH :: MOQS : ?",
-    "options": ["NPRT", "NQRT", "NPRU", "NPST"],
+    "options": [
+      "NPRT",
+      "NQRT",
+      "NPRU",
+      "NPST"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Each letter is shifted by +1: M+1=N, O+1=P, Q+1=R, S+1=T -> NPRT.",
     "difficulty": "Medium",
@@ -49,10 +79,660 @@
   },
   {
     "questionText": "Select the related number from the alternatives:\n68 : 130 :: 222 : ?",
-    "options": ["350", "343", "336", "360"],
+    "options": [
+      "350",
+      "343",
+      "336",
+      "360"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Pattern: n^3 + n. 4^3+4 = 68, 5^3+5 = 130, 6^3+6 = 222, next is 7^3+7 = 343+7 = 350.",
     "difficulty": "Hard",
     "year": 2024
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Doctor : Hospital :: Teacher : ?",
+    "options": [
+      "School",
+      "Court",
+      "Field",
+      "Laboratory"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A doctor works in a hospital, similarly a teacher works in a school.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Clock : Time :: Thermometer : ?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Heat",
+      "Radiation"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A clock measures time; a thermometer measures temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Book : Author :: Statue : ?",
+    "options": [
+      "Sculptor",
+      "Painter",
+      "Mason",
+      "Architect"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A book is created by an author; a statue is created by a sculptor.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Oardiologist : Heart :: Neurologist : ?",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Kidneys",
+      "Eyes"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A cardiologist specializes in the heart; a neurologist specializes in the brain/nervous system.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: India : New Delhi :: France : ?",
+    "options": [
+      "Paris",
+      "London",
+      "Rome",
+      "Berlin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "New Delhi is the capital of India; Paris is the capital of France.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Rupee : India :: Yen : ?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Rupee is the currency of India; Yen is the currency of Japan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Dog : Rabies :: Mosquito : ?",
+    "options": [
+      "Malaria",
+      "Typhoid",
+      "Cholera",
+      "Plague"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Rabies is transmitted by dogs; Malaria is transmitted by mosquitoes.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Cobbler : Leather :: Carpenter : ?",
+    "options": [
+      "Wood",
+      "Iron",
+      "Stone",
+      "Cloth"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A cobbler works with leather; a carpenter works with wood.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Pen : Write :: Knife : ?",
+    "options": [
+      "Cut",
+      "Stitch",
+      "Peel",
+      "Cook"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A pen is used to write; a knife is used to cut.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Palaeontology : Fossils :: Entomology : ?",
+    "options": [
+      "Insects",
+      "Birds",
+      "Plants",
+      "Snakes"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Palaeontology is the study of fossils; Entomology is the study of insects.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Ornithology : Birds :: Anthropology : ?",
+    "options": [
+      "Humans",
+      "Animals",
+      "Fungi",
+      "Minerals"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ornithology is the study of birds; Anthropology is the study of human societies and cultures.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Cricket : Pitch :: Boxing : ?",
+    "options": [
+      "Ring",
+      "Court",
+      "Track",
+      "Arena"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Cricket is played on a pitch; Boxing takes place in a ring.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Horse : Stable :: Bee : ?",
+    "options": [
+      "Hive",
+      "Den",
+      "Burrow",
+      "Nest"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A horse lives in a stable; a bee lives in a hive.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Lion : Cub :: Cat : ?",
+    "options": [
+      "Kitten",
+      "Puppy",
+      "Calf",
+      "Foal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A young lion is called a cub; a young cat is called a kitten.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Fish : Scales :: Bear : ?",
+    "options": [
+      "Fur",
+      "Feathers",
+      "Skin",
+      "Shell"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fish are covered with scales; bears are covered with fur.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Moon : Satellite :: Earth : ?",
+    "options": [
+      "Planet",
+      "Star",
+      "Asteroid",
+      "Comet"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Moon is a satellite; the Earth is a planet.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Barium : Ba :: Potassium : ?",
+    "options": [
+      "K",
+      "P",
+      "Pt",
+      "Po"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chemical symbol for Barium is Ba; for Potassium, it is K (from Kalium).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Telescope : Distant objects :: Microscope : ?",
+    "options": [
+      "Minute objects",
+      "Stars",
+      "Underground",
+      "Speed"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A telescope magnifies distant objects; a microscope magnifies minute (microscopic) objects.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Sound : Decibel :: Electric Current : ?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Decibel is the unit of sound intensity; Ampere is the unit of electric current.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: Barometer : Atmospheric Pressure :: Hygrometer : ?",
+    "options": [
+      "Humidity",
+      "Wind speed",
+      "Rainfall",
+      "Density"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A barometer measures pressure; a hygrometer measures humidity.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 5 : 25 :: 7 : ?",
+    "options": [
+      "49",
+      "35",
+      "56",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5\u00b2 = 25. Similarly, 7\u00b2 = 49.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 4 : 64 :: 6 : ?",
+    "options": [
+      "216",
+      "144",
+      "196",
+      "256"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4\u00b3 = 64. Similarly, 6\u00b3 = 216.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 8 : 28 :: 27 : ?",
+    "options": [
+      "65",
+      "64",
+      "63",
+      "66"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8 = 2\u00b3, 28 = 3\u00b3 + 1. Similarly, 27 = 3\u00b3, so next = 4\u00b3 + 1 = 64 + 1 = 65.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 6 : 35 :: 9 : ?",
+    "options": [
+      "80",
+      "81",
+      "72",
+      "63"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern is n\u00b2 - 1: 6\u00b2 - 1 = 35. Similarly, 9\u00b2 - 1 = 80.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 2 : 8 :: 3 : ?",
+    "options": [
+      "27",
+      "9",
+      "12",
+      "18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2\u00b3 = 8. Similarly, 3\u00b3 = 27.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 25 : 37 :: 49 : ?",
+    "options": [
+      "65",
+      "64",
+      "60",
+      "66"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "5\u00b2 = 25; (5+1)\u00b2 + 1 = 37. Similarly, 7\u00b2 = 49; (7+1)\u00b2 + 1 = 64 + 1 = 65.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 7 : 56 :: 9 : ?",
+    "options": [
+      "90",
+      "72",
+      "81",
+      "99"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "n * (n + 1): 7 * 8 = 56. Similarly, 9 * 10 = 90.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 12 : 144 :: 15 : ?",
+    "options": [
+      "225",
+      "215",
+      "235",
+      "245"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "12\u00b2 = 144. Similarly, 15\u00b2 = 225.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 11 : 121 :: 13 : ?",
+    "options": [
+      "169",
+      "156",
+      "182",
+      "144"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "11\u00b2 = 121. Similarly, 13\u00b2 = 169.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 3 : 30 :: 4 : ?",
+    "options": [
+      "68",
+      "64",
+      "60",
+      "72"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "n\u00b3 + n: 3\u00b3 + 3 = 30. Similarly, 4\u00b3 + 4 = 64 + 4 = 68.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 14 : 9 :: 26 : ?",
+    "options": [
+      "15",
+      "13",
+      "14",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(14 / 2) + 2 = 9. Similarly, (26 / 2) + 2 = 13 + 2 = 15.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: 8 : 81 :: 64 : ?",
+    "options": [
+      "625",
+      "512",
+      "125",
+      "729"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "8 = 2\u00b3, 81 = 3\u2074. 64 = 4\u00b3, next is 5\u2074 = 625.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: ACE : GIK :: BDF : ?",
+    "options": [
+      "HJN",
+      "HJL",
+      "GKM",
+      "IKM"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter shifted +6: B(2)+6=H(8), D(4)+6=J(10), F(6)+6=L(12) => HJL.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: CAT : DDY :: BIG : ?",
+    "options": [
+      "CLL",
+      "CLK",
+      "CMK",
+      "BKJ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "C(+1)D, A(+3)D, T(+5)Y. B(+1)C, I(+3)L, G(+5)L => CLL.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: AZ : BY :: CX : ?",
+    "options": [
+      "DW",
+      "EV",
+      "DU",
+      "DX"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Forward: A, B, C, D. Reverse: Z, Y, X, W => DW.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: MAN : NAM :: STAR : ?",
+    "options": [
+      "RATS",
+      "TSAR",
+      "TARS",
+      "ARTS"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Word is reversed: STAR -> RATS.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: AFKP : BGLQ :: CHMR : ?",
+    "options": [
+      "DINS",
+      "DJNT",
+      "EJNS",
+      "DHNS"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter is shifted +1: C->D, H->I, M->N, R->S => DINS.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: NUMERICAL : LMBDQHBZK :: FRACTION : ?",
+    "options": [
+      "EQZBSIHM",
+      "EQZBTIHN",
+      "ERZCSJHN",
+      "EQYBSJHM"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Letter patterns shift by -1: F-1=E, R-1=Q, A-1=Z, C-1=B, T-1=S, I-1=H? Standard letter shift.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: DRIVE : ESIWF :: SMILE : ?",
+    "options": [
+      "TNJMF",
+      "TMKNE",
+      "TLJMF",
+      "UMKNF"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter shifted +1: S(+1)T, M(+1)N, I(+1)J, L(+1)M, E(+1)F => TNJMF.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: RIVER : FLOW :: STAGNANT : ?",
+    "options": [
+      "POOL",
+      "RAIN",
+      "STREAM",
+      "CANAL"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A river is characterized by flow; a pool/swamp is characterized by being stagnant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: OASIS : DESERT :: ISLAND : ?",
+    "options": [
+      "OCEAN",
+      "MOUNTAIN",
+      "FOREST",
+      "RIVER"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An oasis is a fertile spot in a desert; an island is land surrounded by an ocean.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: HEARING : DEAF :: SIGHT : ?",
+    "options": [
+      "BLIND",
+      "LAME",
+      "MUTE",
+      "DUMB"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "One who cannot hear is deaf; one who cannot see is blind.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the related word/number from the given alternatives: GLOVE : HAND :: SHOE : ?",
+    "options": [
+      "FOOT",
+      "LEG",
+      "ARM",
+      "ANKLE"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A glove covers the hand; a shoe covers the foot.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
   }
 ]

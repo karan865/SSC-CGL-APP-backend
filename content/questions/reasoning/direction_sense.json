@@ -1,0 +1,677 @@
+[
+  {
+    "questionText": "A man walks 5 km South and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "options": [
+      "South-West",
+      "South-East",
+      "North-East",
+      "North-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Initial: South 5 km. Turn right (faces West) walks 3 km. Turn left (faces South) walks 5 km. Net position is South 10 km, West 3 km => South-West.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Ravi starts from his house and walks 2 km North, then turns right and walks 1 km, then turns right and walks 2 km. How far is he from his house?",
+    "options": [
+      "1 km",
+      "2 km",
+      "3 km",
+      "4 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "North 2 km, East 1 km, South 2 km. The North and South cancel out. He is 1 km East of his starting house.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A person walks 4 km East, turns right and walks 3 km. What is the shortest distance from the starting point?",
+    "options": [
+      "5 km",
+      "7 km",
+      "6 km",
+      "4.5 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras theorem, distance = sqrt(4\u00b2 + 3\u00b2) = sqrt(16 + 9) = sqrt(25) = 5 km.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In the morning, the sun is in the East, so shadows fall towards the West. If shadow is to Suresh's right, Suresh's right is West, which means he is facing South.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "One evening before sunset, Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In the evening, sun is in the West, so shadows fall towards East. Hema's right is East => Hema faces North. Since Rekha is talking face to face with Hema, Rekha faces South.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A person starts walking towards North. After walking 30 m, he turns left and walks 40 m. He then turns left and walks 30 m. How far and in which direction is he from his starting point?",
+    "options": [
+      "40 m West",
+      "40 m East",
+      "30 m North",
+      "50 m West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "North 30 m, West 40 m, South 30 m. The North and South motions cancel out. He is 40 m West of his starting point.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Deepak walks 20 m towards North. He turns left and walks 40 m. Again he turns left and walks 20 m. Further, he moves 20 m after turning to the right. How far is he from his original position?",
+    "options": [
+      "60 m",
+      "50 m",
+      "40 m",
+      "70 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "North 20 m, West 40 m, South 20 m (now at West 40 m). Turn right (faces West) and walks 20 m. Total distance from start = 40 + 20 = 60 m West.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Kunal walks 10 km towards North. From there he walks 6 km towards South. Then, he walks 3 km towards East. How far and in which direction is he with reference to his starting point?",
+    "options": [
+      "5 km North-East",
+      "5 km South-East",
+      "7 km North-East",
+      "5 km North-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Net North = 10 - 6 = 4 km. Net East = 3 km. Distance = sqrt(4\u00b2 + 3\u00b2) = 5 km in the North-East direction.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A clock is placed in such a way that at 12 o'clock its minute hand points towards North-East. In which direction does its hour hand point at 1:30?",
+    "options": [
+      "East",
+      "South-East",
+      "North",
+      "South"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "At 12 o'clock, 12 is usually North, but here it is rotated 45\u00b0 clockwise to North-East. At 1:30, the hour hand is between 1 and 2 (45\u00b0 past 12 normally = North-East). With 45\u00b0 rotation, it points East.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A boy rode his bicycle Northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km West of his starting point. How far did he ride northward initially?",
+    "options": [
+      "2 km",
+      "1 km",
+      "3 km",
+      "4 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Northward x km, West 1 km, South 2 km. He is 1 km West of starting point, so North x km and South 2 km must balance to 0, which means x = 2 km.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 15 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 20 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 25 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 30 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 10 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 15 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 20 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 25 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 30 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 10 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 15 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 20 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 25 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 30 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 10 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 15 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 20 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 25 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 30 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A traveler moves 10 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q31] A traveler moves 15 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q32] A traveler moves 20 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q33] A traveler moves 25 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q34] A traveler moves 30 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q35] A traveler moves 10 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q36] A traveler moves 15 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q37] A traveler moves 20 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q38] A traveler moves 25 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q39] A traveler moves 30 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q40] A traveler moves 10 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q41] A traveler moves 15 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 15 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q42] A traveler moves 20 m East, turns left and walks 12 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 20 m and North 12 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q43] A traveler moves 25 m East, turns left and walks 16 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 25 m and North 16 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q44] A traveler moves 30 m East, turns left and walks 20 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 30 m and North 20 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q45] A traveler moves 10 m East, turns left and walks 24 m. In which direction and distance (approx) is the traveler from the initial spot? (Options: North-East, South-East...)",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South-West"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "East 10 m and North 24 m places the traveler in the North-East quadrant.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

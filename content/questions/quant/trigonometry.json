@@ -1,0 +1,977 @@
+[
+  {
+    "questionText": "If sin theta + cos theta = √2 * cos(90° - theta), find the value of cot theta.",
+    "options": [
+      "√2 - 1",
+      "√2 + 1",
+      "1 / √2",
+      "√3 - 1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cos(90° - theta) = sin theta. So sin theta + cos theta = √2 * sin theta => cos theta = (√2 - 1) * sin theta => cot theta = cos theta / sin theta = √2 - 1.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If tan theta = 4/3, find the value of (3 sin theta + 2 cos theta) / (3 sin theta - 2 cos theta).",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Divide numerator and denominator by cos theta: (3 tan theta + 2) / (3 tan theta - 2) = (3 * (4/3) + 2) / (3 * (4/3) - 2) = (4 + 2) / (4 - 2) = 6 / 2 = 3.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Evaluate: (cos 1° * cos 2° * cos 3° * ... * cos 179°).",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The product includes the term cos 90°. Since cos 90° = 0, the entire product is 0.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If sec theta + tan theta = 5, what is the value of sec theta - tan theta?",
+    "options": [
+      "1/5",
+      "5",
+      "1/25",
+      "2/5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Since sec² theta - tan² theta = 1, (sec theta + tan theta)(sec theta - tan theta) = 1. Therefore, sec theta - tan theta = 1 / 5.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If sec theta + tan theta = 3, what is the value of sin theta?",
+    "options": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "1/3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sec theta + tan theta = 3, sec theta - tan theta = 1/3. Adding: 2 sec theta = 3 + 1/3 = 10/3 => sec theta = 5/3 => cos theta = 3/5. Therefore, sin theta = sqrt(1 - (3/5)²) = 4/5.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If x = a cos theta and y = b sin theta, then find the value of (x² / a²) + (y² / b²).",
+    "options": [
+      "1",
+      "0",
+      "a² + b²",
+      "a²b²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x/a) = cos theta, (y/b) = sin theta. (x²/a²) + (y²/b²) = cos² theta + sin² theta = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The angle of elevation of the top of a tower from a point on the ground 30 m away from the foot of the tower is 30°. Find the height of the tower.",
+    "options": [
+      "10√3 m",
+      "15√3 m",
+      "30√3 m",
+      "20√3 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan 30° = Height / Distance => 1 / √3 = h / 30 => h = 30 / √3 = 10√3 meters.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A ladder 15 m long just reaches the top of a vertical wall. If the ladder makes an angle of 60° with the wall, find the height of the wall.",
+    "options": [
+      "7.5 m",
+      "15√3/2 m",
+      "10 m",
+      "12 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The ladder makes 60° with the WALL, so cos 60° = Height / Ladder length => 1/2 = h / 15 => h = 7.5 meters.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the maximum value of 3 sin theta + 4 cos theta.",
+    "options": [
+      "5",
+      "7",
+      "1",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The maximum value of a sin theta + b cos theta is sqrt(a² + b²). Maximum = sqrt(3² + 4²) = sqrt(9 + 16) = sqrt(25) = 5.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the minimum value of 9 sin² theta + 16 cosec² theta for 0 < theta < 90°.",
+    "options": [
+      "24",
+      "25",
+      "12",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The minimum value of a sin² theta + b cosec² theta is 2 * sqrt(a * b) = 2 * sqrt(9 * 16) = 2 * sqrt(144) = 2 * 12 = 24.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If cosec theta + cot theta = 2, find the value of cosec theta.",
+    "options": [
+      "5/4",
+      "3/4",
+      "4/5",
+      "3/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cosec theta + cot theta = 2, cosec theta - cot theta = 1/2. Adding both: 2 cosec theta = 2 + 1/2 = 5/2 => cosec theta = 5/4.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Evaluate: sin² 25° + sin² 65°.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin 65° = cos(90° - 65°) = cos 25°. Therefore, sin² 25° + sin² 65° = sin² 25° + cos² 25° = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Evaluate: tan 10° * tan 20° * tan 70° * tan 80°.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "√3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan 80° = cot 10° and tan 70° = cot 20°. Product = (tan 10° * cot 10°) * (tan 20° * cot 20°) = 1 * 1 = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If 2 sin(3x) = √3, find the value of x (where 0° < 3x < 90°).",
+    "options": [
+      "20°",
+      "30°",
+      "15°",
+      "45°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin(3x) = √3 / 2 = sin 60° => 3x = 60° => x = 20°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Simplify: (1 - sin² theta) * (1 + tan² theta).",
+    "options": [
+      "1",
+      "cos² theta",
+      "sin² theta",
+      "tan² theta"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "1 - sin² theta = cos² theta. 1 + tan² theta = sec² theta. Expression = cos² theta * sec² theta = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If sin theta - cos theta = 0, find the value of (sin⁴ theta + cos⁴ theta).",
+    "options": [
+      "1/2",
+      "1",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin theta = cos theta => tan theta = 1 => theta = 45°. sin 45° = cos 45° = 1/√2. sin⁴ 45° + cos⁴ 45° = (1/√2)⁴ + (1/√2)⁴ = 1/4 + 1/4 = 1/2.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Two poles of heights 6 m and 11 m stand vertically on a plane ground. If the distance between their feet is 12 m, find the distance between their tops.",
+    "options": [
+      "13 m",
+      "14 m",
+      "15 m",
+      "12.5 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Difference in heights = 11 - 6 = 5 m. Horizontal distance = 12 m. Distance between tops = sqrt(5² + 12²) = sqrt(25 + 144) = sqrt(169) = 13 m.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If cos theta / (1 - sin theta) + cos theta / (1 + sin theta) = 4, find theta (0° < theta < 90°).",
+    "options": [
+      "60°",
+      "30°",
+      "45°",
+      "75°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cos theta * [ (1 + sin theta + 1 - sin theta) / (1 - sin² theta) ] = cos theta * 2 / cos² theta = 2 / cos theta = 2 sec theta = 4 => sec theta = 2 => theta = 60°.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If tan theta + cot theta = 2, find the value of tan¹⁰ theta + cot¹⁰ theta.",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan theta + 1/tan theta = 2 => (tan theta - 1)² = 0 => tan theta = 1. So cot theta = 1. tan¹⁰ theta + cot¹⁰ theta = 1¹⁰ + 1¹⁰ = 1 + 1 = 2.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If sin(A + B) = 1 and cos(A - B) = √3/2, where A and B are acute angles, find the values of A and B.",
+    "options": [
+      "A = 60°, B = 30°",
+      "A = 45°, B = 45°",
+      "A = 75°, B = 15°",
+      "A = 50°, B = 40°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin(A + B) = 1 => A + B = 90°. cos(A - B) = √3/2 => A - B = 30°. Adding: 2A = 120° => A = 60°. B = 90° - 60° = 30°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the value of: [sin 30° * cos 60° + cos 30° * sin 60°].",
+    "options": [
+      "1",
+      "0",
+      "1/2",
+      "√3/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Formula: sin A cos B + cos A sin B = sin(A + B). Here sin(30° + 60°) = sin 90° = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If 7 sin² theta + 3 cos² theta = 4, then find tan theta.",
+    "options": [
+      "1/√3",
+      "√3",
+      "1",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4 sin² theta + 3(sin² theta + cos² theta) = 4 => 4 sin² theta + 3(1) = 4 => 4 sin² theta = 1 => sin² theta = 1/4 => sin theta = 1/2 => theta = 30°. tan 30° = 1/√3.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "From a point on a bridge across a river, the angles of depression of the banks on opposite sides are 30° and 45°. If the bridge is at a height of 30 m, find the width of the river.",
+    "options": [
+      "30(√3 + 1) m",
+      "30(√3 - 1) m",
+      "60√3 m",
+      "45√3 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let width = x1 + x2. tan 30° = 30 / x1 => x1 = 30√3. tan 45° = 30 / x2 => x2 = 30. Total width = x1 + x2 = 30√3 + 30 = 30(√3 + 1) meters.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: (sec² 10° - cot² 80°).",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cot 80° = tan 10°. Therefore, sec² 10° - cot² 80° = sec² 10° - tan² 10° = 1.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If tan theta = 1, find the value of (8 sin theta + 5 cos theta) / (sin³ theta - 2 cos³ theta + 7 cos theta).",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan theta = 1 => theta = 45°. sin 45° = cos 45° = 1/√2. Divide by cos theta: (8 + 5) / ( (1/√2)² - 2(1/√2)² + 7 )? With sin=cos=1/√2: Num = 13 / √2. Denom = 1/(2√2) - 2/(2√2) + 7/√2 = (-1 + 14)/(2√2) = 13 / (2√2). Num / Denom = (13 / √2) / (13 / 2√2) = 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 3 sin θ + 4 cos θ = 5, find the value of tan θ.",
+    "options": [
+      "3/4",
+      "4/3",
+      "1",
+      "5/3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Divide by 5: (3/5) sin θ + (4/5) cos θ = 1. Comparing with sin² θ + cos² θ = 1 gives sin θ = 3/5 and cos θ = 4/5. Therefore, tan θ = sin θ / cos θ = 3/4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sec θ + tan θ = p, what is the value of sin θ?",
+    "options": [
+      "(p² - 1) / (p² + 1)",
+      "(p² + 1) / (p² - 1)",
+      "2p / (p² + 1)",
+      "p / (p² - 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sec θ + tan θ = p, and sec θ - tan θ = 1/p. Adding: 2 sec θ = p + 1/p = (p² + 1)/p => sec θ = (p² + 1)/(2p). Subtracting: 2 tan θ = (p² - 1)/p => tan θ = (p² - 1)/(2p). Therefore, sin θ = tan θ / sec θ = (p² - 1) / (p² + 1).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: cos 1° × cos 2° × cos 3° × ... × cos 179°.",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "1/2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The product includes the term cos 90°. Since cos 90° = 0, the entire product is equal to 0.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If tan θ + cot θ = 5, find the value of tan² θ + cot² θ.",
+    "options": [
+      "23",
+      "25",
+      "27",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Squaring both sides: (tan θ + cot θ)² = 5² => tan² θ + cot² θ + 2(tan θ * cot θ) = 25 => tan² θ + cot² θ + 2(1) = 25 => tan² θ + cot² θ = 23.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sin θ + sin² θ = 1, find the value of cos² θ + cos⁴ θ.",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin θ = 1 - sin² θ = cos² θ. Squaring both sides: sin² θ = cos⁴ θ. Therefore, cos² θ + cos⁴ θ = sin θ + sin² θ = 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the simplified value of: (sec A - cos A)² + (cosec A - sin A)² - (cot A - tan A)².",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Let A = 45°. sec 45° = √2, cos 45° = 1/√2 => sec - cos = 1/√2, square = 1/2. cosec - sin = 1/√2, square = 1/2. cot 45° - tan 45° = 0. Value = 1/2 + 1/2 - 0 = 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = a sec θ cos φ, y = b sec θ sin φ, and z = c tan θ, find the value of (x²/a²) + (y²/b²) - (z²/c²).",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x²/a² + y²/b² = sec² θ cos² φ + sec² θ sin² φ = sec² θ (cos² φ + sin² φ) = sec² θ. Then (x²/a² + y²/b²) - z²/c² = sec² θ - tan² θ = 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The angle of elevation of the top of a tower from two points at a distance of 'a' and 'b' from the base (in the same straight line) are complementary. Find the height of the tower.",
+    "options": [
+      "√(ab)",
+      "a/b",
+      "ab",
+      "a+b"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let height be h and angles be θ and (90° - θ). tan θ = h/a and tan(90° - θ) = cot θ = h/b. Multiplying both equations: tan θ * cot θ = (h/a) * (h/b) => 1 = h² / (ab) => h = √(ab).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "From the top of a 120 m high lighthouse, the angles of depression of two ships on opposite sides of the base are 30° and 60°. What is the distance between the ships?",
+    "options": [
+      "160√3 m",
+      "120√3 m",
+      "240 m",
+      "80√3 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Distance to first ship d1 = 120 / tan 30° = 120 / (1/√3) = 120√3 m. Distance to second ship d2 = 120 / tan 60° = 120 / √3 = 40√3 m. Since they are on opposite sides, total distance = d1 + d2 = 120√3 + 40√3 = 160√3 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If cos A + cos² A = 1, find the value of sin² A + sin⁴ A.",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cos A = 1 - cos² A = sin² A. Squaring gives cos² A = sin⁴ A. Therefore, sin² A + sin⁴ A = cos A + cos² A = 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "What is the maximum value of 5 sin θ + 12 cos θ?",
+    "options": [
+      "17",
+      "13",
+      "7",
+      "119"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Maximum value of a sin θ + b cos θ is √(a² + b²). Maximum = √(5² + 12²) = √(25 + 144) = √169 = 13.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If tan A = 1/2 and tan B = 1/3, find the value of A + B.",
+    "options": [
+      "45°",
+      "30°",
+      "60°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan(A + B) = (tan A + tan B) / (1 - tan A tan B) = (1/2 + 1/3) / (1 - 1/6) = (5/6) / (5/6) = 1. Therefore, A + B = 45°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: tan 10° × tan 20° × tan 30° × tan 70° × tan 80°.",
+    "options": [
+      "1/√3",
+      "√3",
+      "1",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan 80° = cot 10°, tan 70° = cot 20°. (tan 10° cot 10°) * (tan 20° cot 20°) * tan 30° = 1 * 1 * (1/√3) = 1/√3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sin (A - B) = 1/2 and cos (A + B) = 1/2, where A and B are positive acute angles, find A and B.",
+    "options": [
+      "A=45°, B=15°",
+      "A=60°, B=30°",
+      "A=30°, B=15°",
+      "A=45°, B=30°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin(A - B) = 1/2 => A - B = 30°. cos(A + B) = 1/2 => A + B = 60°. Adding: 2A = 90° => A = 45°. B = 60° - 45° = 15°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A tree breaks due to a storm. The broken part bends so that the top of the tree touches the ground making an angle of 30° with it. The distance from the foot of the tree to the point where the top touches the ground is 8 m. Find the original height of the tree.",
+    "options": [
+      "8√3 m",
+      "16√3 m",
+      "24 m",
+      "12√3 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let upright height be h and broken hypotenuse be L. tan 30° = h / 8 => h = 8 / √3. cos 30° = 8 / L => L = 8 / (√3/2) = 16 / √3. Total height = h + L = 24 / √3 = 8√3 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If cosec θ - cot θ = 1/4, find the value of cosec θ + cot θ.",
+    "options": [
+      "4",
+      "1/4",
+      "2",
+      "1/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Since cosec² θ - cot² θ = 1, (cosec θ - cot θ)(cosec θ + cot θ) = 1. Therefore, cosec θ + cot θ = 1 / (1/4) = 4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: sin² 5° + sin² 10° + sin² 15° + ... + sin² 85° + sin² 90°.",
+    "options": [
+      "9.5",
+      "8.5",
+      "9",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pairs like sin² 5° + sin² 85° = 1. Number of terms from 5 to 85 is 17. Form 8 pairs (= 8), plus middle term sin² 45° = (1/√2)² = 0.5, plus sin² 90° = 1. Total sum = 8 + 0.5 + 1 = 9.5.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "What is the minimum value of 4 tan² θ + 9 cot² θ?",
+    "options": [
+      "12",
+      "13",
+      "6",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Minimum value of a tan² θ + b cot² θ is 2√(ab) = 2√(4 * 9) = 2√36 = 2 * 6 = 12.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = a cos³ θ and y = b sin³ θ, then find the value of (x/a)^(2/3) + (y/b)^(2/3).",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "a² + b²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(x/a)^(2/3) = (cos³ θ)^(2/3) = cos² θ. (y/b)^(2/3) = (sin³ θ)^(2/3) = sin² θ. Sum = cos² θ + sin² θ = 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If tan θ = 4/3, find the value of (3 sin θ + 2 cos θ) / (3 sin θ - 2 cos θ).",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Divide numerator and denominator by cos θ: (3 tan θ + 2) / (3 tan θ - 2) = (3 * 4/3 + 2) / (3 * 4/3 - 2) = (4 + 2) / (4 - 2) = 6 / 2 = 3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sin θ + cos θ = √2 cos θ, find the value of cot θ.",
+    "options": [
+      "√2 + 1",
+      "√2 - 1",
+      "1/√2",
+      "√3 - 1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin θ = (√2 - 1) cos θ => cot θ = cos θ / sin θ = 1 / (√2 - 1) = √2 + 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sec² θ + tan² θ = 7, find the value of θ (where 0° < θ < 90°).",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "15°"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "sec² θ - tan² θ = 1. Adding to sec² θ + tan² θ = 7 gives 2 sec² θ = 8 => sec² θ = 4 => sec θ = 2 => θ = 60°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If 7 sin² θ + 3 cos² θ = 4, find the value of tan θ.",
+    "options": [
+      "1/√3",
+      "1/2",
+      "1",
+      "√3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "4 sin² θ + 3(sin² θ + cos² θ) = 4 => 4 sin² θ + 3 = 4 => 4 sin² θ = 1 => sin θ = 1/2 => θ = 30°. tan 30° = 1/√3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man walking 20 m towards a tower observes that the angle of elevation of the top changes from 30° to 60°. Find the height of the tower.",
+    "options": [
+      "10√3 m",
+      "20√3 m",
+      "15√3 m",
+      "30 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Distance formula: d = h(cot 30° - cot 60°) => 20 = h(√3 - 1/√3) = h(2/√3) => h = 20 * (√3/2) = 10√3 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A balloon is connected to a meteorological ground station by a cable of length L inclined at 60° to the horizontal. Assuming there is no slack in the cable, what is the height of the balloon?",
+    "options": [
+      "L√3 / 2",
+      "L / 2",
+      "L√3",
+      "2L / √3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin 60° = Height / Cable length => √3 / 2 = h / L => h = L√3 / 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If cos θ = 2p / (1 + p²), find tan θ.",
+    "options": [
+      "(1 - p²) / 2p",
+      "(p² - 1) / 2p",
+      "2p / (1 - p²)",
+      "(1 + p²) / 2p"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Base = 2p, Hypotenuse = 1 + p². Perpendicular = √((1 + p²)² - (2p)²) = √(1 + 2p² + p⁴ - 4p²) = √(1 - 2p² + p⁴) = 1 - p². tan θ = P / B = (1 - p²) / 2p.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Simplify: [sin A / (1 + cos A)] + [(1 + cos A) / sin A].",
+    "options": [
+      "2 cosec A",
+      "2 sec A",
+      "2 sin A",
+      "2 cos A"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "[sin² A + (1 + cos A)²] / [sin A (1 + cos A)] = [sin² A + 1 + 2 cos A + cos² A] / [sin A (1 + cos A)] = [2 + 2 cos A] / [sin A (1 + cos A)] = 2(1 + cos A) / [sin A (1 + cos A)] = 2 / sin A = 2 cosec A.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If tan θ = 1, find the value of (8 sin θ + 5 cos θ) / (sin³ θ - 2 cos³ θ + 7 cos θ).",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan θ = 1 => θ = 45°. sin 45° = cos 45° = 1/√2. Numerator = (8 + 5)/√2 = 13/√2. Denominator = 1/(2√2) - 2/(2√2) + 7/√2 = (-1 + 14)/(2√2) = 13/(2√2). Num / Denom = (13/√2) / (13/2√2) = 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If A + B = 45°, find the value of (1 + tan A)(1 + tan B).",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan(A + B) = (tan A + tan B) / (1 - tan A tan B) = 1 => tan A + tan B = 1 - tan A tan B => tan A + tan B + tan A tan B = 1. Adding 1 to both sides: 1 + tan A + tan B + tan A tan B = 2 => (1 + tan A)(1 + tan B) = 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the exact value of sin 15°.",
+    "options": [
+      "(√3 - 1) / 2√2",
+      "(√3 + 1) / 2√2",
+      "√3 / 2",
+      "1 / 2√2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin 15° = sin(45° - 30°) = sin 45° cos 30° - cos 45° sin 30° = (1/√2)(√3/2) - (1/√2)(1/2) = (√3 - 1) / 2√2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A 15 m long ladder is placed against a vertical wall such that it makes an angle of 60° with the wall. Find the height of the wall up to which the ladder reaches.",
+    "options": [
+      "7.5 m",
+      "15√3 / 2 m",
+      "10 m",
+      "12 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The ladder makes an angle of 60° with the wall, so cos 60° = Height / 15 => 1/2 = h / 15 => h = 7.5 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sin A - cos A = 0, find the value of sin⁴ A + cos⁴ A.",
+    "options": [
+      "1/2",
+      "1",
+      "3/4",
+      "1/4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin A = cos A => tan A = 1 => A = 45°. sin⁴ 45° + cos⁴ 45° = (1/√2)⁴ + (1/√2)⁴ = 1/4 + 1/4 = 1/2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boy 1.5 m tall is standing 30 m away from a 31.5 m high building. Find the angle of elevation from his eyes to the top of the building.",
+    "options": [
+      "45°",
+      "30°",
+      "60°",
+      "75°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Height of building above eye level = 31.5 - 1.5 = 30 m. Horizontal distance = 30 m. tan θ = 30 / 30 = 1 => θ = 45°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: cos 20° × cos 40° × cos 80°.",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "√3/8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Formula: cos θ * cos(60° - θ) * cos(60° + θ) = 1/4 * cos(3θ). For θ = 20°: cos 20° * cos 40° * cos 80° = 1/4 * cos 60° = 1/4 * 1/2 = 1/8.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If x = r sin A cos B, y = r sin A sin B, and z = r cos A, find the value of x² + y² + z².",
+    "options": [
+      "r²",
+      "r",
+      "1",
+      "r³"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x² + y² = r² sin² A (cos² B + sin² B) = r² sin² A. x² + y² + z² = r² sin² A + r² cos² A = r² (sin² A + cos² A) = r².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Evaluate: cot 10° × cot 20° × cot 60° × cot 70° × cot 80°.",
+    "options": [
+      "1/√3",
+      "√3",
+      "1",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "cot 80° = tan 10°, cot 70° = tan 20°. (cot 10° tan 10°) * (cot 20° tan 20°) * cot 60° = 1 * 1 * (1/√3) = 1/√3.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two poles of heights 6 m and 11 m stand vertically on a plane ground. If the distance between their feet is 12 m, find the distance between their tops.",
+    "options": [
+      "13 m",
+      "14 m",
+      "15 m",
+      "12.5 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Height difference = 11 - 6 = 5 m. Distance between feet = 12 m. Distance between tops = √(5² + 12²) = √(25 + 144) = √169 = 13 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sec θ = x + 1/(4x), find the value of sec θ + tan θ.",
+    "options": [
+      "2x or 1/(2x)",
+      "x or 1/x",
+      "4x or 1/(4x)",
+      "2x"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "tan² θ = sec² θ - 1 = (x + 1/4x)² - 1 = (x - 1/4x)². tan θ = ±(x - 1/4x). If tan θ = x - 1/4x, sec θ + tan θ = 2x. If tan θ = -(x - 1/4x), sec θ + tan θ = 1/(2x). Result is 2x or 1/(2x).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If sin θ + cosec θ = 2, find the value of sin¹⁰⁰ θ + cosec¹⁰⁰ θ.",
+    "options": [
+      "2",
+      "1",
+      "100",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "sin θ + 1/sin θ = 2 => (sin θ - 1)² = 0 => sin θ = 1. cosec θ = 1. 1¹⁰⁰ + 1¹⁰⁰ = 1 + 1 = 2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "An observer 1.6 m tall is 20√3 m away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is:",
+    "options": [
+      "21.6 m",
+      "20 m",
+      "23.2 m",
+      "24 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "h = 20√(3) × \\tan 30^° = 20 m}. Total height = 20 + 1.6 = 21.6 m}. \"\"\" with open(target_file, \"w\", encoding=\"utf-8\") as f: f.write(md_content) print(f\"Successfully rearranged and formatted {target_file} with all 105 premium questions!\")",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

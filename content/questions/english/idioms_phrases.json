@@ -1,7 +1,12 @@
 [
   {
     "questionText": "What is the meaning of the idiom: 'To spill the beans'?",
-    "options": ["To reveal a secret prematurely", "To drop food", "To make an untidy mess", "To cause an argument"],
+    "options": [
+      "To reveal a secret prematurely",
+      "To drop food",
+      "To make an untidy mess",
+      "To cause an argument"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "'To spill the beans' means to disclose confidential information or a secret unintentionally or prematurely.",
     "difficulty": "Easy",
@@ -9,7 +14,12 @@
   },
   {
     "questionText": "Select the correct meaning of the idiom: 'Once in a blue moon'",
-    "options": ["Very rarely", "Every month", "On full moon nights", "Frequently"],
+    "options": [
+      "Very rarely",
+      "Every month",
+      "On full moon nights",
+      "Frequently"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "'Once in a blue moon' is an idiomatic phrase meaning an event that happens very seldom or rarely.",
     "difficulty": "Easy",
@@ -17,7 +27,12 @@
   },
   {
     "questionText": "Choose the correct meaning of the idiom: 'At the eleventh hour'",
-    "options": ["At the last possible moment", "At 11:00 PM exactly", "Too early in the morning", "After the deadline"],
+    "options": [
+      "At the last possible moment",
+      "At 11:00 PM exactly",
+      "Too early in the morning",
+      "After the deadline"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "'At the eleventh hour' means at the latest possible time before it is too late.",
     "difficulty": "Easy",
@@ -25,7 +40,12 @@
   },
   {
     "questionText": "Select the meaning of: 'To burn the candle at both ends'",
-    "options": ["To work exhaustingly hard from early morning until late night", "To waste precious resources recklessly", "To be very fond of parties", "To suffer financial bankruptcy"],
+    "options": [
+      "To work exhaustingly hard from early morning until late night",
+      "To waste precious resources recklessly",
+      "To be very fond of parties",
+      "To suffer financial bankruptcy"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "'Burn the candle at both ends' means to exhaust oneself by doing too much and working long hours with very little rest.",
     "difficulty": "Medium",
@@ -33,10 +53,1140 @@
   },
   {
     "questionText": "What does the idiom 'Bite the bullet' signify?",
-    "options": ["To face a painful situation with courage", "To get shot in battle", "To chew metallic objects", "To surrender unconditionally"],
+    "options": [
+      "To face a painful situation with courage",
+      "To get shot in battle",
+      "To chew metallic objects",
+      "To surrender unconditionally"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "'To bite the bullet' means to bravely endure a grim or unavoidable situation that you cannot escape.",
     "difficulty": "Medium",
     "year": 2024
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'At the eleventh hour'",
+    "options": [
+      "At the very last moment",
+      "At midnight",
+      "Too early",
+      "At an auspicious time"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "To do something 'at the eleventh hour' means to do it at the very last moment before a deadline.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'A bolt from the blue'",
+    "options": [
+      "An unexpected and shocking event",
+      "A sudden thunderstorm",
+      "A lucky breakthrough",
+      "A pleasant surprise"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'A bolt from the blue' refers to a complete surprise or an unexpected catastrophe.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Burn the midnight oil'",
+    "options": [
+      "To work or study late into the night",
+      "To waste precious resources",
+      "To create a disturbance",
+      "To cook food at night"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'To burn the midnight oil' means to work or study late into the night.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Bite the bullet'",
+    "options": [
+      "To face a painful situation with courage",
+      "To show cowardice",
+      "To act recklessly",
+      "To suffer a defeat"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'To bite the bullet' means to face a tough or unpleasant situation bravely without flinching.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Break the ice'",
+    "options": [
+      "To initiate conversation in a social setting",
+      "To melt frozen water",
+      "To start a quarrel",
+      "To end a friendship"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'To break the ice' means to relieve tension and start a friendly conversation.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Cry over spilt milk'",
+    "options": [
+      "To regret something that cannot be undone",
+      "To weep profusely",
+      "To clean up a mess",
+      "To complain about minor matters"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Crying over spilt milk' means wasting time grieving over a past loss that cannot be recovered.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Leave no stone unturned'",
+    "options": [
+      "To try every possible effort to achieve a goal",
+      "To search for gemstones",
+      "To construct a building",
+      "To leave work incomplete"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Leave no stone unturned' means to use all available resources and spare no effort.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Once in a blue moon'",
+    "options": [
+      "Very rarely",
+      "Every full moon",
+      "Frequently",
+      "Never"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Once in a blue moon' describes an event that happens extremely rarely.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Piece of cake'",
+    "options": [
+      "Something that is very easy to do",
+      "A delicious dessert",
+      "A small portion of share",
+      "A difficult challenge"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'A piece of cake' refers to a task that is simple and easy to accomplish.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the most appropriate meaning of the idiom: 'Spill the beans'",
+    "options": [
+      "To reveal a secret prematurely",
+      "To drop food accidentally",
+      "To speak falsehoods",
+      "To cook hastily"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-21] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-22] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-23] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-24] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-25] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-26] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-27] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-28] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-29] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-30] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-31] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-32] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-33] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-34] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-35] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-36] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-37] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-38] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-39] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-40] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-41] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-42] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-43] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-44] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-45] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-46] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-47] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-48] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-49] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-50] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-51] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-52] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-53] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-54] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-55] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-56] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-57] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-58] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-59] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-60] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-61] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-62] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-63] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-64] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-65] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-66] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-67] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-68] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-69] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-70] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-71] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-72] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-73] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-74] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-75] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-76] Select the meaning of the idiom: 'Through thick and thin'",
+    "options": [
+      "Under all conditions, good and bad",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Supporting someone through both favorable and challenging times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-77] Select the meaning of the idiom: 'Beat around the bush'",
+    "options": [
+      "Avoid the main topic or speaking directly",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Discussing trivial matters to avoid addressing the central issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-78] Select the meaning of the idiom: 'Hit the nail on the head'",
+    "options": [
+      "State or do the exact truth",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Finding the exact answer or pinpointing the core truth accurately.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-79] Select the meaning of the idiom: 'Cost an arm and a leg'",
+    "options": [
+      "Extremely expensive",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Items or services that demand an exorbitant amount of money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Id-80] Select the meaning of the idiom: 'See eye to eye'",
+    "options": [
+      "Agree completely with someone",
+      "Opposite meaning",
+      "Minor inconvenience",
+      "Sudden anger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sharing the exact same perspective or agreement on an issue.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
   }
 ]

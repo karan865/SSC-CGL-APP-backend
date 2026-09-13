@@ -1,0 +1,677 @@
+[
+  {
+    "questionText": "[Q1] Statements:\n1. All mangoes are golden in color.\n2. No golden-colored things are cheap.\nConclusions:\nI. All mangoes are cheap.\nII. Golden-colored mangoes are not cheap. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Either I or II follows",
+      "Neither I nor II follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Since no golden-colored things are cheap and all mangoes are golden, no mangoes are cheap. Hence, Conclusion II follows.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q2] Statements:\n1. Some dogs are barkers.\n2. All barkers are biting animals.\nConclusions:\nI. Some dogs are biting animals.\nII. Some biting animals are dogs. (Options: Both I and II follow, Only I follows...)",
+    "options": [
+      "Both I and II follow",
+      "Only I follows",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Some dogs -> barkers -> biting animals. So some dogs are biting animals (I follows). By conversion, some biting animals are dogs (II follows). Both follow.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q3] Statements:\n1. All cups are plates.\n2. All plates are spoons.\nConclusions:\nI. All cups are spoons.\nII. All spoons are cups. (Options: Only I follows, Only II follows...)",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "All A are B and All B are C implies All A are C. So All cups are spoons (I follows). But All spoons are cups does not necessarily follow.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q4] Statements:\n1. Some pens are books.\n2. All books are papers.\nConclusions:\nI. Some pens are papers.\nII. No pen is a paper. (Options: Only I follows, Only II follows...)",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Some pens are books and All books are papers => Some pens are papers (I follows). II contradicts I.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q5] Statements:\n1. No bird is a mammal.\n2. All bats are mammals.\nConclusions:\nI. No bat is a bird.\nII. No bird is a bat. (Options: Both I and II follow, Only I follows...)",
+    "options": [
+      "Both I and II follow",
+      "Only I follows",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bats are entirely inside mammals, and mammals have zero intersection with birds. Thus no bat is a bird and no bird is a bat. Both follow.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q6] Statements:\n1. All cats are animals.\n2. Some animals are carnivores.\nConclusions:\nI. Some cats are carnivores.\nII. Some animals are cats. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cats are animals', the conversion gives 'Some animals are cats' (II follows). carnivores only intersects some part of animals, so 'Some cats are carnivores' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q7] Statements:\n1. All cats are animals.\n2. Some animals are carnivores.\nConclusions:\nI. Some cats are carnivores.\nII. Some animals are cats. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cats are animals', the conversion gives 'Some animals are cats' (II follows). carnivores only intersects some part of animals, so 'Some cats are carnivores' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q8] Statements:\n1. All cats are animals.\n2. Some animals are carnivores.\nConclusions:\nI. Some cats are carnivores.\nII. Some animals are cats. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cats are animals', the conversion gives 'Some animals are cats' (II follows). carnivores only intersects some part of animals, so 'Some cats are carnivores' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q9] Statements:\n1. All cats are animals.\n2. Some animals are carnivores.\nConclusions:\nI. Some cats are carnivores.\nII. Some animals are cats. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cats are animals', the conversion gives 'Some animals are cats' (II follows). carnivores only intersects some part of animals, so 'Some cats are carnivores' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q10] Statements:\n1. All cats are animals.\n2. Some animals are carnivores.\nConclusions:\nI. Some cats are carnivores.\nII. Some animals are cats. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cats are animals', the conversion gives 'Some animals are cats' (II follows). carnivores only intersects some part of animals, so 'Some cats are carnivores' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q11] Statements:\n1. All roses are flowers.\n2. Some flowers are fragrant.\nConclusions:\nI. Some roses are fragrant.\nII. Some flowers are roses. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All roses are flowers', the conversion gives 'Some flowers are roses' (II follows). fragrant only intersects some part of flowers, so 'Some roses are fragrant' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q12] Statements:\n1. All roses are flowers.\n2. Some flowers are fragrant.\nConclusions:\nI. Some roses are fragrant.\nII. Some flowers are roses. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All roses are flowers', the conversion gives 'Some flowers are roses' (II follows). fragrant only intersects some part of flowers, so 'Some roses are fragrant' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q13] Statements:\n1. All roses are flowers.\n2. Some flowers are fragrant.\nConclusions:\nI. Some roses are fragrant.\nII. Some flowers are roses. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All roses are flowers', the conversion gives 'Some flowers are roses' (II follows). fragrant only intersects some part of flowers, so 'Some roses are fragrant' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q14] Statements:\n1. All roses are flowers.\n2. Some flowers are fragrant.\nConclusions:\nI. Some roses are fragrant.\nII. Some flowers are roses. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All roses are flowers', the conversion gives 'Some flowers are roses' (II follows). fragrant only intersects some part of flowers, so 'Some roses are fragrant' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q15] Statements:\n1. All roses are flowers.\n2. Some flowers are fragrant.\nConclusions:\nI. Some roses are fragrant.\nII. Some flowers are roses. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All roses are flowers', the conversion gives 'Some flowers are roses' (II follows). fragrant only intersects some part of flowers, so 'Some roses are fragrant' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q16] Statements:\n1. All tables are furniture.\n2. Some furniture are wooden.\nConclusions:\nI. Some tables are wooden.\nII. Some furniture are tables. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All tables are furniture', the conversion gives 'Some furniture are tables' (II follows). wooden only intersects some part of furniture, so 'Some tables are wooden' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q17] Statements:\n1. All tables are furniture.\n2. Some furniture are wooden.\nConclusions:\nI. Some tables are wooden.\nII. Some furniture are tables. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All tables are furniture', the conversion gives 'Some furniture are tables' (II follows). wooden only intersects some part of furniture, so 'Some tables are wooden' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q18] Statements:\n1. All tables are furniture.\n2. Some furniture are wooden.\nConclusions:\nI. Some tables are wooden.\nII. Some furniture are tables. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All tables are furniture', the conversion gives 'Some furniture are tables' (II follows). wooden only intersects some part of furniture, so 'Some tables are wooden' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q19] Statements:\n1. All tables are furniture.\n2. Some furniture are wooden.\nConclusions:\nI. Some tables are wooden.\nII. Some furniture are tables. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All tables are furniture', the conversion gives 'Some furniture are tables' (II follows). wooden only intersects some part of furniture, so 'Some tables are wooden' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q20] Statements:\n1. All tables are furniture.\n2. Some furniture are wooden.\nConclusions:\nI. Some tables are wooden.\nII. Some furniture are tables. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All tables are furniture', the conversion gives 'Some furniture are tables' (II follows). wooden only intersects some part of furniture, so 'Some tables are wooden' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q21] Statements:\n1. All cars are vehicles.\n2. Some vehicles are machines.\nConclusions:\nI. Some cars are machines.\nII. Some vehicles are cars. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cars are vehicles', the conversion gives 'Some vehicles are cars' (II follows). machines only intersects some part of vehicles, so 'Some cars are machines' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q22] Statements:\n1. All cars are vehicles.\n2. Some vehicles are machines.\nConclusions:\nI. Some cars are machines.\nII. Some vehicles are cars. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cars are vehicles', the conversion gives 'Some vehicles are cars' (II follows). machines only intersects some part of vehicles, so 'Some cars are machines' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q23] Statements:\n1. All cars are vehicles.\n2. Some vehicles are machines.\nConclusions:\nI. Some cars are machines.\nII. Some vehicles are cars. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cars are vehicles', the conversion gives 'Some vehicles are cars' (II follows). machines only intersects some part of vehicles, so 'Some cars are machines' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q24] Statements:\n1. All cars are vehicles.\n2. Some vehicles are machines.\nConclusions:\nI. Some cars are machines.\nII. Some vehicles are cars. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cars are vehicles', the conversion gives 'Some vehicles are cars' (II follows). machines only intersects some part of vehicles, so 'Some cars are machines' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q25] Statements:\n1. All cars are vehicles.\n2. Some vehicles are machines.\nConclusions:\nI. Some cars are machines.\nII. Some vehicles are cars. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All cars are vehicles', the conversion gives 'Some vehicles are cars' (II follows). machines only intersects some part of vehicles, so 'Some cars are machines' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q26] Statements:\n1. All teachers are scholars.\n2. Some scholars are readers.\nConclusions:\nI. Some teachers are readers.\nII. Some scholars are teachers. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All teachers are scholars', the conversion gives 'Some scholars are teachers' (II follows). readers only intersects some part of scholars, so 'Some teachers are readers' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q27] Statements:\n1. All teachers are scholars.\n2. Some scholars are readers.\nConclusions:\nI. Some teachers are readers.\nII. Some scholars are teachers. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All teachers are scholars', the conversion gives 'Some scholars are teachers' (II follows). readers only intersects some part of scholars, so 'Some teachers are readers' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q28] Statements:\n1. All teachers are scholars.\n2. Some scholars are readers.\nConclusions:\nI. Some teachers are readers.\nII. Some scholars are teachers. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All teachers are scholars', the conversion gives 'Some scholars are teachers' (II follows). readers only intersects some part of scholars, so 'Some teachers are readers' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q29] Statements:\n1. All teachers are scholars.\n2. Some scholars are readers.\nConclusions:\nI. Some teachers are readers.\nII. Some scholars are teachers. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All teachers are scholars', the conversion gives 'Some scholars are teachers' (II follows). readers only intersects some part of scholars, so 'Some teachers are readers' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q30] Statements:\n1. All teachers are scholars.\n2. Some scholars are readers.\nConclusions:\nI. Some teachers are readers.\nII. Some scholars are teachers. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All teachers are scholars', the conversion gives 'Some scholars are teachers' (II follows). readers only intersects some part of scholars, so 'Some teachers are readers' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q31] Statements:\n1. All apples are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some apples are sweet.\nII. Some fruits are apples. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All apples are fruits', the conversion gives 'Some fruits are apples' (II follows). sweet only intersects some part of fruits, so 'Some apples are sweet' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q32] Statements:\n1. All apples are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some apples are sweet.\nII. Some fruits are apples. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All apples are fruits', the conversion gives 'Some fruits are apples' (II follows). sweet only intersects some part of fruits, so 'Some apples are sweet' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q33] Statements:\n1. All apples are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some apples are sweet.\nII. Some fruits are apples. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All apples are fruits', the conversion gives 'Some fruits are apples' (II follows). sweet only intersects some part of fruits, so 'Some apples are sweet' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q34] Statements:\n1. All apples are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some apples are sweet.\nII. Some fruits are apples. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All apples are fruits', the conversion gives 'Some fruits are apples' (II follows). sweet only intersects some part of fruits, so 'Some apples are sweet' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q35] Statements:\n1. All apples are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some apples are sweet.\nII. Some fruits are apples. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All apples are fruits', the conversion gives 'Some fruits are apples' (II follows). sweet only intersects some part of fruits, so 'Some apples are sweet' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q36] Statements:\n1. All shirts are clothes.\n2. Some clothes are cotton.\nConclusions:\nI. Some shirts are cotton.\nII. Some clothes are shirts. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All shirts are clothes', the conversion gives 'Some clothes are shirts' (II follows). cotton only intersects some part of clothes, so 'Some shirts are cotton' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q37] Statements:\n1. All shirts are clothes.\n2. Some clothes are cotton.\nConclusions:\nI. Some shirts are cotton.\nII. Some clothes are shirts. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All shirts are clothes', the conversion gives 'Some clothes are shirts' (II follows). cotton only intersects some part of clothes, so 'Some shirts are cotton' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q38] Statements:\n1. All shirts are clothes.\n2. Some clothes are cotton.\nConclusions:\nI. Some shirts are cotton.\nII. Some clothes are shirts. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All shirts are clothes', the conversion gives 'Some clothes are shirts' (II follows). cotton only intersects some part of clothes, so 'Some shirts are cotton' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q39] Statements:\n1. All shirts are clothes.\n2. Some clothes are cotton.\nConclusions:\nI. Some shirts are cotton.\nII. Some clothes are shirts. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All shirts are clothes', the conversion gives 'Some clothes are shirts' (II follows). cotton only intersects some part of clothes, so 'Some shirts are cotton' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q40] Statements:\n1. All shirts are clothes.\n2. Some clothes are cotton.\nConclusions:\nI. Some shirts are cotton.\nII. Some clothes are shirts. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All shirts are clothes', the conversion gives 'Some clothes are shirts' (II follows). cotton only intersects some part of clothes, so 'Some shirts are cotton' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q41] Statements:\n1. All rings are ornaments.\n2. Some ornaments are metallic.\nConclusions:\nI. Some rings are metallic.\nII. Some ornaments are rings. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All rings are ornaments', the conversion gives 'Some ornaments are rings' (II follows). metallic only intersects some part of ornaments, so 'Some rings are metallic' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q42] Statements:\n1. All rings are ornaments.\n2. Some ornaments are metallic.\nConclusions:\nI. Some rings are metallic.\nII. Some ornaments are rings. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All rings are ornaments', the conversion gives 'Some ornaments are rings' (II follows). metallic only intersects some part of ornaments, so 'Some rings are metallic' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q43] Statements:\n1. All rings are ornaments.\n2. Some ornaments are metallic.\nConclusions:\nI. Some rings are metallic.\nII. Some ornaments are rings. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All rings are ornaments', the conversion gives 'Some ornaments are rings' (II follows). metallic only intersects some part of ornaments, so 'Some rings are metallic' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q44] Statements:\n1. All rings are ornaments.\n2. Some ornaments are metallic.\nConclusions:\nI. Some rings are metallic.\nII. Some ornaments are rings. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All rings are ornaments', the conversion gives 'Some ornaments are rings' (II follows). metallic only intersects some part of ornaments, so 'Some rings are metallic' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Q45] Statements:\n1. All rings are ornaments.\n2. Some ornaments are metallic.\nConclusions:\nI. Some rings are metallic.\nII. Some ornaments are rings. (Options: Only II follows, Only I follows...)",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "From 'All rings are ornaments', the conversion gives 'Some ornaments are rings' (II follows). metallic only intersects some part of ornaments, so 'Some rings are metallic' is not definite.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

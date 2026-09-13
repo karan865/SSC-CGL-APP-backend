@@ -1,7 +1,12 @@
 [
   {
     "questionText": "If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C.",
-    "options": ["8 : 12 : 15", "6 : 9 : 15", "8 : 10 : 15", "2 : 4 : 5"],
+    "options": [
+      "8 : 12 : 15",
+      "6 : 9 : 15",
+      "8 : 10 : 15",
+      "2 : 4 : 5"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Multiply first ratio by 4: A:B = 8:12. Multiply second ratio by 3: B:C = 12:15. Combined A:B:C = 8:12:15.",
     "difficulty": "Easy",
@@ -9,7 +14,12 @@
   },
   {
     "questionText": "What is the third proportional to 9 and 12?",
-    "options": ["16", "15", "18", "14"],
+    "options": [
+      "16",
+      "15",
+      "18",
+      "14"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "If third proportional is x, then 9 : 12 = 12 : x -> 9x = 144 -> x = 16.",
     "difficulty": "Easy",
@@ -17,7 +27,12 @@
   },
   {
     "questionText": "Find the mean proportional between 0.08 and 0.18.",
-    "options": ["0.12", "0.14", "0.16", "0.24"],
+    "options": [
+      "0.12",
+      "0.14",
+      "0.16",
+      "0.24"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Mean proportional = sqrt(a * b) = sqrt(0.08 * 0.18) = sqrt(0.0144) = 0.12.",
     "difficulty": "Easy",
@@ -25,7 +40,12 @@
   },
   {
     "questionText": "A sum of Rs. 4,200 is divided among A, B, and C in the ratio 2 : 3 : 5. What is B's share?",
-    "options": ["Rs. 1,260", "Rs. 840", "Rs. 2,100", "Rs. 1,400"],
+    "options": [
+      "Rs. 1,260",
+      "Rs. 840",
+      "Rs. 2,100",
+      "Rs. 1,400"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Total ratio units = 2 + 3 + 5 = 10. 1 unit = 4200 / 10 = 420. B's share = 3 * 420 = Rs. 1,260.",
     "difficulty": "Medium",
@@ -33,7 +53,12 @@
   },
   {
     "questionText": "In a mixture of 60 litres, the ratio of milk and water is 2 : 1. How much water must be added to make the ratio 1 : 2?",
-    "options": ["60 litres", "40 litres", "50 litres", "30 litres"],
+    "options": [
+      "60 litres",
+      "40 litres",
+      "50 litres",
+      "30 litres"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Milk = (2/3)*60 = 40L, Water = 20L. Let w water be added: 40 / (20 + w) = 1/2 -> 20 + w = 80 -> w = 60 litres.",
     "difficulty": "Medium",
@@ -41,10 +66,30 @@
   },
   {
     "questionText": "The ratio of incomes of A and B is 5 : 4 and the ratio of their expenditures is 3 : 2. If each saves Rs. 1,600 at the end of the month, find the income of A.",
-    "options": ["Rs. 4,000", "Rs. 3,200", "Rs. 4,800", "Rs. 5,000"],
+    "options": [
+      "Rs. 4,000",
+      "Rs. 3,200",
+      "Rs. 4,800",
+      "Rs. 5,000"
+    ],
     "correctAnswerIndex": 0,
     "explanation": "Let incomes be 5x, 4x. (5x - 1600) / (4x - 1600) = 3/2 -> 10x - 3200 = 12x - 4800 -> 2x = 1600 -> x = 800. A's income = 5 * 800 = Rs. 4,000.",
     "difficulty": "Hard",
     "year": 2023
+  },
+  {
+    "questionText": "A and B jointly start a business. A invests ₹60,000 for 8 months and B invests ₹80,000 for 6 months. A receives 15% of the total profit for managing the business. If the total profit is ₹40,000, find B's share.",
+    "options": [
+      "₹17,000",
+      "₹16,000",
+      "₹15,000",
+      "₹18,000"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Managing commission to A = 15\\% of } 40,000 = ₹6,000. Remaining profit = ₹34,000. Ratio of investment = (60,000 × 8) : (80,000 × 6) = 480,000 : 480,000 = 1 : 1. B's share = 34,000/2 = ₹17,000.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
   }
 ]
