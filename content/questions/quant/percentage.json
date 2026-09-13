@@ -1,0 +1,82 @@
+[
+  {
+    "questionText": "If A's income is 25% more than B's income, then by what percentage is B's income less than A's income?",
+    "options": ["20%", "25%", "16.66%", "30%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Let B's income = 100. Then A's income = 125. Difference = 25. Percentage less = (25 / 125) * 100 = 20%.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "What is 15% of 60% of 500?",
+    "options": ["45", "50", "30", "60"],
+    "correctAnswerIndex": 0,
+    "explanation": "60% of 500 = 300. 15% of 300 = (15 / 100) * 300 = 45.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "If the price of a commodity increases by 20%, by what percentage must consumption be reduced so that total expenditure remains unchanged?",
+    "options": ["16.66%", "20%", "25%", "15%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Reduction % = [r / (100 + r)] * 100 = (20 / 120) * 100 = 16.66% or 16(2/3)%.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "In an examination, 35% of total students failed in Hindi, 45% failed in English, and 20% failed in both. What percentage of students passed in both subjects?",
+    "options": ["40%", "35%", "45%", "50%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Failed in at least one = 35 + 45 - 20 = 60%. Therefore, passed in both = 100% - 60% = 40%.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Two successive discounts of 20% and 10% are equivalent to a single discount of:",
+    "options": ["28%", "30%", "25%", "32%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Net discount = d1 + d2 - (d1 * d2) / 100 = 20 + 10 - (20 * 10) / 100 = 30 - 2 = 28%.",
+    "difficulty": "Medium",
+    "year": 2022
+  },
+  {
+    "questionText": "A number is first increased by 20% and then decreased by 20%. The net change in the number is:",
+    "options": ["4% decrease", "4% increase", "No change", "2% decrease"],
+    "correctAnswerIndex": 0,
+    "explanation": "Formula: a + b + (ab / 100) = +20 - 20 - (400 / 100) = -4%, which is a 4% decrease.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "A candidate secures 42% marks and fails by 18 marks, while another candidate secures 55% marks and gets 21 marks more than the minimum pass marks. Find the maximum marks.",
+    "options": ["300", "250", "400", "350"],
+    "correctAnswerIndex": 0,
+    "explanation": "Difference in % = 55% - 42% = 13%. Difference in marks = 21 - (-18) = 39 marks. 13% = 39 -> 100% = (39 / 13) * 100 = 300.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "If the radius of a cylinder is increased by 150% and its height is decreased by 20%, what is the percentage increase in its volume?",
+    "options": ["400%", "425%", "380%", "360%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Volume proportional to r^2 * h. New r = 2.5r, new h = 0.8h. New V = (2.5)^2 * 0.8 = 6.25 * 0.8 = 5.0. Increase = 5 - 1 = 4 = 400%.",
+    "difficulty": "Hard",
+    "year": 2023
+  },
+  {
+    "questionText": "Fresh fruit contains 68% water and dry fruit contains 20% water. How much dry fruit can be obtained from 100 kg of fresh fruits?",
+    "options": ["40 kg", "32 kg", "48 kg", "50 kg"],
+    "correctAnswerIndex": 0,
+    "explanation": "Pulp in fresh fruit = (100 - 68)% of 100 kg = 32 kg. In dry fruit, pulp is (100 - 20)% = 80%. Let dry fruit weight = x kg. 0.80 * x = 32 -> x = 40 kg.",
+    "difficulty": "Hard",
+    "year": 2022
+  },
+  {
+    "questionText": "A reduction of 20% in the price of sugar enables a purchaser to obtain 4 kg more for Rs. 160. What is the original price per kg?",
+    "options": ["Rs. 10", "Rs. 8", "Rs. 12", "Rs. 15"],
+    "correctAnswerIndex": 0,
+    "explanation": "Money saved = 20% of 160 = Rs. 32. This buys 4 kg extra, so reduced price = 32 / 4 = Rs. 8/kg. Original price = 8 / 0.80 = Rs. 10/kg.",
+    "difficulty": "Hard",
+    "year": 2024
+  }
+]

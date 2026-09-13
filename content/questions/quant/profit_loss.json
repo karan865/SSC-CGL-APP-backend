@@ -1,0 +1,58 @@
+[
+  {
+    "questionText": "A person sells an article for Rs. 840 gaining 20%. Find the cost price of the article.",
+    "options": ["Rs. 700", "Rs. 720", "Rs. 680", "Rs. 750"],
+    "correctAnswerIndex": 0,
+    "explanation": "CP = SP / (1 + Profit%) = 840 / 1.20 = Rs. 700.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "The cost price of 36 books is equal to the selling price of 30 books. The gain percentage is:",
+    "options": ["20%", "16.66%", "25%", "15%"],
+    "correctAnswerIndex": 0,
+    "explanation": "36 * CP = 30 * SP -> SP/CP = 36/30 = 6/5. Gain % = ((6 - 5) / 5) * 100 = 20%.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "If a shopkeeper sells an item at Rs. 450 incurring a 10% loss, at what price must he sell it to gain 20%?",
+    "options": ["Rs. 600", "Rs. 540", "Rs. 580", "Rs. 620"],
+    "correctAnswerIndex": 0,
+    "explanation": "CP = 450 / 0.90 = Rs. 500. Target SP for 20% gain = 500 * 1.20 = Rs. 600.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "A dishonest dealer professes to sell his goods at cost price but uses a false weight of 900 grams for a kilogram weight. His gain percentage is:",
+    "options": ["11.11%", "10%", "12.5%", "9.09%"],
+    "correctAnswerIndex": 0,
+    "explanation": "Error = 100g. True value - Error = 900g. Gain % = (Error / True Value - Error) * 100 = (100 / 900) * 100 = 11.11% or 11(1/9)%.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "A man buys two horses for Rs. 40,000 each. He sells one horse at a 15% profit and the other at a 15% loss. What is his overall profit or loss?",
+    "options": ["No profit, no loss", "2.25% loss", "2.25% profit", "1% loss"],
+    "correctAnswerIndex": 0,
+    "explanation": "When CP of both items is equal, +15% and -15% cancel out exactly, resulting in zero net profit and zero net loss.",
+    "difficulty": "Medium",
+    "year": 2022
+  },
+  {
+    "questionText": "A man sells two watches for Rs. 495 each. On one he gains 10% and on the other he loses 10%. His overall loss percentage is:",
+    "options": ["1% loss", "No profit, no loss", "2% loss", "1.5% loss"],
+    "correctAnswerIndex": 0,
+    "explanation": "When SP of two items is identical with equal profit% and loss% x, there is always an overall loss of (x^2 / 100)% = (100 / 100)% = 1% loss.",
+    "difficulty": "Hard",
+    "year": 2023
+  },
+  {
+    "questionText": "A merchant marks an article 40% above cost price and offers a discount of 25%. If his profit is Rs. 42, find the cost price of the article.",
+    "options": ["Rs. 840", "Rs. 750", "Rs. 900", "Rs. 800"],
+    "correctAnswerIndex": 0,
+    "explanation": "Let CP = 100x. MP = 140x. SP = 140x * 0.75 = 105x. Profit = 5x. Given 5x = 42 -> x = 8.4. CP = 100 * 8.4 = Rs. 840.",
+    "difficulty": "Hard",
+    "year": 2024
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "questionText": "Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 14 of the Constitution of India provides that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    "correctAnswerIndex": 0,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar, Chairman of the Drafting Committee, is revered as the Chief Architect and Father of the Indian Constitution.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "What is the minimum age prescribed for a citizen to become the President of India?",
+    "options": ["35 years", "30 years", "25 years", "40 years"],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 58 of the Constitution, a candidate must have completed 35 years of age to be eligible for election as President.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Which Constitutional Amendment added the terms 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution?",
+    "options": ["42nd Amendment Act (1976)", "44th Amendment Act (1978)", "73rd Amendment Act (1992)", "86th Amendment Act (2002)"],
+    "correctAnswerIndex": 0,
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to add 'Socialist', 'Secular', and 'Integrity'.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "Under which Article can the Supreme Court of India issue writs for the enforcement of Fundamental Rights?",
+    "options": ["Article 32", "Article 226", "Article 131", "Article 143"],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 32 empowers the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari) for enforcing Fundamental Rights.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from the Constitution of which country?",
+    "options": ["Ireland", "USA", "USSR", "United Kingdom"],
+    "correctAnswerIndex": 0,
+    "explanation": "The Directive Principles of State Policy in Part IV (Articles 36 to 51) were borrowed from the Irish Constitution of 1937.",
+    "difficulty": "Medium",
+    "year": 2023
+  }
+]

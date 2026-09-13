@@ -1,0 +1,42 @@
+[
+  {
+    "questionText": "In which year was the First Battle of Panipat fought?",
+    "options": ["1526", "1556", "1761", "1576"],
+    "correctAnswerIndex": 0,
+    "explanation": "The First Battle of Panipat was fought on 21 April 1526 between Babur and Ibrahim Lodi, marking the beginning of the Mughal Empire in India.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Who was the founder of the Maurya Dynasty in ancient India?",
+    "options": ["Chandragupta Maurya", "Bindusara", "Ashoka the Great", "Brihadratha"],
+    "correctAnswerIndex": 0,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance of his guru Chanakya (Kautilya).",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "The historic 'Dandi March' led by Mahatma Gandhi in 1930 was launched to protest against which unjust law?",
+    "options": ["Salt Tax", "Rowlatt Act", "Simon Commission", "Vernacular Press Act"],
+    "correctAnswerIndex": 0,
+    "explanation": "Mahatma Gandhi began the historic Salt Satyagraha on March 12, 1930, walking from Sabarmati to Dandi to defy the British monopoly on salt production.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Which Mughal Emperor abolished the pilgrim tax and Jizya on non-Muslim subjects?",
+    "options": ["Akbar", "Humayun", "Jahangir", "Shah Jahan"],
+    "correctAnswerIndex": 0,
+    "explanation": "Emperor Akbar abolished the pilgrim tax in 1563 and the Jizya tax in 1564 as part of his policy of Sulh-i-kul (universal peace).",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "The Indus Valley site 'Lothal', famous for its ancient dockyard, is located in which modern state of India?",
+    "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
+    "correctAnswerIndex": 0,
+    "explanation": "Lothal is situated near the Bhogava river in the Bhal region of modern Gujarat, and served as a prominent Harappan tidal dockyard and port city.",
+    "difficulty": "Medium",
+    "year": 2023
+  }
+]

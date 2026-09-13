@@ -1,0 +1,58 @@
+[
+  {
+    "questionText": "Select the related word from the given alternatives:\nThermometer : Temperature :: Barometer : ?",
+    "options": ["Atmospheric Pressure", "Humidity", "Wind Speed", "Earthquake"],
+    "correctAnswerIndex": 0,
+    "explanation": "A thermometer measures temperature; a barometer measures atmospheric pressure.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Select the related number from the given alternatives:\n12 : 144 :: 15 : ?",
+    "options": ["225", "215", "235", "195"],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: x : x^2. 12^2 = 144, 15^2 = 225.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "Select the related pair:\nPencil : Lead :: Pen : ?",
+    "options": ["Ink", "Paper", "Nib", "Cap"],
+    "correctAnswerIndex": 0,
+    "explanation": "A pencil writes with lead (graphite); a pen writes with ink.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Select the related number:\n7 : 350 :: 8 : ?",
+    "options": ["520", "512", "480", "504"],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: n : (n^3 + n). For 7: 7^3 + 7 = 343 + 7 = 350. For 8: 8^3 + 8 = 512 + 8 = 520.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Select the related word:\nPaleontology : Fossils :: Ornithology : ?",
+    "options": ["Birds", "Insects", "Plants", "Reptiles"],
+    "correctAnswerIndex": 0,
+    "explanation": "Paleontology is the study of fossils; Ornithology is the scientific study of birds.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "Select the related letters:\nACEG : BDFH :: MOQS : ?",
+    "options": ["NPRT", "NQRT", "NPRU", "NPST"],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter is shifted by +1: M+1=N, O+1=P, Q+1=R, S+1=T -> NPRT.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Select the related number from the alternatives:\n68 : 130 :: 222 : ?",
+    "options": ["350", "343", "336", "360"],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: n^3 + n. 4^3+4 = 68, 5^3+5 = 130, 6^3+6 = 222, next is 7^3+7 = 343+7 = 350.",
+    "difficulty": "Hard",
+    "year": 2024
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "questionText": "What is the meaning of the idiom: 'To spill the beans'?",
+    "options": ["To reveal a secret prematurely", "To drop food", "To make an untidy mess", "To cause an argument"],
+    "correctAnswerIndex": 0,
+    "explanation": "'To spill the beans' means to disclose confidential information or a secret unintentionally or prematurely.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Select the correct meaning of the idiom: 'Once in a blue moon'",
+    "options": ["Very rarely", "Every month", "On full moon nights", "Frequently"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Once in a blue moon' is an idiomatic phrase meaning an event that happens very seldom or rarely.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "Choose the correct meaning of the idiom: 'At the eleventh hour'",
+    "options": ["At the last possible moment", "At 11:00 PM exactly", "Too early in the morning", "After the deadline"],
+    "correctAnswerIndex": 0,
+    "explanation": "'At the eleventh hour' means at the latest possible time before it is too late.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Select the meaning of: 'To burn the candle at both ends'",
+    "options": ["To work exhaustingly hard from early morning until late night", "To waste precious resources recklessly", "To be very fond of parties", "To suffer financial bankruptcy"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Burn the candle at both ends' means to exhaust oneself by doing too much and working long hours with very little rest.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "What does the idiom 'Bite the bullet' signify?",
+    "options": ["To face a painful situation with courage", "To get shot in battle", "To chew metallic objects", "To surrender unconditionally"],
+    "correctAnswerIndex": 0,
+    "explanation": "'To bite the bullet' means to bravely endure a grim or unavoidable situation that you cannot escape.",
+    "difficulty": "Medium",
+    "year": 2024
+  }
+]

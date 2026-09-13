@@ -1,0 +1,42 @@
+[
+  {
+    "questionText": "Identify the segment that contains a grammatical error:\n'Neither the teacher (A) / nor the students (B) / was present in the hall (C) / No error (D)'",
+    "options": ["was present in the hall", "Neither the teacher", "nor the students", "No error"],
+    "correctAnswerIndex": 0,
+    "explanation": "When two subjects are connected by 'neither... nor', the verb agrees with the subject closest to it. Since 'students' is plural, the verb should be 'were present'.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Find the error in the sentence:\n'One of my friend (A) / is an engineer (B) / in Bangalore (C) / No error (D)'",
+    "options": ["One of my friend", "is an engineer", "in Bangalore", "No error"],
+    "correctAnswerIndex": 0,
+    "explanation": "The phrase 'One of' is always followed by a plural noun. Hence, it must be 'One of my friends'.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "Spot the error:\n'Scarcely had he gone (A) / than a policeman knocked (B) / at the front door (C) / No error (D)'",
+    "options": ["than a policeman knocked", "Scarcely had he gone", "at the front door", "No error"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Scarcely' and 'Hardly' are always correlated with 'when' or 'before', never 'than'. 'No sooner' takes 'than'.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Identify the erroneous segment:\n'Although he worked hard, (A) / but he failed (B) / in the examination (C) / No error (D)'",
+    "options": ["but he failed", "Although he worked hard", "in the examination", "No error"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Although / Even though' is followed by 'yet' or a simple comma, not 'but'. Using 'but' makes it redundant.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "Spot the error:\n'The climate of Shimla (A) / is cooler than (B) / Delhi (C) / No error (D)'",
+    "options": ["Delhi", "The climate of Shimla", "is cooler than", "No error"],
+    "correctAnswerIndex": 0,
+    "explanation": "Comparison must be between equivalent items: the climate of Shimla must be compared with the climate of Delhi ('that of Delhi'), not Delhi itself.",
+    "difficulty": "Hard",
+    "year": 2023
+  }
+]
