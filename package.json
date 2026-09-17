@@ -1,0 +1,47 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "seed": "tsx src/services/seed.ts",
+    "import": "tsx src/scripts/importContent.ts",
+    "import:file": "tsx src/scripts/importContent.ts --file",
+    "validate-content": "tsx src/scripts/validateContent.ts",
+    "content-report": "tsx src/scripts/contentReport.ts",
+    "export:docs": "tsx src/scripts/exportQuestionsOnly.ts",
+    "generate:ai": "tsx src/scripts/aiQuestionGenerator.ts",
+    "import:md": "tsx src/scripts/importMarkdown.ts",
+    "seed:jpsc:hierarchy": "tsx src/scripts/seedJPSCHierarchy.ts",
+    "test:multi-exam": "tsx src/scripts/testMultiExamApi.ts",
+    "ingest:jpsc-paper1": "tsx src/scripts/ingestJPSCPaper1.ts",
+    "test:jpsc-paper1": "tsx src/scripts/testJPSCPaper1Flow.ts",
+    "ingest:jpsc-paper2": "tsx src/scripts/ingestJPSCPaper2.ts",
+    "test:jpsc-mock": "tsx src/scripts/testJPSCMockEngine.ts",
+    "test": "tsx src/scripts/testMockFlow.ts && tsx src/scripts/testPerformanceFlow.ts && tsx src/scripts/testSmartSelection.ts && tsx src/scripts/testRevisionFlow.ts && tsx src/scripts/testStudyPlanFlow.ts && tsx src/scripts/testStreakFlow.ts && tsx src/scripts/testMultiExamApi.ts && tsx src/scripts/testJPSCPaper1Flow.ts && tsx src/scripts/testJPSCMockEngine.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^8.3.0",
+    "mongoose": "^9.9.4",
+    "openai": "^7.15.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}

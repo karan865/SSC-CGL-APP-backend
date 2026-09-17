@@ -1,0 +1,902 @@
+[
+  {
+    "questionText": "Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-6] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-7] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-8] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-9] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-10] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-11] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-12] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-13] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-14] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-15] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-16] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-17] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-18] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-19] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-20] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-21] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-22] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-23] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-24] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-25] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-26] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-27] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-28] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-29] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-30] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-31] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-32] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-33] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-34] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-35] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-36] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-37] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-38] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-39] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-40] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-41] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-42] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-43] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-44] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-45] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-46] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-47] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-48] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-49] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-50] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-51] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-52] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-53] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-54] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-55] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-56] Select the alternative that will improve the underlined/bracketed part: 'He did not know the answer, and neither did I.'",
+    "options": [
+      "No improvement",
+      "and neither I did",
+      "and I neither did",
+      "neither did I also"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inversion is correctly used after 'neither': 'neither did I'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-57] Select the alternative that will improve the underlined/bracketed part: 'The train had left before I arrived at the station.'",
+    "options": [
+      "No improvement",
+      "has left",
+      "was leaving",
+      "leaves"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For two completed past actions, the earlier action is in Past Perfect ('had left') and the later in Simple Past ('arrived').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-58] Select the alternative that will improve the underlined/bracketed part: 'I am looking forward to meet you next week.'",
+    "options": [
+      "to meeting you",
+      "to have met you",
+      "meeting you",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Looking forward to' is followed by a gerund (-ing form), so 'to meeting you' is correct.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-59] Select the alternative that will improve the underlined/bracketed part: 'Hardly had he arrived then the meeting started.'",
+    "options": [
+      "when the meeting started",
+      "than the meeting started",
+      "as the meeting started",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Hardly' is correctly correlated with 'when', not 'then'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[SI-60] Select the alternative that will improve the underlined/bracketed part: 'She insisted to go to the market alone.'",
+    "options": [
+      "on going",
+      "to going",
+      "in going",
+      "No improvement"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes the preposition 'on' followed by a gerund: 'insisted on going'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

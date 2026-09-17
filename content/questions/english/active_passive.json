@@ -1,0 +1,752 @@
+[
+  {
+    "questionText": "Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-6] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-7] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-8] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-9] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-10] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-11] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-12] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-13] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-14] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-15] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-16] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-17] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-18] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-19] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-20] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-21] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-22] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-23] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-24] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-25] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-26] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-27] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-28] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-29] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-30] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-31] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-32] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-33] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-34] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-35] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-36] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-37] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-38] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-39] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-40] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-41] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-42] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-43] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-44] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-45] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-46] Change the voice of the sentence: 'The chef prepared a sumptuous meal.'",
+    "options": [
+      "A sumptuous meal was prepared by the chef.",
+      "A sumptuous meal is prepared by the chef.",
+      "A sumptuous meal had been prepared by the chef.",
+      "A sumptuous meal was being prepared by the chef."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple Past ('prepared') converts to 'was/were + V3' ('was prepared').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-47] Change the voice of the sentence: 'She is writing a letter to her friend.'",
+    "options": [
+      "A letter is being written by her to her friend.",
+      "A letter was written by her to her friend.",
+      "A letter has been written by her to her friend.",
+      "A letter is written by her to her friend."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Continuous ('is writing') converts to 'is/are + being + V3' ('is being written').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-48] Change the voice of the sentence: 'They have completed the project on time.'",
+    "options": [
+      "The project has been completed by them on time.",
+      "The project was completed by them on time.",
+      "The project had been completed by them on time.",
+      "The project is completed by them on time."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Present Perfect ('have completed') converts to 'has/have been + V3' ('has been completed').",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-49] Change the voice of the sentence: 'The police arrested the thief yesterday.'",
+    "options": [
+      "The thief was arrested by the police yesterday.",
+      "The thief is arrested by the police yesterday.",
+      "The thief had been arrested by the police yesterday.",
+      "The thief was being arrested by the police yesterday."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple past converts to 'was arrested'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "[Voice-50] Change the voice of the sentence: 'Close the door immediately.'",
+    "options": [
+      "Let the door be closed immediately.",
+      "You should close the door.",
+      "The door will be closed.",
+      "Let door close."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Imperative sentences take the form: 'Let + subject + be + V3'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

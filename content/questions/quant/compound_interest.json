@@ -1,0 +1,17 @@
+[
+  {
+    "questionText": "A sum of money amounts to ₹11,484 in 2 years and ₹12,632.40 in 3 years at compound interest, compounded annually. Find the rate of interest.",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Interest in 3rd year} = 12,632.40 - 11,484 = ₹1,148.40. Rate of interest} = 1,148.40/11,484 × 100 = 10\\%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

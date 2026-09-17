@@ -1,0 +1,1192 @@
+[
+  {
+    "questionText": "Identify the segment that contains a grammatical error:\n'Neither the teacher (A) / nor the students (B) / was present in the hall (C) / No error (D)'",
+    "options": [
+      "was present in the hall",
+      "Neither the teacher",
+      "nor the students",
+      "No error"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When two subjects are connected by 'neither... nor', the verb agrees with the subject closest to it. Since 'students' is plural, the verb should be 'were present'.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Find the error in the sentence:\n'One of my friend (A) / is an engineer (B) / in Bangalore (C) / No error (D)'",
+    "options": [
+      "One of my friend",
+      "is an engineer",
+      "in Bangalore",
+      "No error"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The phrase 'One of' is always followed by a plural noun. Hence, it must be 'One of my friends'.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "Spot the error:\n'Scarcely had he gone (A) / than a policeman knocked (B) / at the front door (C) / No error (D)'",
+    "options": [
+      "than a policeman knocked",
+      "Scarcely had he gone",
+      "at the front door",
+      "No error"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Scarcely' and 'Hardly' are always correlated with 'when' or 'before', never 'than'. 'No sooner' takes 'than'.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Identify the erroneous segment:\n'Although he worked hard, (A) / but he failed (B) / in the examination (C) / No error (D)'",
+    "options": [
+      "but he failed",
+      "Although he worked hard",
+      "in the examination",
+      "No error"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Although / Even though' is followed by 'yet' or a simple comma, not 'but'. Using 'but' makes it redundant.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "Spot the error:\n'The climate of Shimla (A) / is cooler than (B) / Delhi (C) / No error (D)'",
+    "options": [
+      "Delhi",
+      "The climate of Shimla",
+      "is cooler than",
+      "No error"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Comparison must be between equivalent items: the climate of Shimla must be compared with the climate of Delhi ('that of Delhi'), not Delhi itself.",
+    "difficulty": "Hard",
+    "year": 2023
+  },
+  {
+    "questionText": "Spot the error in the sentence: Neither of the two candidates (A) / have submitted (B) / their application form (C) / on time. (D)",
+    "options": [
+      "have submitted",
+      "Neither of the two candidates",
+      "their application form",
+      "on time"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'Neither of' is followed by a plural noun but takes a singular verb. 'have submitted' should be 'has submitted'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: Each of the students (A) / were given (B) / a certificate of merit (C) / by the principal. (D)",
+    "options": [
+      "were given",
+      "Each of the students",
+      "a certificate of merit",
+      "by the principal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'Each of' takes a singular verb. 'were given' should be 'was given'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: The scissor (A) / is lying on the table (B) / next to the notebook (C) / and pen. (D)",
+    "options": [
+      "The scissor",
+      "is lying on the table",
+      "next to the notebook",
+      "and pen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (A) and (B). 'Scissors' is always plural and takes a plural verb: 'The scissors are lying...'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: He is senior (A) / than me (B) / by two years (C) / in this organization. (D)",
+    "options": [
+      "than me",
+      "He is senior",
+      "by two years",
+      "in this organization"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). Adjectives ending in '-ior' (senior, junior, superior, inferior, prior) take the preposition 'to', not 'than'. Replace 'than me' with 'to me'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: Scarcely had he gone out (A) / than it started (B) / raining heavily (C) / outside. (D)",
+    "options": [
+      "than it started",
+      "Scarcely had he gone out",
+      "raining heavily",
+      "outside"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'Scarcely / Hardly' is followed by 'when', not 'than'. Replace 'than' with 'when'. ('No sooner' is followed by 'than').",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: No sooner did the bell ring (A) / when the students (B) / rushed out of (C) / their classrooms. (D)",
+    "options": [
+      "when the students",
+      "No sooner did the bell ring",
+      "rushed out of",
+      "their classrooms"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'No sooner' is paired with 'than', not 'when'. Replace 'when' with 'than'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: Although he worked hard (A) / but he failed (B) / to secure (C) / top marks. (D)",
+    "options": [
+      "but he failed",
+      "Although he worked hard",
+      "to secure",
+      "top marks"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'Although / Even though' is followed by 'yet' or a comma, never by 'but'. Remove 'but'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: One of my friend (A) / is an engineer (B) / in a reputed multinational (C) / software firm. (D)",
+    "options": [
+      "One of my friend",
+      "is an engineer",
+      "in a reputed multinational",
+      "software firm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (A). 'One of' is followed by a plural noun. It should be 'One of my friends'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: He told me (A) / that he will not attend (B) / the meeting (C) / tomorrow. (D)",
+    "options": [
+      "that he will not attend",
+      "He told me",
+      "the meeting",
+      "tomorrow"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). In indirect speech with a past reporting verb ('told'), 'will' changes to 'would': 'that he would not attend'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Spot the error in the sentence: I would rather die (A) / than to beg (B) / for food (C) / from strangers. (D)",
+    "options": [
+      "than to beg",
+      "I would rather die",
+      "for food",
+      "from strangers"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error is in (B). 'Would rather' takes a bare infinitive. Replace 'than to beg' with 'than beg'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-26] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-27] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-28] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-29] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-30] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-31] Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-32] Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-33] Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-34] Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-35] Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-36] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-37] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-38] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-39] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-40] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-41] Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-42] Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-43] Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-44] Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-45] Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-46] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-47] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-48] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-49] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-50] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-51] Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-52] Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-53] Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-54] Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-55] Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-56] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-57] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-58] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-59] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-60] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-61] Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-62] Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-63] Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-64] Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-65] Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-66] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-67] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-68] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-69] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-70] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-71] Find the grammatical error: 'He is good in Mathematics and English.'",
+    "options": [
+      "good in",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct idiom is 'good at' a subject/skill: 'good at Mathematics'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-72] Find the grammatical error: 'Unless you do not work hard, you will not succeed in the exam.'",
+    "options": [
+      "Unless you do not",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' itself expresses a negative condition; using 'do not' creates a double negative. Say: 'Unless you work hard'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-73] Find the grammatical error: 'Supposing if it rains, what will we do?'",
+    "options": [
+      "Supposing if",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Supposing' and 'if' mean the same thing; using both together is redundant (superfluous). Use either 'Supposing' or 'If'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-74] Find the grammatical error: 'Ten miles are a long distance to cover on foot.'",
+    "options": [
+      "are a long distance",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When a plural noun denotes a specific quantity/distance considered as a single unit, it takes a singular verb: 'is a long distance'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-75] Find the grammatical error: 'Bread and butter are his favorite breakfast item.'",
+    "options": [
+      "are his favorite",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Bread and butter' refers to a single composite dish/idea, so it takes a singular verb: 'is his favorite'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-76] Find the grammatical error: 'Between you and I, this decision is completely unfair.'",
+    "options": [
+      "Between you and I",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Between is a preposition and takes objective case pronouns: 'Between you and me'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-77] Find the grammatical error: 'The furniture in this room are very old and outdated.'",
+    "options": [
+      "furniture ... are",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Furniture' is an uncountable noun and always takes a singular verb: 'is very old'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-78] Find the grammatical error: 'Lend me your ears, for I have many advices to give you.'",
+    "options": [
+      "many advices",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Advice' is an uncountable noun. Correct usage: 'much advice' or 'many pieces of advice'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-79] Find the grammatical error: 'He prevented me to go there at night alone.'",
+    "options": [
+      "prevented me to go",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Prevent' takes the preposition 'from' + gerund: 'prevented me from going there'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Err-80] Find the grammatical error: 'She insisted to pay for the dinner at the restaurant.'",
+    "options": [
+      "insisted to pay",
+      "No error",
+      "Part A",
+      "Part D"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Insist' takes 'on' + gerund: 'insisted on paying'.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

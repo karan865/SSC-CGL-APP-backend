@@ -1,0 +1,617 @@
+[
+  {
+    "questionText": "Two trains of equal length are running on parallel tracks in the same direction at 54 km/h and 42 km/h. The faster train completely passes the slower train in 60 seconds. Find the length of each train.",
+    "options": [
+      "100 m",
+      "120 m",
+      "150 m",
+      "200 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Relative speed} = 54 - 42 = 12 km/h} = 12 × 5/18 = 10/3 m/s}. Total distance } (2L) = 10/3 × 60 = 200 m}. Length of each train } L = 200/2 = 100 m}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A person covers a certain distance at a speed of 60 km/h and returns to the starting point at a speed of 40 km/h. Find his average speed for the whole journey.",
+    "options": [
+      "48 km/h",
+      "50 km/h",
+      "45 km/h",
+      "52 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 48 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A car travels 1/3 of the distance at 20 km/h, the next 1/3 at 30 km/h, and the remaining 1/3 at 60 km/h. What is the average speed of the car for the entire journey?",
+    "options": [
+      "30 km/h",
+      "25 km/h",
+      "40 km/h",
+      "35 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 30 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man walking at 3/4 of his usual speed reaches his office 20 minutes late. Find his usual time to reach the office.",
+    "options": [
+      "60 minutes",
+      "45 minutes",
+      "80 minutes",
+      "50 minutes"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 60 minutes.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a boy walks from his house to school at the rate of 4 km/h, he reaches the school 10 minutes earlier than the scheduled time. However, if he walks at the rate of 3 km/h, he reaches 10 minutes late. Find the distance of his school.",
+    "options": [
+      "4 km",
+      "5 km",
+      "6 km",
+      "3 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 4 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train 150 m long is running at a speed of 90 km/h. How much time will it take to cross a railway signal?",
+    "options": [
+      "6 sec",
+      "5 sec",
+      "8 sec",
+      "10 sec"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 6 sec.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two trains, 130 m and 110 m long, are running in the same direction at speeds of 60 km/h and 42 km/h respectively. In how much time will the faster train pass the other?",
+    "options": [
+      "48 sec",
+      "54 sec",
+      "50 sec",
+      "60 sec"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 48 sec.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 m and they cross each other in 12 seconds, find the speed of each train.",
+    "options": [
+      "36 km/h",
+      "72 km/h",
+      "54 km/h",
+      "45 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 36 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 km/h and 4 km/h and passes them completely in 9 and 10 seconds respectively. Find the length of the train.",
+    "options": [
+      "50 m",
+      "45 m",
+      "60 m",
+      "55 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 50 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train traveling at 60 km/h crosses a platform of length equal to its own length in 30 seconds. Find the length of the train.",
+    "options": [
+      "250 m",
+      "300 m",
+      "200 m",
+      "150 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 250 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train passes a man standing on a platform in 8 seconds and also crosses the platform which is 264 m long in 20 seconds. The length of the train is:",
+    "options": [
+      "176 m",
+      "150 m",
+      "160 m",
+      "180 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 176 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man can row at 5 km/h in still water. If the velocity of current is 1 km/h and it takes him 1 hour to row to a place and come back, how far is the place?",
+    "options": [
+      "2.4 km",
+      "2.5 km",
+      "3 km",
+      "2 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 2.4 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boat goes 24 km upstream and 28 km downstream in 6 hours. It goes 30 km upstream and 21 km downstream in 6 hours and 30 minutes. Find the speed of the boat in still water.",
+    "options": [
+      "10 km/h",
+      "8 km/h",
+      "12 km/h",
+      "9 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": [
+      "15 km/h",
+      "12 km/h",
+      "18 km/h",
+      "10 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 15 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The speed of a boat in still water is 15 km/h and the rate of current is 3 km/h. The distance travelled downstream in 12 minutes is:",
+    "options": [
+      "3.6 km",
+      "2.4 km",
+      "1.2 km",
+      "4.8 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 3.6 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man rows down a river 15 km in 3 hrs. with the stream and returns in 7.5 hrs. The rate at which he rows in still water is:",
+    "options": [
+      "3.5 km/h",
+      "2.5 km/h",
+      "4 km/h",
+      "3 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 3.5 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two persons A and B start from P and Q respectively towards each other at the same time. After crossing each other, they take 4 hours and 9 hours respectively to reach their destinations. If A's speed is 36 km/h, find B's speed.",
+    "options": [
+      "24 km/h",
+      "18 km/h",
+      "27 km/h",
+      "30 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 24 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A thief is noticed by a policeman from a distance of 200 m. The thief starts running and the policeman chases him. The thief and the policeman run at the rate of 10 km/h and 11 km/h respectively. What is the distance between them after 6 minutes?",
+    "options": [
+      "100 m",
+      "150 m",
+      "50 m",
+      "120 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 100 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 km/h. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 km/h. At what time will they meet?",
+    "options": [
+      "10 a.m.",
+      "9 a.m.",
+      "10:30 a.m.",
+      "11 a.m."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10 a.m..",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A rabbit takes 5 leaps for every 4 leaps of a dog, but 3 leaps of the dog are equal to 4 leaps of the rabbit. Compare their speeds (Rabbit : Dog).",
+    "options": [
+      "15:16",
+      "16:15",
+      "5:4",
+      "3:4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 15:16.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a 1 km race, A beats B by 100 meters and B beats C by 100 meters. By how many meters does A beat C in the same race?",
+    "options": [
+      "190 m",
+      "200 m",
+      "180 m",
+      "210 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 190 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two persons A and B start running around a circular track of length 400 m at speeds of 10 m/s and 15 m/s respectively in the same direction. After how much time will they meet for the first time on the track?",
+    "options": [
+      "80 sec",
+      "40 sec",
+      "60 sec",
+      "100 sec"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 80 sec.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Three persons start walking together on a circular track. Their speeds are 4, 5, and 8 km/h respectively, and the length of the track is 10 km. After how many hours will they meet at the starting point again?",
+    "options": [
+      "10 hours",
+      "5 hours",
+      "20 hours",
+      "15 hours"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10 hours.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Without stoppages, a train travels at an average speed of 75 km/h and with stoppages it covers the same distance at an average speed of 60 km/h. How many minutes per hour does the train stop?",
+    "options": [
+      "12 min",
+      "15 min",
+      "10 min",
+      "20 min"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 12 min.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A monkey climbs a 60 m high pole. In the first minute, he climbs 6 m and slips down 3 m in the next minute. How much time will he take to reach the top?",
+    "options": [
+      "37 min",
+      "38 min",
+      "39 min",
+      "40 min"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 37 min.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boy goes to his school from his house at a speed of 3 km/hr and returns at a speed of 2 km/hr. If he takes 5 hours in going and coming, the distance between his house and school is:",
+    "options": [
+      "6 km",
+      "5 km",
+      "7 km",
+      "8 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 6 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If a person increases his speed by 20%, what will be the percentage decrease in the time taken to cover the same distance?",
+    "options": [
+      "16.66%",
+      "20%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 16.66%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man travelled a distance of 80 km in 7 hours partly on foot at the rate of 8 km/h and partly on bicycle at 16 km/h. Find the distance travelled on foot.",
+    "options": [
+      "32 km",
+      "48 km",
+      "40 km",
+      "36 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 32 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two trains start at the same time from Aligarh and Delhi and proceed towards each other at the rate of 14 km/h and 21 km/h respectively. When they meet, it is found that one train has travelled 70 km more than the other. The distance between two stations is:",
+    "options": [
+      "350 km",
+      "300 km",
+      "400 km",
+      "250 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 350 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:",
+    "options": [
+      "150 m",
+      "100 m",
+      "120 m",
+      "125 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 150 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:",
+    "options": [
+      "87.5 km/h",
+      "85 km/h",
+      "90 km/h",
+      "80.5 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 87.5 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boat goes 40 km upstream in 8 hours and 36 km downstream in 6 hours. The speed of the boat in still water is:",
+    "options": [
+      "5.5 km/h",
+      "5 km/h",
+      "6 km/h",
+      "6.5 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 5.5 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a stream running at 2 km/h, a motorboat goes 10 km upstream and back again to the starting point in 55 minutes. Find the speed of the motorboat in still water.",
+    "options": [
+      "22 km/h",
+      "20 km/h",
+      "18 km/h",
+      "24 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 22 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A car travels from P to Q at a constant speed. If its speed were increased by 10 km/h, it would have taken 1 hour less to cover the distance. It would have taken further 45 minutes lesser if the speed was further increased by 10 km/h. The distance between the two cities is:",
+    "options": [
+      "420 km",
+      "400 km",
+      "360 km",
+      "450 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 420 km.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two cars start from a place with a speed of 40 km/h at an interval of 10 minutes. What is the speed of a man coming from the opposite direction towards the place if he meets the cars at an interval of 8 minutes?",
+    "options": [
+      "10 km/h",
+      "8 km/h",
+      "12 km/h",
+      "15 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 10 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a 100 m race, A runs at 8 km/h. If A gives B a start of 4 m and still beats him by 15 seconds, what is the speed of B?",
+    "options": [
+      "5.76 km/h",
+      "5 km/h",
+      "6 km/h",
+      "6.25 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 5.76 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A train travels at 72 km/h and completely passes another train twice its length and travelling in the opposite direction at 54 km/h, in 12 seconds. Find the length of the first train.",
+    "options": [
+      "140 m",
+      "120 m",
+      "150 m",
+      "160 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 140 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A boat goes 15 km upstream and 22 km downstream in 5 hours. It goes 20 km upstream and 27.5 km downstream in 6.5 hours. What is the speed of the stream?",
+    "options": [
+      "3 km/h",
+      "2 km/h",
+      "4 km/h",
+      "2.5 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 3 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A starts from X to Y and B starts from Y to X simultaneously. After crossing each other, they take 4 hours 48 mins and 3 hours 20 mins respectively to reach their destinations. If A's speed is 45 km/h, what is B's speed?",
+    "options": [
+      "54 km/h",
+      "40 km/h",
+      "50 km/h",
+      "48 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 54 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A bus covers a distance of 200 km. It travels the first 100 km at 50 km/h and the next 100 km at 40 km/h. Find its average speed.",
+    "options": [
+      "44.44 km/h",
+      "45 km/h",
+      "42.5 km/h",
+      "46 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 44.44 km/h.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/h and the time of flight increased by 30 minutes. Find the original duration of the flight.",
+    "options": [
+      "1 hour",
+      "1.5 hours",
+      "2 hours",
+      "45 mins"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1 hour.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

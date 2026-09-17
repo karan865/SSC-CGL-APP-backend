@@ -1,0 +1,1267 @@
+[
+  {
+    "questionText": "In which year was the First Battle of Panipat fought?",
+    "options": [
+      "1526",
+      "1556",
+      "1761",
+      "1576"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The First Battle of Panipat was fought on 21 April 1526 between Babur and Ibrahim Lodi, marking the beginning of the Mughal Empire in India.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Who was the founder of the Maurya Dynasty in ancient India?",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka the Great",
+      "Brihadratha"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance of his guru Chanakya (Kautilya).",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "The historic 'Dandi March' led by Mahatma Gandhi in 1930 was launched to protest against which unjust law?",
+    "options": [
+      "Salt Tax",
+      "Rowlatt Act",
+      "Simon Commission",
+      "Vernacular Press Act"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mahatma Gandhi began the historic Salt Satyagraha on March 12, 1930, walking from Sabarmati to Dandi to defy the British monopoly on salt production.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Which Mughal Emperor abolished the pilgrim tax and Jizya on non-Muslim subjects?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Emperor Akbar abolished the pilgrim tax in 1563 and the Jizya tax in 1564 as part of his policy of Sulh-i-kul (universal peace).",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "The Indus Valley site 'Lothal', famous for its ancient dockyard, is located in which modern state of India?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lothal is situated near the Bhogava river in the Bhal region of modern Gujarat, and served as a prominent Harappan tidal dockyard and port city.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Who was the founder of the Maurya Empire in ancient India?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara",
+      "Brihadratha"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance of Chanakya (Kautilya).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Indus Valley site of Harappa was discovered in 1921 by which archaeologist?",
+    "options": [
+      "Daya Ram Sahni",
+      "R.D. Banerjee",
+      "John Marshall",
+      "Mortimer Wheeler"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Daya Ram Sahni excavated Harappa in 1921. Mohenjodaro was excavated in 1922 by R.D. Banerjee.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Mughal Emperor built the famous 'Buland Darwaza' at Fatehpur Sikri?",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Jahangir",
+      "Babur"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Akbar built the Buland Darwaza (Gate of Magnificence) in 1601 to commemorate his victory over Gujarat.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-9] In which year was the First Battle of Panipat fought?",
+    "options": [
+      "1526",
+      "1556",
+      "1761",
+      "1539"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The First Battle of Panipat was fought on 21 April 1526 between Babur and Ibrahim Lodi, establishing the Mughal Empire.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who was the Governor-General of India during the Revolt of 1857?",
+    "options": [
+      "Lord Canning",
+      "Lord Dalhousie",
+      "Lord Curzon",
+      "Lord William Bentinck"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lord Canning was the Governor-General of India during the 1857 revolt and became the first Viceroy under the Government of India Act 1858.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In which session of the Indian National Congress was the resolution of 'Poorna Swaraj' (Complete Independence) adopted?",
+    "options": [
+      "Lahore Session (1929)",
+      "Karachi Session (1931)",
+      "Calcutta Session (1928)",
+      "Belgaum Session (1924)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Lahore Session of INC in December 1929, presided over by Jawaharlal Nehru, passed the historic Poorna Swaraj resolution.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who founded the 'Arya Samaj' in 1875?",
+    "options": [
+      "Swami Dayanand Saraswati",
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Swami Dayanand Saraswati founded the Arya Samaj in Bombay in 1875 with the motto 'Go back to the Vedas'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The historic 'Dandi March' (Salt Satyagraha) was initiated by Mahatma Gandhi from Sabarmati Ashram in which year?",
+    "options": [
+      "1930",
+      "1931",
+      "1920",
+      "1942"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mahatma Gandhi began the Dandi March on March 12, 1930 and broke the salt law at Dandi on April 6, 1930, launching the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who was the founder of the Slave (Mamluk) Dynasty in Delhi Sultanate?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Balban",
+      "Razia Sultan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Qutb-ud-din Aibak founded the Mamluk/Slave dynasty in 1206 CE.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who among the following was known as the 'Frontier Gandhi'?",
+    "options": [
+      "Khan Abdul Ghaffar Khan",
+      "Maulana Abul Kalam Azad",
+      "Liaquat Ali Khan",
+      "Muhammad Ali Jinnah"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Khan Abdul Ghaffar Khan was known as the Frontier Gandhi (Badshah Khan) and founded the Khudai Khidmatgar movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-26] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-27] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-28] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-29] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-30] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-31] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-32] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-33] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-34] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-35] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-36] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-37] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-38] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-39] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-40] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-41] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-42] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-43] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-44] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-45] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-46] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-47] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-48] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-49] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-50] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-51] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-52] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-53] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-54] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-55] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-56] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-57] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-58] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-59] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-60] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-61] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-62] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-63] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-64] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-65] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-66] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-67] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-68] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-69] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-70] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-71] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-72] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-73] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-74] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-75] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-76] Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1762",
+      "1754",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on June 23, 1757 between British East India Company (Robert Clive) and Siraj-ud-Daulah.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-77] Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1769",
+      "1761",
+      "1774"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on October 22, 1764, confirming British control over Bengal, Bihar, and Orissa.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-78] Third Battle of Panipat was fought in which year?",
+    "options": [
+      "1761",
+      "1766",
+      "1758",
+      "1771"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on January 14, 1761 between Ahmad Shah Durrani and the Marathas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-79] Second Battle of Panipat was fought in which year?",
+    "options": [
+      "1556",
+      "1561",
+      "1553",
+      "1566"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Fought on November 5, 1556 between Hemu and Akbar's forces led by Bairam Khan.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-80] The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": [
+      "1920",
+      "1925",
+      "1917",
+      "1930"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched in 1920 after the Jallianwala Bagh massacre and Rowlatt Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-81] The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1939",
+      "1952"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Launched on August 8, 1942 at the Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-82] The Partition of Bengal was announced by Lord Curzon in which year?",
+    "options": [
+      "1905",
+      "1910",
+      "1902",
+      "1915"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Announced in July 1905 and took effect on October 16, 1905, triggering the Swadeshi Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-83] The Jallianwala Bagh Massacre took place on 13th April of which year?",
+    "options": [
+      "1919",
+      "1924",
+      "1916",
+      "1929"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "General Reginald Dyer ordered troops to fire on unarmed gathering on Baisakhi day in Amritsar in 1919.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-84] The Gandhi-Irwin Pact was signed in which year?",
+    "options": [
+      "1931",
+      "1936",
+      "1928",
+      "1941"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Signed on March 5, 1931, leading to the suspension of the Civil Disobedience Movement.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Hist-85] The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1890",
+      "1882",
+      "1895"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Founded in December 1885 at Bombay by A.O. Hume, with W.C. Bonnerjee as its first President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "questionText": "If the price of petrol increases by 25%, by what percentage should a driver reduce consumption so that total expenditure remains the same?",
+    "options": [
+      "20%",
+      "25%",
+      "16.66%",
+      "33.33%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Required percentage reduction = [r / (100 + r)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = 20%.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "A trader marks his goods at 30% above the cost price and allows a discount of 15% for cash payment. Find his gain percentage.",
+    "options": [
+      "10.5%",
+      "12%",
+      "15%",
+      "8.5%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let CP = 100. Marked Price (MP) = 130. Selling Price (SP) after 15% discount = 130 * 0.85 = 110.5. Profit = 110.5 - 100 = 10.5%.",
+    "difficulty": "Medium",
+    "year": 2023
+  }
+]

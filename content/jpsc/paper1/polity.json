@@ -1,0 +1,1063 @@
+[
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Which Constitutional Amendment Act added the words \"Socialist\", \"Secular\", and \"Integrity\" to the Preamble of the Indian Constitution?",
+    "options": [
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1978",
+      "52nd Amendment Act, 1985",
+      "86th Amendment Act, 2002"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 (known as the \"Mini-Constitution\") amended the Preamble for the first and only time by inserting the terms \"Socialist\", \"Secular\", and \"Integrity\".",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "In which landmark case did the Supreme Court of India propound the \"Basic Structure Doctrine\" of the Constitution?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala (1973)",
+      "Golaknath v. State of Punjab (1967)",
+      "Minerva Mills v. Union of India (1980)",
+      "Maneka Gandhi v. Union of India (1978)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A historic 13-judge bench in Kesavananda Bharati (April 24, 1973) held by a 7:6 majority that Parliament’s constituent amending power under Article 368 cannot alter or destroy the \"basic structure\" of the Constitution.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Under which Article of the Indian Constitution is the right to constitutional remedies provided, described by Dr. B.R. Ambedkar as the \"Heart and Soul of the Constitution\"?",
+    "options": [
+      "Article 32",
+      "Article 226",
+      "Article 19",
+      "Article 21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 32 guarantees the right to approach the Supreme Court directly for the enforcement of fundamental rights through prerogative writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Which Article of the Constitution guarantees the \"Right to Privacy\" as an intrinsic part of the Right to Life and Personal Liberty?",
+    "options": [
+      "Article 21",
+      "Article 19",
+      "Article 14",
+      "Article 20"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In the landmark unanimous nine-judge ruling in Justice K.S. Puttaswamy (Retd.) v. Union of India (2017), the Supreme Court affirmed that privacy is a fundamental right emanating from Article 21 and Part III.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Article 21A, which makes free and compulsory education for all children between 6 and 14 years a Fundamental Right, was inserted by which Amendment?",
+    "options": [
+      "86th Constitutional Amendment Act, 2002",
+      "91st Constitutional Amendment Act, 2003",
+      "73rd Constitutional Amendment Act, 1992",
+      "44th Constitutional Amendment Act, 1978"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 86th Constitutional Amendment Act of 2002 added Article 21A, amended Article 45 in DPSP, and added Fundamental Duty 51A(k).",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The concept of \"Directive Principles of State Policy\" (DPSP) in Part IV of the Indian Constitution was borrowed from the constitution of which country?",
+    "options": [
+      "Ireland (Irish Free State)",
+      "USSR",
+      "United States",
+      "Australia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The framers of the Indian Constitution borrowed the Directive Principles of State Policy from the 1937 Constitution of Ireland (which in turn borrowed it from the Spanish Constitution).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Article 44 of the Directive Principles of State Policy directs the State to secure for its citizens:",
+    "options": [
+      "A Uniform Civil Code throughout the territory of India",
+      "Separation of judiciary from executive",
+      "Promotion of international peace",
+      "Organization of village panchayats"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 44 states: \"The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.\"",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Fundamental Duties in Article 51A were incorporated into the Indian Constitution on the recommendation of which committee?",
+    "options": [
+      "Swaran Singh Committee",
+      "Sarkaria Commission",
+      "Verma Committee",
+      "Balwant Rai Mehta Committee"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties, which were enacted via the 42nd Amendment Act 1976.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Under Article 61 of the Constitution, an impeachment motion against the President of India can be initiated in:",
+    "options": [
+      "Either House of Parliament",
+      "Lok Sabha only",
+      "Rajya Sabha only",
+      "The Supreme Court"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "An impeachment charge against the President for \"violation of the Constitution\" may be initiated in either House of Parliament with a 14-day notice signed by at least one-fourth of that House’s total membership.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Who presides over a Joint Sitting of both Houses of Parliament summoned by the President under Article 108?",
+    "options": [
+      "Speaker of the Lok Sabha",
+      "Chairman of the Rajya Sabha (Vice President)",
+      "President of India",
+      "Prime Minister"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting; in their absence, the Deputy Speaker, or if also absent, the Deputy Chairman of the Rajya Sabha presides (the Chairman of Rajya Sabha never presides).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "A Money Bill under Article 110 can be introduced ONLY in:",
+    "options": [
+      "Lok Sabha with the prior recommendation of the President",
+      "Rajya Sabha with the recommendation of the President",
+      "Either House of Parliament",
+      "Joint Sitting of Parliament"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 109 and 117 mandate that a Money Bill can originate only in the Lok Sabha upon the prior recommendation of the President, and the Speaker’s certificate under Article 110(4) is final.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "What is the maximum period for which the Rajya Sabha can detain or delay a Money Bill transmitted to it by the Lok Sabha?",
+    "options": [
+      "14 days",
+      "30 days",
+      "3 months",
+      "6 months"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 109(5), if the Rajya Sabha does not return a Money Bill within 14 days, it is deemed to have been passed by both Houses in the form passed by the Lok Sabha.",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Under Article 356, on receipt of a report from the Governor, the President can proclaim President’s Rule in a State. This proclamation must be approved by Parliament within:",
+    "options": [
+      "Two months",
+      "One month",
+      "Six months",
+      "Three weeks"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 356(3), every proclamation imposing President’s Rule must be approved by simple majority resolutions in both Houses of Parliament within two months of its issuance.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "In S.R. Bommai v. Union of India (1994), the Supreme Court ruled that a presidential proclamation under Article 356 is:",
+    "options": [
+      "Subject to judicial review",
+      "Completely immune from judicial review",
+      "Subject only to presidential discretion",
+      "Valid only with unanimous cabinet assent"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A nine-judge bench in S.R. Bommai held that the proclamation under Article 356 is subject to judicial review on grounds of mala fide and unconstitutional use, and that federalism and secularism are basic features.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Under which Article of the Constitution is the Comptroller and Auditor General (CAG) of India appointed by the President?",
+    "options": [
+      "Article 148",
+      "Article 76",
+      "Article 280",
+      "Article 324"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 148 provides for an independent Comptroller and Auditor General of India, who audits all receipts and expenditures of the Government of India and State Governments.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Which constitutional body is constituted every fifth year by the President under Article 280 to recommend the distribution of net tax proceeds between the Union and States?",
+    "options": [
+      "Finance Commission",
+      "Goods and Services Tax Council",
+      "NITI Aayog",
+      "Inter-State Council"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 280 requires the President to constitute a Finance Commission consisting of a Chairman and four other members every five years to formulate tax devolution principles.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Who was appointed the Chairman of the 16th Finance Commission constituted by the Government of India in December 2023?",
+    "options": [
+      "Dr. Arvind Panagariya",
+      "N. K. Singh",
+      "Dr. Y. V. Reddy",
+      "Dr. C. Rangarajan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Government constituted the 16th Finance Commission under the chairmanship of Dr. Arvind Panagariya (former Vice-Chairman of NITI Aayog) to make recommendations for the 2026–2031 award period.",
+    "difficulty": "Medium",
+    "questionType": "PYQ_INSPIRED",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Which Article of the Constitution provides for the Election Commission of India for superintendence, direction, and control of elections?",
+    "options": [
+      "Article 324",
+      "Article 326",
+      "Article 315",
+      "Article 338"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 324 vests the superintendence, direction, and control of elections to Parliament, State Legislatures, and the offices of President and Vice President in the Election Commission.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Which Constitutional Amendment Act reduced the voting age from 21 years to 18 years for Lok Sabha and Legislative Assembly elections?",
+    "options": [
+      "61st Amendment Act, 1988",
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1978",
+      "73rd Amendment Act, 1992"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 to lower the voting age from 21 to 18 years, coming into force on March 28, 1989.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The Anti-Defection Law was inserted into the Tenth Schedule of the Constitution by which Constitutional Amendment Act?",
+    "options": [
+      "52nd Amendment Act, 1985",
+      "91st Amendment Act, 2003",
+      "44th Amendment Act, 1978",
+      "86th Amendment Act, 2002"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 52nd Constitutional Amendment Act of 1985 added the Tenth Schedule laying down the grounds for disqualification of members of Parliament and State Legislatures on defection.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The 91st Constitutional Amendment Act, 2003, capped the total number of Ministers, including the Prime Minister/Chief Minister, in the Council of Ministers at what percentage of the total strength of the Lower House?",
+    "options": [
+      "15%",
+      "10%",
+      "12%",
+      "20%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 91st Amendment Act of 2003 amended Articles 75 and 164 to limit the size of the Council of Ministers to a maximum of 15% of the total membership of the Lok Sabha (or State Legislative Assembly), with a minimum of 12 ministers for States.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "Under Article 76, the Attorney General for India is appointed by the President. To be eligible for this appointment, a person must be qualified to be appointed as:",
+    "options": [
+      "A Judge of the Supreme Court",
+      "A Judge of a High Court for 10 years",
+      "A Member of Parliament",
+      "An Advocate of 5 years standing"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 76(1) states that the President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be Attorney-General for India.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The concept of \"Procedure Established by Law\" under Article 21 was interpreted as \"Due Process of Law\" in which celebrated Supreme Court verdict?",
+    "options": [
+      "Maneka Gandhi v. Union of India (1978)",
+      "A.K. Gopalan v. State of Madras (1950)",
+      "Shankari Prasad v. Union of India (1951)",
+      "Bachan Singh v. State of Punjab (1980)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In Maneka Gandhi (1978), the Supreme Court overruled A.K. Gopalan and held that procedure under Article 21 cannot be arbitrary or oppressive; it must be just, fair, and reasonable, incorporating American Due Process principles.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The Sarkaria Commission was appointed in 1983 by the Central Government to examine and report on:",
+    "options": [
+      "Centre-State Relations",
+      "Judicial Appointments and NJAC",
+      "Administrative Reforms and Lokpal",
+      "Electoral Reforms"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Justice R.S. Sarkaria Commission (with members B. Sivaraman and S.R. Sen) was established in June 1983 to review the working of Centre-State relations under the constitutional framework.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "indian-constitution",
+    "questionText": "The Inter-State Council was established in 1990 by a Presidential Order on the recommendation of the Sarkaria Commission under which Article of the Constitution?",
+    "options": [
+      "Article 263",
+      "Article 280",
+      "Article 262",
+      "Article 312"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 263 empowers the President to establish an Inter-State Council to inquire into and advise upon disputes between States and discuss subjects of common interest.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who is regarded as the \"Father of Public Administration\" for his seminal essay \"The Study of Administration\" published in 1887?",
+    "options": [
+      "Woodrow Wilson",
+      "Max Weber",
+      "Frederick Winslow Taylor",
+      "Luther Gulick"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Woodrow Wilson published \"The Study of Administration\" in the Political Science Quarterly in 1887, arguing for a clean separation between politics and administration (the Politics-Administration Dichotomy).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who formulated the famous administrative acronym \"POSDCORB\" to describe the essential functional duties of a chief executive?",
+    "options": [
+      "Luther Gulick and Lyndall Urwick",
+      "Henri Fayol",
+      "Herbert Simon",
+      "Chester Barnard"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Luther Gulick coined POSDCORB (Planning, Organizing, Staffing, Directing, Coordinating, Reporting, Budgeting) in his 1937 paper \"Notes on the Theory of Organization\".",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The concept of \"Ideal Type Bureaucracy\" characterized by fixed jurisdictional hierarchy, written rules, and impersonality was conceptualized by:",
+    "options": [
+      "Max Weber",
+      "Karl Marx",
+      "Elton Mayo",
+      "Herbert Simon"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "German sociologist Max Weber articulated the rational-legal bureaucratic model featuring functional specialization, clear jurisdictional hierarchy, impersonal professional norms, and formal career merit.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The Hawthorne Studies (1924–1932) at the Western Electric Company, which led to the emergence of the Human Relations School of administration, were led by:",
+    "options": [
+      "Elton Mayo",
+      "F.W. Taylor",
+      "Chris Argyris",
+      "Douglas McGregor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Elton Mayo and his Harvard colleagues proved that social dynamics, informal peer groups, motivation, and psychological empathy influence worker productivity more than physical work conditions.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who authored the influential administrative book \"Administrative Behavior\" (1947) and introduced the concept of \"Bounded Rationality\" and \"Satisficing\"?",
+    "options": [
+      "Herbert Simon",
+      "Chester Barnard",
+      "Dwight Waldo",
+      "Robert Dahl"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Nobel laureate Herbert Simon demonstrated that human decision-makers possess cognitive limitations and imperfect information, leading them to choose \"satisficing\" alternatives rather than absolute optimization.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The Minnowbrook Conference I (1968) organized under the chairmanship of Dwight Waldo gave birth to which movement in public administration?",
+    "options": [
+      "New Public Administration (NPA)",
+      "New Public Management (NPM)",
+      "Scientific Management",
+      "Development Administration"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Minnowbrook I challenged traditional value-neutral public administration, pioneering New Public Administration (NPA) centered around four pillars: Relevance, Values, Equity, and Change.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The concept of \"New Public Management\" (NPM) popularized in the 1990s emphasizes:",
+    "options": [
+      "Market mechanisms, citizen as customer, performance measurement, and deregulation",
+      "Centralized command and hierarchical control",
+      "Expansion of public sector monopolies",
+      "Elimination of private contracts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "New Public Management (NPM), epitomized by Osborne and Gaebler’s \"Reinventing Government\", applies private sector management tools, competition, contracting out, performance indicators, and customer orientation to public services.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Which international organization first systematically articulated the definition and 8 core characteristics of \"Good Governance\" in 1989 and 1992?",
+    "options": [
+      "World Bank",
+      "International Monetary Fund (IMF)",
+      "United Nations Development Programme (UNDP)",
+      "Asian Development Bank"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The World Bank introduced \"Governance and Development\" in 1992, defining good governance as participatory, consensus-oriented, accountable, transparent, responsive, effective, equitable, and rule-following.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The concept of \"Citizen’s Charter\" was first pioneered and implemented in 1991 by which country?",
+    "options": [
+      "United Kingdom (under Prime Minister John Major)",
+      "United States",
+      "New Zealand",
+      "France"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Citizen's Charter initiative was launched in July 1991 in the UK by PM John Major to ensure public services are high quality, transparent, accountable, and value-for-money.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "In India, the Right to Information (RTI) Act came into full force on which date?",
+    "options": [
+      "October 12, 2005",
+      "June 15, 2005",
+      "January 26, 2005",
+      "August 15, 2005"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The RTI Act 2005 received presidential assent on June 15, 2005, and came into full legal effect across the country on October 12, 2005.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Under the RTI Act 2005, within how many days must a Public Information Officer (PIO) furnish requested information to an applicant?",
+    "options": [
+      "30 days",
+      "15 days",
+      "45 days",
+      "60 days"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Section 7(1) mandates that the PIO must provide information within 30 days of receiving the request (or 48 hours if it concerns the life or liberty of a person).",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The Central Information Commission (CIC) is constituted under which Section of the Right to Information Act, 2005?",
+    "options": [
+      "Section 12",
+      "Section 15",
+      "Section 4",
+      "Section 8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Section 12 of the RTI Act 2005 provides for the constitution of the Central Information Commission, whereas Section 15 provides for State Information Commissions.",
+    "difficulty": "Hard",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The institution of \"Ombudsman\" originated first in 1809 in which country?",
+    "options": [
+      "Sweden",
+      "Finland",
+      "Norway",
+      "Denmark"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sweden established the office of Justitieombudsmannen (Ombudsman) in 1809 as an independent parliamentary oversight officer to investigate citizen complaints against bureaucratic maladministration.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who coined the terms \"Lokpal\" and \"Lokayukta\" in India in 1963 during a parliamentary debate on citizen grievance redressal?",
+    "options": [
+      "Dr. L. M. Singhvi",
+      "Morarji Desai",
+      "Jawaharlal Nehru",
+      "M. C. Setalvad"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Jurist and parliamentarian Dr. Laxmi Mall Singhvi coined the words \"Lokpal\" (protector of the people) and \"Lokayukta\" in 1963 as Indian vernacular equivalents for the Ombudsman.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Which was the first Indian state to pass the Lokayukta Act and establish the office of Lokayukta in 1971?",
+    "options": [
+      "Maharashtra",
+      "Odisha",
+      "Rajasthan",
+      "Bihar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "While Odisha passed the legislation in 1970, Maharashtra was the first state to formally establish and operationalize the office of Lokayukta and Upa-Lokayukta in 1971.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who was appointed as the first Chairperson of the Lokpal of India under the Lokpal and Lokayuktas Act, 2013?",
+    "options": [
+      "Justice Pinaki Chandra Ghose",
+      "Justice N. V. Ramana",
+      "Justice A. M. Khanwilkar",
+      "Justice Dipak Misra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Former Supreme Court Judge Justice Pinaki Chandra Ghose was sworn in on March 23, 2019, as the country’s first anti-corruption ombudsman (Lokpal Chairperson).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "The Central Vigilance Commission (CVC) was created in 1964 on the recommendations of which committee?",
+    "options": [
+      "K. Santhanam Committee on Prevention of Corruption",
+      "Gorwala Committee",
+      "A.D. Gorwala Committee",
+      "First Administrative Reforms Commission"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Committee on Prevention of Corruption chaired by K. Santhanam (1962–1964) recommended creating the CVC to check corruption in central government administration, granted statutory status in 2003.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "Who served as the Chairman of the Second Administrative Reforms Commission (2nd ARC) constituted in 2005?",
+    "options": [
+      "Veerappa Moily",
+      "V. Ramachandran",
+      "K. Kasturirangan",
+      "Bimal Jalan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Second ARC was constituted on August 31, 2005, under the chairmanship of M. Veerappa Moily (succeeded in 2009 by V. Ramachandran), producing 15 comprehensive reform reports.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "In the Indian civil services, what does the \"Lateral Entry\" scheme refer to?",
+    "options": [
+      "Direct recruitment of private sector specialists into Joint Secretary/Director roles without UPSC civil services examination",
+      "Promotions from State Civil Services into IAS",
+      "Deputation of armed forces officers into civilian ministries",
+      "Inter-cadre transfers of civil servants"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lateral entry brings private sector, academic, and think-tank domain experts into senior civil service positions (Joint Secretary, Director, Deputy Secretary) on contractual terms.",
+    "difficulty": "Medium",
+    "questionType": "PYQ_INSPIRED",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "public-administration",
+    "questionText": "\"Mission Karmayogi\" launched by the Government of India in 2020 is designed to accomplish which administrative objective?",
+    "options": [
+      "Comprehensive capacity building and competencies training for all civil servants",
+      "Digitizing all court files",
+      "Eradicating rural poverty",
+      "Facilitating pension payouts"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "National Programme for Civil Services Capacity Building (NPCSCB - Mission Karmayogi) transitions civil servants from \"rule-based\" to \"role-based\" governance through the iGOT Karmayogi digital learning platform.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Which committee appointed in 1957 recommended the establishment of a \"Three-Tier Panchayati Raj System\" in India?",
+    "options": [
+      "Balwant Rai Mehta Committee",
+      "Ashok Mehta Committee",
+      "G. V. K. Rao Committee",
+      "L. M. Singhvi Committee"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Balwant Rai Mehta Committee submitted its report in November 1957 recommending democratic decentralization through a 3-tier structure: Gram Panchayat at village level, Panchayat Samiti at block level, and Zilla Parishad at district level.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "On October 2, 1959, the first Panchayati Raj system in independent India was inaugurated by Prime Minister Jawaharlal Nehru at which place?",
+    "options": [
+      "Nagaur district, Rajasthan",
+      "Shadnagar, Andhra Pradesh",
+      "Midnapore, West Bengal",
+      "Wardha, Maharashtra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Jawaharlal Nehru inaugurated the Panchayati Raj system on Gandhi Jayanti in 1959 at Nagaur, Rajasthan, followed shortly by Andhra Pradesh.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "The Ashok Mehta Committee appointed by the Janata Party Government in 1977 recommended replacing the three-tier system with:",
+    "options": [
+      "A Two-Tier System (Mandal Panchayat and Zilla Parishad)",
+      "A Single Village Panchayat",
+      "A Four-Tier System",
+      "Direct District Collector rule"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Ashok Mehta Committee (1978) recommended a two-tier model: Zilla Parishad at district level and Mandal Panchayat covering a cluster of villages with a population of 15,000 to 20,000.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Which committee first recommended according \"Constitutional Status\" to Panchayati Raj institutions in 1986?",
+    "options": [
+      "L. M. Singhvi Committee",
+      "Thungon Committee",
+      "G. V. K. Rao Committee",
+      "Dantwala Committee"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The L. M. Singhvi Committee on Revitalization of Panchayati Raj Institutions for Democracy and Development (1986) recommended granting constitutional status and protection to PRIs.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "The 73rd Constitutional Amendment Act of 1992 inserted which Part and Schedule into the Constitution?",
+    "options": [
+      "Part IX and 11th Schedule",
+      "Part IXA and 12th Schedule",
+      "Part X and 9th Schedule",
+      "Part IV and 10th Schedule"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 73rd Amendment Act 1992 added Part IX entitled \"The Panchayats\" (Articles 243 to 243-O) and the 11th Schedule containing 29 functional items.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "How many functional matters/subjects are listed in the Eleventh Schedule of the Constitution for Panchayats to administer?",
+    "options": [
+      "29 subjects",
+      "18 subjects",
+      "21 subjects",
+      "33 subjects"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 11th Schedule under Article 243G contains 29 functional items ranging from agriculture, land improvement, minor irrigation, to poverty alleviation and rural sanitation.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Under Article 243D(3), what is the minimum proportion of total seats reserved for women in Panchayats at all levels?",
+    "options": [
+      "One-third (33.3%)",
+      "One-half (50%)",
+      "One-fourth (25%)",
+      "Two-fifths (40%)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 243D(3) mandates that not less than one-third of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women.",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Jharkhand Panchayati Raj Act, 2001, provides for what percentage of reservation for women across all tiers of Panchayati Raj institutions?",
+    "options": [
+      "50%",
+      "33%",
+      "40%",
+      "25%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Jharkhand is one of 21 Indian states that enhanced women’s reservation in Panchayats to 50% under the Jharkhand Panchayati Raj Act.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "What is the constitutional tenure of a Panchayat under Article 243E?",
+    "options": [
+      "5 years from the date appointed for its first meeting",
+      "4 years",
+      "6 years",
+      "At the pleasure of the Governor"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 243E mandates a fixed five-year term from the date of its first meeting; if dissolved earlier, fresh elections must be concluded within six months.",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "The Panchayats (Extension to Scheduled Areas) Act, commonly known as PESA, was enacted in which year?",
+    "options": [
+      "1996",
+      "1992",
+      "1998",
+      "2001"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "PESA was enacted on December 24, 1996, on the recommendations of the Dilip Singh Bhuria Committee to extend Part IX provisions to Fifth Schedule tribal areas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Under the PESA Act, 1996, who is endowed with the statutory authority to approve village plans, manage natural resources, and preserve tribal customary laws?",
+    "options": [
+      "Gram Sabha",
+      "Block Development Officer (BDO)",
+      "Deputy Commissioner",
+      "Zilla Parishad"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "PESA empowers the Gram Sabha as the cornerstone of self-governance, granting it ownership over minor forest produce, control over local water bodies, and mandatory consultation before land acquisition.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Under Article 243K, elections to the Panchayati Raj institutions and Urban Local Bodies are conducted by:",
+    "options": [
+      "State Election Commission headed by a State Election Commissioner",
+      "Election Commission of India",
+      "State Directorate of Panchayats",
+      "District Collectors"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The superintendence, direction, and control of the preparation of electoral rolls and the conduct of all elections to the Panchayats is vested in an independent State Election Commission.",
+    "difficulty": "Easy",
+    "questionType": "PRACTICE",
+    "sourceType": "INTERNAL",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "The 74th Constitutional Amendment Act of 1992, which granted constitutional status to Urban Local Bodies (Municipalities), added which Schedule containing 18 functional items?",
+    "options": [
+      "Twelfth Schedule",
+      "Eleventh Schedule",
+      "Tenth Schedule",
+      "Ninth Schedule"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 74th Amendment Act added Part IXA (Articles 243P to 243ZG) and the 12th Schedule containing 18 municipal functional domains.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2016,
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Under Article 243ZD, which constitutional body is required to be constituted at the district level to consolidate plans prepared by Panchayats and Municipalities?",
+    "options": [
+      "District Planning Committee (DPC)",
+      "District Development Council",
+      "Zilla Niyojan Samiti",
+      "District Grievance Forum"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 243ZD requires every state to constitute a District Planning Committee (DPC) at the district level to consolidate draft development plans prepared by Panchayats and Municipalities.",
+    "difficulty": "Medium",
+    "questionType": "PRACTICE",
+    "sourceType": "REFERENCE_BOOK",
+    "qaStatus": "VERIFIED"
+  },
+  {
+    "subjectSlug": "jpsc-polity",
+    "topicSlug": "panchayati-raj",
+    "questionText": "Under Article 243I, who appoints the State Finance Commission every five years to review the financial position of Panchayats and Municipalities?",
+    "options": [
+      "Governor of the State",
+      "Chief Minister of the State",
+      "President of India",
+      "Speaker of the Legislative Assembly"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 243I mandates that the Governor of a State shall, every five years, constitute a State Finance Commission to recommend principles governing tax sharing between State and local bodies.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "sourceType": "OFFICIAL_PYQ",
+    "year": 2021,
+    "qaStatus": "VERIFIED"
+  }
+]

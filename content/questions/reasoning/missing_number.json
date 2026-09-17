@@ -1,0 +1,602 @@
+[
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [3, 5, ?] where the relation is product of the two numbers.",
+    "options": [
+      "15",
+      "17",
+      "13",
+      "19"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 3 * 5 = 15.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [4, 6, ?] where the relation is product of the two numbers.",
+    "options": [
+      "24",
+      "26",
+      "22",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 4 * 6 = 24.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [5, 7, ?] where the relation is product of the two numbers.",
+    "options": [
+      "35",
+      "37",
+      "33",
+      "39"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 5 * 7 = 35.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [6, 8, ?] where the relation is product of the two numbers.",
+    "options": [
+      "48",
+      "50",
+      "46",
+      "52"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 6 * 8 = 48.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [7, 9, ?] where the relation is product of the two numbers.",
+    "options": [
+      "63",
+      "65",
+      "61",
+      "67"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 7 * 9 = 63.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [8, 10, ?] where the relation is product of the two numbers.",
+    "options": [
+      "80",
+      "82",
+      "78",
+      "84"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 8 * 10 = 80.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [9, 11, ?] where the relation is product of the two numbers.",
+    "options": [
+      "99",
+      "101",
+      "97",
+      "103"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 9 * 11 = 99.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [10, 12, ?] where the relation is product of the two numbers.",
+    "options": [
+      "120",
+      "122",
+      "118",
+      "124"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 10 * 12 = 120.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [11, 13, ?] where the relation is product of the two numbers.",
+    "options": [
+      "143",
+      "145",
+      "141",
+      "147"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 11 * 13 = 143.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [12, 14, ?] where the relation is product of the two numbers.",
+    "options": [
+      "168",
+      "170",
+      "166",
+      "172"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 12 * 14 = 168.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [13, 15, ?] where the relation is product of the two numbers.",
+    "options": [
+      "195",
+      "197",
+      "193",
+      "199"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 13 * 15 = 195.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [14, 16, ?] where the relation is product of the two numbers.",
+    "options": [
+      "224",
+      "226",
+      "222",
+      "228"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 14 * 16 = 224.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [15, 17, ?] where the relation is product of the two numbers.",
+    "options": [
+      "255",
+      "257",
+      "253",
+      "259"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 15 * 17 = 255.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [16, 18, ?] where the relation is product of the two numbers.",
+    "options": [
+      "288",
+      "290",
+      "286",
+      "292"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 16 * 18 = 288.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [17, 19, ?] where the relation is product of the two numbers.",
+    "options": [
+      "323",
+      "325",
+      "321",
+      "327"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 17 * 19 = 323.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [18, 20, ?] where the relation is product of the two numbers.",
+    "options": [
+      "360",
+      "362",
+      "358",
+      "364"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 18 * 20 = 360.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [19, 21, ?] where the relation is product of the two numbers.",
+    "options": [
+      "399",
+      "401",
+      "397",
+      "403"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 19 * 21 = 399.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [20, 22, ?] where the relation is product of the two numbers.",
+    "options": [
+      "440",
+      "442",
+      "438",
+      "444"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 20 * 22 = 440.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [21, 23, ?] where the relation is product of the two numbers.",
+    "options": [
+      "483",
+      "485",
+      "481",
+      "487"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 21 * 23 = 483.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [22, 24, ?] where the relation is product of the two numbers.",
+    "options": [
+      "528",
+      "530",
+      "526",
+      "532"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 22 * 24 = 528.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [23, 25, ?] where the relation is product of the two numbers.",
+    "options": [
+      "575",
+      "577",
+      "573",
+      "579"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 23 * 25 = 575.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [24, 26, ?] where the relation is product of the two numbers.",
+    "options": [
+      "624",
+      "626",
+      "622",
+      "628"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 24 * 26 = 624.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [25, 27, ?] where the relation is product of the two numbers.",
+    "options": [
+      "675",
+      "677",
+      "673",
+      "679"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 25 * 27 = 675.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [26, 28, ?] where the relation is product of the two numbers.",
+    "options": [
+      "728",
+      "730",
+      "726",
+      "732"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 26 * 28 = 728.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [27, 29, ?] where the relation is product of the two numbers.",
+    "options": [
+      "783",
+      "785",
+      "781",
+      "787"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 27 * 29 = 783.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [28, 30, ?] where the relation is product of the two numbers.",
+    "options": [
+      "840",
+      "842",
+      "838",
+      "844"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 28 * 30 = 840.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [29, 31, ?] where the relation is product of the two numbers.",
+    "options": [
+      "899",
+      "901",
+      "897",
+      "903"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 29 * 31 = 899.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [30, 32, ?] where the relation is product of the two numbers.",
+    "options": [
+      "960",
+      "962",
+      "958",
+      "964"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 30 * 32 = 960.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [31, 33, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1023",
+      "1025",
+      "1021",
+      "1027"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 31 * 33 = 1023.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [32, 34, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1088",
+      "1090",
+      "1086",
+      "1092"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 32 * 34 = 1088.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [33, 35, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1155",
+      "1157",
+      "1153",
+      "1159"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 33 * 35 = 1155.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [34, 36, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1224",
+      "1226",
+      "1222",
+      "1228"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 34 * 36 = 1224.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [35, 37, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1295",
+      "1297",
+      "1293",
+      "1299"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 35 * 37 = 1295.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [36, 38, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1368",
+      "1370",
+      "1366",
+      "1372"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 36 * 38 = 1368.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [37, 39, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1443",
+      "1445",
+      "1441",
+      "1447"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 37 * 39 = 1443.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [38, 40, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1520",
+      "1522",
+      "1518",
+      "1524"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 38 * 40 = 1520.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [39, 41, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1599",
+      "1601",
+      "1597",
+      "1603"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 39 * 41 = 1599.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [40, 42, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1680",
+      "1682",
+      "1678",
+      "1684"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 40 * 42 = 1680.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [41, 43, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1763",
+      "1765",
+      "1761",
+      "1767"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 41 * 43 = 1763.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the missing number in the matrix/pattern: [42, 44, ?] where the relation is product of the two numbers.",
+    "options": [
+      "1848",
+      "1850",
+      "1846",
+      "1852"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: First number * Second number = Result. 42 * 44 = 1848.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "questionText": "In a row of students, Ravi is 11th from the left end and 16th from the right end. How many students are there in total in the row?",
+    "options": [
+      "26",
+      "27",
+      "25",
+      "28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 11 + 16 - 1 = 26.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 12th from the left end and 17th from the right end. How many students are there in total in the row?",
+    "options": [
+      "28",
+      "29",
+      "27",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 12 + 17 - 1 = 28.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 13th from the left end and 18th from the right end. How many students are there in total in the row?",
+    "options": [
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 13 + 18 - 1 = 30.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 14th from the left end and 19th from the right end. How many students are there in total in the row?",
+    "options": [
+      "32",
+      "33",
+      "31",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 14 + 19 - 1 = 32.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 15th from the left end and 20th from the right end. How many students are there in total in the row?",
+    "options": [
+      "34",
+      "35",
+      "33",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 15 + 20 - 1 = 34.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 16th from the left end and 21th from the right end. How many students are there in total in the row?",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 16 + 21 - 1 = 36.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 17th from the left end and 22th from the right end. How many students are there in total in the row?",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 17 + 22 - 1 = 38.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 18th from the left end and 23th from the right end. How many students are there in total in the row?",
+    "options": [
+      "40",
+      "41",
+      "39",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 18 + 23 - 1 = 40.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 19th from the left end and 24th from the right end. How many students are there in total in the row?",
+    "options": [
+      "42",
+      "43",
+      "41",
+      "44"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 19 + 24 - 1 = 42.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 20th from the left end and 25th from the right end. How many students are there in total in the row?",
+    "options": [
+      "44",
+      "45",
+      "43",
+      "46"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 20 + 25 - 1 = 44.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 21th from the left end and 26th from the right end. How many students are there in total in the row?",
+    "options": [
+      "46",
+      "47",
+      "45",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 21 + 26 - 1 = 46.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 22th from the left end and 15th from the right end. How many students are there in total in the row?",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 22 + 15 - 1 = 36.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 23th from the left end and 16th from the right end. How many students are there in total in the row?",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 23 + 16 - 1 = 38.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 24th from the left end and 17th from the right end. How many students are there in total in the row?",
+    "options": [
+      "40",
+      "41",
+      "39",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 24 + 17 - 1 = 40.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 10th from the left end and 18th from the right end. How many students are there in total in the row?",
+    "options": [
+      "27",
+      "28",
+      "26",
+      "29"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 10 + 18 - 1 = 27.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 11th from the left end and 19th from the right end. How many students are there in total in the row?",
+    "options": [
+      "29",
+      "30",
+      "28",
+      "31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 11 + 19 - 1 = 29.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 12th from the left end and 20th from the right end. How many students are there in total in the row?",
+    "options": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 12 + 20 - 1 = 31.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 13th from the left end and 21th from the right end. How many students are there in total in the row?",
+    "options": [
+      "33",
+      "34",
+      "32",
+      "35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 13 + 21 - 1 = 33.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 14th from the left end and 22th from the right end. How many students are there in total in the row?",
+    "options": [
+      "35",
+      "36",
+      "34",
+      "37"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 14 + 22 - 1 = 35.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 15th from the left end and 23th from the right end. How many students are there in total in the row?",
+    "options": [
+      "37",
+      "38",
+      "36",
+      "39"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 15 + 23 - 1 = 37.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 16th from the left end and 24th from the right end. How many students are there in total in the row?",
+    "options": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 16 + 24 - 1 = 39.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 17th from the left end and 25th from the right end. How many students are there in total in the row?",
+    "options": [
+      "41",
+      "42",
+      "40",
+      "43"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 17 + 25 - 1 = 41.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 18th from the left end and 26th from the right end. How many students are there in total in the row?",
+    "options": [
+      "43",
+      "44",
+      "42",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 18 + 26 - 1 = 43.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 19th from the left end and 15th from the right end. How many students are there in total in the row?",
+    "options": [
+      "33",
+      "34",
+      "32",
+      "35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 19 + 15 - 1 = 33.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 20th from the left end and 16th from the right end. How many students are there in total in the row?",
+    "options": [
+      "35",
+      "36",
+      "34",
+      "37"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 20 + 16 - 1 = 35.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 21th from the left end and 17th from the right end. How many students are there in total in the row?",
+    "options": [
+      "37",
+      "38",
+      "36",
+      "39"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 21 + 17 - 1 = 37.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 22th from the left end and 18th from the right end. How many students are there in total in the row?",
+    "options": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 22 + 18 - 1 = 39.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 23th from the left end and 19th from the right end. How many students are there in total in the row?",
+    "options": [
+      "41",
+      "42",
+      "40",
+      "43"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 23 + 19 - 1 = 41.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 24th from the left end and 20th from the right end. How many students are there in total in the row?",
+    "options": [
+      "43",
+      "44",
+      "42",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 24 + 20 - 1 = 43.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 10th from the left end and 21th from the right end. How many students are there in total in the row?",
+    "options": [
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 10 + 21 - 1 = 30.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 11th from the left end and 22th from the right end. How many students are there in total in the row?",
+    "options": [
+      "32",
+      "33",
+      "31",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 11 + 22 - 1 = 32.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 12th from the left end and 23th from the right end. How many students are there in total in the row?",
+    "options": [
+      "34",
+      "35",
+      "33",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 12 + 23 - 1 = 34.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 13th from the left end and 24th from the right end. How many students are there in total in the row?",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 13 + 24 - 1 = 36.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 14th from the left end and 25th from the right end. How many students are there in total in the row?",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 14 + 25 - 1 = 38.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 15th from the left end and 26th from the right end. How many students are there in total in the row?",
+    "options": [
+      "40",
+      "41",
+      "39",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 15 + 26 - 1 = 40.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 16th from the left end and 15th from the right end. How many students are there in total in the row?",
+    "options": [
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 16 + 15 - 1 = 30.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 17th from the left end and 16th from the right end. How many students are there in total in the row?",
+    "options": [
+      "32",
+      "33",
+      "31",
+      "34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 17 + 16 - 1 = 32.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 18th from the left end and 17th from the right end. How many students are there in total in the row?",
+    "options": [
+      "34",
+      "35",
+      "33",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 18 + 17 - 1 = 34.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 19th from the left end and 18th from the right end. How many students are there in total in the row?",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 19 + 18 - 1 = 36.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 20th from the left end and 19th from the right end. How many students are there in total in the row?",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 20 + 19 - 1 = 38.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 21th from the left end and 20th from the right end. How many students are there in total in the row?",
+    "options": [
+      "40",
+      "41",
+      "39",
+      "42"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 21 + 20 - 1 = 40.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 22th from the left end and 21th from the right end. How many students are there in total in the row?",
+    "options": [
+      "42",
+      "43",
+      "41",
+      "44"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 22 + 21 - 1 = 42.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 23th from the left end and 22th from the right end. How many students are there in total in the row?",
+    "options": [
+      "44",
+      "45",
+      "43",
+      "46"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 23 + 22 - 1 = 44.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 24th from the left end and 23th from the right end. How many students are there in total in the row?",
+    "options": [
+      "46",
+      "47",
+      "45",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 24 + 23 - 1 = 46.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a row of students, Ravi is 10th from the left end and 24th from the right end. How many students are there in total in the row?",
+    "options": [
+      "33",
+      "34",
+      "32",
+      "35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total = (Position from left) + (Position from right) - 1 = 10 + 24 - 1 = 33.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  }
+]

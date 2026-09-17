@@ -1,0 +1,723 @@
+[
+  {
+    "questionText": "A person sells an article for Rs. 840 gaining 20%. Find the cost price of the article.",
+    "options": [
+      "Rs. 700",
+      "Rs. 720",
+      "Rs. 680",
+      "Rs. 750"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CP = SP / (1 + Profit%) = 840 / 1.20 = Rs. 700.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "The cost price of 36 books is equal to the selling price of 30 books. The gain percentage is:",
+    "options": [
+      "20%",
+      "16.66%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "36 * CP = 30 * SP -> SP/CP = 36/30 = 6/5. Gain % = ((6 - 5) / 5) * 100 = 20%.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "If a shopkeeper sells an item at Rs. 450 incurring a 10% loss, at what price must he sell it to gain 20%?",
+    "options": [
+      "Rs. 600",
+      "Rs. 540",
+      "Rs. 580",
+      "Rs. 620"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CP = 450 / 0.90 = Rs. 500. Target SP for 20% gain = 500 * 1.20 = Rs. 600.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "A dishonest dealer professes to sell his goods at cost price but uses a false weight of 900 grams for a kilogram weight. His gain percentage is:",
+    "options": [
+      "11.11%",
+      "10%",
+      "12.5%",
+      "9.09%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Error = 100g. True value - Error = 900g. Gain % = (Error / True Value - Error) * 100 = (100 / 900) * 100 = 11.11% or 11(1/9)%.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "A man buys two horses for Rs. 40,000 each. He sells one horse at a 15% profit and the other at a 15% loss. What is his overall profit or loss?",
+    "options": [
+      "No profit, no loss",
+      "2.25% loss",
+      "2.25% profit",
+      "1% loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When CP of both items is equal, +15% and -15% cancel out exactly, resulting in zero net profit and zero net loss.",
+    "difficulty": "Medium",
+    "year": 2022
+  },
+  {
+    "questionText": "A man sells two watches for Rs. 495 each. On one he gains 10% and on the other he loses 10%. His overall loss percentage is:",
+    "options": [
+      "1% loss",
+      "No profit, no loss",
+      "2% loss",
+      "1.5% loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When SP of two items is identical with equal profit% and loss% x, there is always an overall loss of (x^2 / 100)% = (100 / 100)% = 1% loss.",
+    "difficulty": "Hard",
+    "year": 2023
+  },
+  {
+    "questionText": "A merchant marks an article 40% above cost price and offers a discount of 25%. If his profit is Rs. 42, find the cost price of the article.",
+    "options": [
+      "Rs. 840",
+      "Rs. 750",
+      "Rs. 900",
+      "Rs. 800"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let CP = 100x. MP = 140x. SP = 140x * 0.75 = 105x. Profit = 5x. Given 5x = 42 -> x = 8.4. CP = 100 * 8.4 = Rs. 840.",
+    "difficulty": "Hard",
+    "year": 2024
+  },
+  {
+    "questionText": "A shopkeeper marks up his goods by 40% and gives a discount of 15%. He uses a faulty balance that reads 1 kg for 800 grams. Find his overall profit percentage.",
+    "options": [
+      "48.75%",
+      "45.25%",
+      "52.5%",
+      "50%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Overall Multiplier} = 1.40 × 0.85 × 1000/800 = 1.19 × 1.25 = 1.4875. Overall Profit} = 48.75\\%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A and B jointly start a business. A invests ₹60,000 for 8 months and B invests ₹80,000 for 6 months. A receives 15% of the total profit for managing the business. If the total profit is ₹40,000, find B's share.",
+    "options": [
+      "₹17,000",
+      "₹16,000",
+      "₹15,000",
+      "₹18,000"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Management commission to A = 15% of 40,000 = ₹6,000. Remaining profit = ₹34,000. Ratio of investments: (60,000 * 8) : (80,000 * 6) = 480,000 : 480,000 = 1 : 1. B's share = 34,000 / 2 = ₹17,000.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A dishonest dealer marks up his goods by 20% and gives a discount of 10% to the customer. He also uses a 900 gm weight instead of 1 kg while selling and a 1100 gm weight instead of 1 kg while buying. Find his overall profit percentage.",
+    "options": [
+      "32%",
+      "34.4%",
+      "35%",
+      "31.25%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 34.4%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper promises to sell his goods at 44% loss but he uses 30% less weight. Find his actual loss percentage.",
+    "options": [
+      "20%",
+      "14%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 20%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A cloth merchant says that due to a slump in the market, he sells cloth at 10% loss, but he uses a false meter scale and actually gains 15%. Find the actual length of the scale he uses instead of 1 meter.",
+    "options": [
+      "78.26 cm",
+      "80 cm",
+      "85 cm",
+      "90 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 78.26 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A trader sells his goods at cost price but uses a weight of 800 gm for a kilogram. What is his profit percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "33.33%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 25%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A dealer marks his goods 20% above CP. He uses a 900 gm weight for a kg. Find his profit percentage if he offers no discount.",
+    "options": [
+      "33.33%",
+      "30%",
+      "25%",
+      "35%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 33.33%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The marked price of an article is Rs. 5000. It is sold at successive discounts of 20%, 10%, and 5%. Find the selling price.",
+    "options": [
+      "Rs. 3420",
+      "Rs. 3500",
+      "Rs. 3240",
+      "Rs. 3600"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 3420.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper gives 3 articles free on the purchase of 5 articles. He also allows an additional discount of 20%. Find the equivalent single discount.",
+    "options": [
+      "50%",
+      "40%",
+      "60%",
+      "45%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 50%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "To gain 20% after allowing a discount of 10%, the shopkeeper must mark the price of the article which cost him Rs. 360 as:",
+    "options": [
+      "Rs. 450",
+      "Rs. 480",
+      "Rs. 500",
+      "Rs. 460"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): Rs. 480.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A dealer buys an article marked at Rs. 25000 with 20% and 5% off. He spends Rs. 1000 on its repairs and sells it for Rs. 25000. What is his gain or loss percent?",
+    "options": [
+      "25% gain",
+      "20% gain",
+      "10% gain",
+      "15% gain"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 25% gain.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "By selling an article for Rs. 1170, a man allows 10% discount and earns 30% profit. If the article is sold at 0% discount, what should be the profit percentage?",
+    "options": [
+      "44.44%",
+      "50%",
+      "45%",
+      "40%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 44.44%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper marks his goods at such a price that after allowing a discount of 12.5%, he still earns a profit of 20%. If the cost price is Rs. 1400, find the marked price.",
+    "options": [
+      "Rs. 1920",
+      "Rs. 1800",
+      "Rs. 2000",
+      "Rs. 1950"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 1920.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man calculates his profit percentage on the selling price and says it is 25%. What is his actual profit percentage?",
+    "options": [
+      "33.33%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 33.33%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the loss is 20% on the selling price, find the actual loss percentage on the cost price.",
+    "options": [
+      "16.67%",
+      "20%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 16.67%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man bought oranges at 5 for Rs. 10 and sold them at 6 for Rs. 15. Find his profit percentage.",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 25%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The correct answer is option (C): 5.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "By selling 33 meters of cloth, a shopkeeper loses money equivalent to the selling price of 11 meters. Find his loss percentage.",
+    "options": [
+      "25%",
+      "33.33%",
+      "20%",
+      "40%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 25%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The cost price of 15 articles is equal to the selling price of 12 articles. Find the profit percentage.",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 25%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If apples are bought at the rate of 30 for a rupee, how many must be sold for a rupee to gain 20%?",
+    "options": [
+      "28",
+      "25",
+      "20",
+      "22"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 25.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man sells two horses for Rs. 4000 each. On one he gains 10% and on the other he loses 10%. Find his overall gain or loss percentage.",
+    "options": [
+      "1% loss",
+      "1% gain",
+      "No profit no loss",
+      "2% loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1% loss.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A dealer sold two TV sets for Rs. 2400 each. On one he gained 20% and on the other he lost 20%. Find his total gain or loss in rupees.",
+    "options": [
+      "Rs. 200 loss",
+      "Rs. 200 gain",
+      "Rs. 100 loss",
+      "Rs. 400 loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 200 loss.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two articles are sold for Rs. 9720 each. On one, the seller gains 8%, and on the other, he loses 10%. What is his overall gain or loss percentage? (Approximate)",
+    "options": [
+      "1.8% loss",
+      "1.8% gain",
+      "2.5% loss",
+      "No profit no loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 1.8% loss.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A sells a bicycle to B at a profit of 20%. B sells it to C at a profit of 25%. If C pays Rs. 225 for it, what did A pay for it?",
+    "options": [
+      "Rs. 110",
+      "Rs. 125",
+      "Rs. 150",
+      "Rs. 140"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The correct answer is option (C): Rs. 150.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A manufacturer sells an article to a wholesale dealer at a profit of 10%. The wholesale dealer sells it to a shopkeeper at 20% profit. The shopkeeper sells it to a customer for Rs. 56100 at a loss of 15%. What was the cost of production?",
+    "options": [
+      "Rs. 48000",
+      "Rs. 50000",
+      "Rs. 55000",
+      "Rs. 45000"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): Rs. 50000.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper bought two types of rice, one at Rs. 40/kg and other at Rs. 50/kg. He mixed them in the ratio 3:2. At what price per kg should he sell the mixture to gain 20%?",
+    "options": [
+      "Rs. 52.80",
+      "Rs. 50",
+      "Rs. 54",
+      "Rs. 52"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 52.80.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man purchased 150 pens at the rate of Rs. 12 per pen. He sold 50 pens at a gain of 10%. At what gain percent must he sell the remaining pens so as to gain 15% on the whole outlay?",
+    "options": [
+      "17.5%",
+      "15%",
+      "20%",
+      "22.5%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 17.5%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "One-third of a commodity is sold at 15% profit, one-fourth is sold at 20% profit, and the rest at 24% profit. If the total profit is Rs. 62, find the value of the commodity.",
+    "options": [
+      "Rs. 310",
+      "Rs. 300",
+      "Rs. 400",
+      "Rs. 350"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): Rs. 300.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A merchant earns a profit of 20% by selling an article at a certain price. If he sells it at double the price, what will be his profit percentage?",
+    "options": [
+      "140%",
+      "120%",
+      "100%",
+      "80%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 140%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the selling price is tripled and cost price is doubled, the profit would become 65%. What is the present profit (in %)?",
+    "options": [
+      "15%",
+      "10%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 10%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "An article is sold at a profit of 20%. If both the cost price and the selling price were Rs. 100 less, the profit would be 4% more. Find the cost price.",
+    "options": [
+      "Rs. 600",
+      "Rs. 500",
+      "Rs. 400",
+      "Rs. 800"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 600.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper sells 1/3rd of his goods at a profit of 14%, 3/5th of the goods at a profit of 17.5%, and the remaining at a profit of 20%. What is his overall profit percentage?",
+    "options": [
+      "16.5%",
+      "17%",
+      "16%",
+      "15.5%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 16.5%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A trader bought some goods for Rs. 450. He sold one-third of it at a loss of 10%. At what profit percentage should he sell the remaining goods to earn an overall profit of 20%?",
+    "options": [
+      "30%",
+      "35%",
+      "25%",
+      "40%"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The correct answer is option (B): 35%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The cost price of an article is Rs. 800. After allowing a discount of 10%, a shopkeeper still makes a profit of 12.5%. Find the marked price.",
+    "options": [
+      "Rs. 1000",
+      "Rs. 900",
+      "Rs. 1200",
+      "Rs. 1100"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 1000.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A shopkeeper offers 15% discount on all plastic toys. He offers a further discount of 4% on the reduced price to those customers who pay in cash. What does a customer have to pay in cash for a toy of Rs. 200?",
+    "options": [
+      "Rs. 163.20",
+      "Rs. 165",
+      "Rs. 160",
+      "Rs. 162"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 163.20.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Even after allowing a 20% discount on the marked price, a shopkeeper gains 20%. By what percentage is the marked price above the cost price?",
+    "options": [
+      "50%",
+      "40%",
+      "60%",
+      "33.33%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 50%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A radio dealer sold a radio at a loss of 2.5%. Had he sold it for Rs. 100 more, he would have gained 7.5%. For what value should he sell it to gain 12.5%?",
+    "options": [
+      "Rs. 1125",
+      "Rs. 1000",
+      "Rs. 1050",
+      "Rs. 1100"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 1125.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Due to a 25% fall in the rate of eggs, a person can buy 2 dozen more eggs for Rs. 162. Find the original rate per dozen.",
+    "options": [
+      "Rs. 27",
+      "Rs. 24",
+      "Rs. 30",
+      "Rs. 25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 27.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A reduction of 20% in the price of sugar enables a purchaser to obtain 4 kg more for Rs. 160. What is the reduced price per kg?",
+    "options": [
+      "Rs. 8",
+      "Rs. 10",
+      "Rs. 12",
+      "Rs. 9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): Rs. 8.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The selling price of an article is 8/5 times its cost price. Find the profit percentage.",
+    "options": [
+      "60%",
+      "40%",
+      "80%",
+      "50%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 60%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A man bought two articles for Rs. 3000 each. He sold one at a profit of 10% and the other at a loss of 10%. His overall profit or loss percentage is:",
+    "options": [
+      "0%",
+      "1% loss",
+      "1% profit",
+      "2% loss"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 0%.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "By selling 12 oranges for Rs. 60, a man loses 25%. How many oranges should he sell for Rs. 100 to gain 25%?",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct answer is option (A): 12.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

@@ -1,0 +1,1205 @@
+[
+  {
+    "questionText": "Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 14 of the Constitution of India provides that the State shall not deny to any person equality before the law or the equal protection of the laws.",
+    "difficulty": "Easy",
+    "year": 2024
+  },
+  {
+    "questionText": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar, Chairman of the Drafting Committee, is revered as the Chief Architect and Father of the Indian Constitution.",
+    "difficulty": "Easy",
+    "year": 2023
+  },
+  {
+    "questionText": "What is the minimum age prescribed for a citizen to become the President of India?",
+    "options": [
+      "35 years",
+      "30 years",
+      "25 years",
+      "40 years"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 58 of the Constitution, a candidate must have completed 35 years of age to be eligible for election as President.",
+    "difficulty": "Easy",
+    "year": 2022
+  },
+  {
+    "questionText": "Which Constitutional Amendment added the terms 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution?",
+    "options": [
+      "42nd Amendment Act (1976)",
+      "44th Amendment Act (1978)",
+      "73rd Amendment Act (1992)",
+      "86th Amendment Act (2002)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to add 'Socialist', 'Secular', and 'Integrity'.",
+    "difficulty": "Medium",
+    "year": 2024
+  },
+  {
+    "questionText": "Under which Article can the Supreme Court of India issue writs for the enforcement of Fundamental Rights?",
+    "options": [
+      "Article 32",
+      "Article 226",
+      "Article 131",
+      "Article 143"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 32 empowers the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari) for enforcing Fundamental Rights.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from the Constitution of which country?",
+    "options": [
+      "Ireland",
+      "USA",
+      "USSR",
+      "United Kingdom"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Directive Principles of State Policy in Part IV (Articles 36 to 51) were borrowed from the Irish Constitution of 1937.",
+    "difficulty": "Medium",
+    "year": 2023
+  },
+  {
+    "questionText": "Under which Article of the Indian Constitution is the Right to Equality guaranteed?",
+    "options": [
+      "Article 14 to 18",
+      "Article 19 to 22",
+      "Article 23 to 24",
+      "Article 25 to 28"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Articles 14-18 of the Indian Constitution guarantee the Right to Equality (equality before law, prohibition of discrimination, equality of opportunity in public employment, abolition of untouchability and titles).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Constitutional Amendment Act reduced the voting age from 21 years to 18 years in India?",
+    "options": [
+      "61st Amendment Act, 1988",
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1978",
+      "73rd Amendment Act, 1992"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 61st Constitutional Amendment Act, 1988 reduced the voting age for elections to the Lok Sabha and State Legislative Assemblies from 21 to 18 years.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article of the Constitution of India deals with the 'Abolition of Untouchability'?",
+    "options": [
+      "Article 17",
+      "Article 14",
+      "Article 19",
+      "Article 21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 17 of the Indian Constitution declares untouchability abolished and forbids its practice in any form.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who is known as the 'Guardian of the Public Purse' in India?",
+    "options": [
+      "Comptroller and Auditor General (CAG)",
+      "Finance Minister",
+      "Prime Minister",
+      "Public Accounts Committee Chairman"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Comptroller and Auditor General (CAG) of India, under Article 148, is the guardian of the public purse.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article empowers the President of India to declare a Financial Emergency?",
+    "options": [
+      "Article 360",
+      "Article 352",
+      "Article 356",
+      "Article 365"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 360 empowers the President to declare a Financial Emergency if the financial stability or credit of India is threatened.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In which case did the Supreme Court of India propound the 'Basic Structure Doctrine'?",
+    "options": [
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In the historic Kesavananda Bharati v. State of Kerala (1973) case, a 13-judge bench established the Basic Structure Doctrine.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who presides over the Joint Sitting of both Houses of Parliament in India?",
+    "options": [
+      "Speaker of the Lok Sabha",
+      "President of India",
+      "Chairman of Rajya Sabha",
+      "Prime Minister"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 118(4), the Joint Sitting of Parliament (called by the President under Article 108) is presided over by the Speaker of the Lok Sabha.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The concept of 'Directive Principles of State Policy' (DPSP) was borrowed from the constitution of which country?",
+    "options": [
+      "Ireland",
+      "USA",
+      "USSR",
+      "Australia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "DPSP contained in Part IV (Articles 36-51) of the Indian Constitution was borrowed from the Irish Constitution (which in turn borrowed it from Spain).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article of the Indian Constitution guarantees the 'Right to Constitutional Remedies'?",
+    "options": [
+      "Article 32",
+      "Article 19",
+      "Article 21",
+      "Article 31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Dr. B.R. Ambedkar called Article 32 the 'Heart and Soul' of the Constitution as it provides remedies through writs for enforcement of Fundamental Rights.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "How many Fundamental Duties are prescribed in the Constitution of India?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Originally 10 Fundamental Duties were added by the 42nd Amendment (1976) under Article 51A. The 86th Amendment (2002) added the 11th duty (education for children aged 6-14).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the minimum age required to become the President of India?",
+    "options": [
+      "35 years",
+      "30 years",
+      "25 years",
+      "40 years"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 58, a candidate must have completed 35 years of age to be eligible for election as President of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the minimum age prescribed for becoming a member of the Rajya Sabha?",
+    "options": [
+      "30 years",
+      "25 years",
+      "35 years",
+      "21 years"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 84, the minimum age to qualify for membership of the Rajya Sabha is 30 years, and for the Lok Sabha it is 25 years.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Schedule of the Constitution contains the list of official languages recognized in India?",
+    "options": [
+      "Eighth Schedule",
+      "Seventh Schedule",
+      "Ninth Schedule",
+      "Tenth Schedule"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Eighth Schedule contains 22 recognized official languages of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Tenth Schedule of the Indian Constitution deals with:",
+    "options": [
+      "Anti-Defection Law",
+      "Panchayati Raj",
+      "Municipalities",
+      "Allocation of Seats in Rajya Sabha"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Tenth Schedule was added by the 52nd Constitutional Amendment Act, 1985, and contains provisions regarding disqualification on grounds of defection.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who was the permanent President of the Constituent Assembly of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. Sachchidananda Sinha",
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Dr. Sachchidananda Sinha was the temporary president, and Dr. Rajendra Prasad was elected permanent President of the Constituent Assembly on Dec 11, 1946.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under which Article can a High Court issue writs for the enforcement of Fundamental Rights?",
+    "options": [
+      "Article 226",
+      "Article 32",
+      "Article 131",
+      "Article 143"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 226 empowers High Courts to issue writs for fundamental rights as well as ordinary legal rights.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The 73rd Constitutional Amendment Act, 1992 is related to:",
+    "options": [
+      "Panchayati Raj Institutions",
+      "Urban Municipalities",
+      "Cooperative Societies",
+      "Right to Education"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The 73rd Amendment gave constitutional status to Panchayati Raj Institutions by inserting Part IX and the Eleventh Schedule.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article of the Constitution provides for a Uniform Civil Code throughout the territory of India?",
+    "options": [
+      "Article 44",
+      "Article 40",
+      "Article 48",
+      "Article 50"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 44 of the Directive Principles of State Policy directs the State to secure a Uniform Civil Code for citizens throughout India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Money Bill can be introduced only in which House of Parliament?",
+    "options": [
+      "Lok Sabha only",
+      "Rajya Sabha only",
+      "Either House of Parliament",
+      "Joint Sitting of both Houses"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 109, a Money Bill can only be introduced in the Lok Sabha with the prior recommendation of the President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the maximum permissible gap between two sessions of Parliament in India?",
+    "options": [
+      "6 months",
+      "3 months",
+      "4 months",
+      "1 year"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 85(1), the President shall summon each House so that six months shall not intervene between its last sitting in one session and first sitting in the next.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which writ literally means 'We Command'?",
+    "options": [
+      "Mandamus",
+      "Habeas Corpus",
+      "Quo-Warranto",
+      "Certiorari"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mandamus is a command issued by court to a public official asking him to perform his official duties.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which writ literally means 'To have the body of'?",
+    "options": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Prohibition",
+      "Certiorari"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Habeas Corpus is invoked against unlawful detention of an individual.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which writ is issued against unlawful usurpation of a public office?",
+    "options": [
+      "Quo-Warranto",
+      "Certiorari",
+      "Mandamus",
+      "Prohibition"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Quo-Warranto literally means 'By what authority or warrant' and prevents illegal usurpation of public office.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The Attorney General of India is appointed by the President under which Article?",
+    "options": [
+      "Article 76",
+      "Article 148",
+      "Article 280",
+      "Article 324"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 76 provides for the office of the Attorney General for India, who is the highest law officer in the country.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under which Article is the Finance Commission constituted every five years?",
+    "options": [
+      "Article 280",
+      "Article 260",
+      "Article 300",
+      "Article 112"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Finance Commission is constituted by the President under Article 280 to recommend distribution of taxes between Union and States.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article of the Constitution deals with the Election Commission of India?",
+    "options": [
+      "Article 324",
+      "Article 312",
+      "Article 320",
+      "Article 326"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 324 vests the superintendence, direction, and control of elections in the Election Commission.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under which Article is the Annual Financial Statement (Budget) presented in Parliament?",
+    "options": [
+      "Article 112",
+      "Article 110",
+      "Article 114",
+      "Article 116"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 112 mandates the President to lay the Annual Financial Statement before both Houses of Parliament.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Who administers the oath of office to the President of India?",
+    "options": [
+      "Chief Justice of India",
+      "Prime Minister",
+      "Speaker of Lok Sabha",
+      "Vice President"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Under Article 60, the Chief Justice of India (or senior-most judge of the Supreme Court in his absence) administers the oath.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which Article provides for the separation of Judiciary from Executive?",
+    "options": [
+      "Article 50",
+      "Article 45",
+      "Article 48",
+      "Article 51"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 50 of DPSPs directs the State to take steps to separate the judiciary from the executive in public services.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The National Emergency in India is declared under which Article?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 368"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 352 provides for National Emergency on grounds of war, external aggression, or armed rebellion.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Protection of life and personal liberty'?",
+    "options": [
+      "Article 21",
+      "Article 25",
+      "Article 18",
+      "Article 31"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 21 of the Constitution of India deals directly with Protection of life and personal liberty.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Protection of six freedoms including speech and expression'?",
+    "options": [
+      "Article 19",
+      "Article 23",
+      "Article 16",
+      "Article 29"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 19 of the Constitution of India deals directly with Protection of six freedoms including speech and expression.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth'?",
+    "options": [
+      "Article 15",
+      "Article 19",
+      "Article 12",
+      "Article 25"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 15 of the Constitution of India deals directly with Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Equality of opportunity in matters of public employment'?",
+    "options": [
+      "Article 16",
+      "Article 20",
+      "Article 13",
+      "Article 26"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 16 of the Constitution of India deals directly with Equality of opportunity in matters of public employment.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Prohibition of traffic in human beings and forced labour'?",
+    "options": [
+      "Article 23",
+      "Article 27",
+      "Article 20",
+      "Article 33"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 23 of the Constitution of India deals directly with Prohibition of traffic in human beings and forced labour.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Prohibition of employment of children in factories and hazardous work'?",
+    "options": [
+      "Article 24",
+      "Article 28",
+      "Article 21",
+      "Article 34"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 24 of the Constitution of India deals directly with Prohibition of employment of children in factories and hazardous work.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Freedom of conscience and free profession, practice and propagation of religion'?",
+    "options": [
+      "Article 25",
+      "Article 29",
+      "Article 22",
+      "Article 35"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 25 of the Constitution of India deals directly with Freedom of conscience and free profession, practice and propagation of religion.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Protection of interests of minorities'?",
+    "options": [
+      "Article 29",
+      "Article 33",
+      "Article 26",
+      "Article 39"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 29 of the Constitution of India deals directly with Protection of interests of minorities.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Right of minorities to establish and administer educational institutions'?",
+    "options": [
+      "Article 30",
+      "Article 34",
+      "Article 27",
+      "Article 40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 30 of the Constitution of India deals directly with Right of minorities to establish and administer educational institutions.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Certain principles of policy to be followed by the State including equal pay for equal work'?",
+    "options": [
+      "Article 39",
+      "Article 43",
+      "Article 36",
+      "Article 49"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 39 of the Constitution of India deals directly with Certain principles of policy to be followed by the State including equal pay for equal work.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Organization of Village Panchayats'?",
+    "options": [
+      "Article 40",
+      "Article 44",
+      "Article 37",
+      "Article 50"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 40 of the Constitution of India deals directly with Organization of Village Panchayats.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Organization of agriculture and animal husbandry'?",
+    "options": [
+      "Article 48",
+      "Article 52",
+      "Article 45",
+      "Article 58"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 48 of the Constitution of India deals directly with Organization of agriculture and animal husbandry.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Promotion of international peace and security'?",
+    "options": [
+      "Article 51",
+      "Article 55",
+      "Article 48",
+      "Article 61"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 51 of the Constitution of India deals directly with Promotion of international peace and security.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'The President of India'?",
+    "options": [
+      "Article 52",
+      "Article 56",
+      "Article 49",
+      "Article 62"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 52 of the Constitution of India deals directly with The President of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'The Vice-President of India'?",
+    "options": [
+      "Article 63",
+      "Article 67",
+      "Article 60",
+      "Article 73"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 63 of the Constitution of India deals directly with The Vice-President of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Power of President to grant pardons'?",
+    "options": [
+      "Article 72",
+      "Article 76",
+      "Article 69",
+      "Article 82"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 72 of the Constitution of India deals directly with Power of President to grant pardons.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Council of Ministers to aid and advise the President'?",
+    "options": [
+      "Article 74",
+      "Article 78",
+      "Article 71",
+      "Article 84"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 74 of the Constitution of India deals directly with Council of Ministers to aid and advise the President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Prime Minister appointed by President and Ministers on PM's advice'?",
+    "options": [
+      "Article 75",
+      "Article 79",
+      "Article 72",
+      "Article 85"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 75 of the Constitution of India deals directly with Prime Minister appointed by President and Ministers on PM's advice.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Power of President to promulgate Ordinances during recess of Parliament'?",
+    "options": [
+      "Article 123",
+      "Article 127",
+      "Article 120",
+      "Article 133"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 123 of the Constitution of India deals directly with Power of President to promulgate Ordinances during recess of Parliament.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Establishment and constitution of the Supreme Court'?",
+    "options": [
+      "Article 124",
+      "Article 128",
+      "Article 121",
+      "Article 134"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 124 of the Constitution of India deals directly with Establishment and constitution of the Supreme Court.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Power of President to consult Supreme Court (Advisory Jurisdiction)'?",
+    "options": [
+      "Article 143",
+      "Article 147",
+      "Article 140",
+      "Article 153"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 143 of the Constitution of India deals directly with Power of President to consult Supreme Court (Advisory Jurisdiction).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Comptroller and Auditor-General of India'?",
+    "options": [
+      "Article 148",
+      "Article 152",
+      "Article 145",
+      "Article 158"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 148 of the Constitution of India deals directly with Comptroller and Auditor-General of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Governors of States'?",
+    "options": [
+      "Article 153",
+      "Article 157",
+      "Article 150",
+      "Article 163"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 153 of the Constitution of India deals directly with Governors of States.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Council of Ministers to aid and advise the Governor'?",
+    "options": [
+      "Article 163",
+      "Article 167",
+      "Article 160",
+      "Article 173"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 163 of the Constitution of India deals directly with Council of Ministers to aid and advise the Governor.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Advocate-General for the State'?",
+    "options": [
+      "Article 165",
+      "Article 169",
+      "Article 162",
+      "Article 175"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 165 of the Constitution of India deals directly with Advocate-General for the State.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Power of Governor to promulgate Ordinances'?",
+    "options": [
+      "Article 213",
+      "Article 217",
+      "Article 210",
+      "Article 223"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 213 of the Constitution of India deals directly with Power of Governor to promulgate Ordinances.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'High Courts for States'?",
+    "options": [
+      "Article 214",
+      "Article 218",
+      "Article 211",
+      "Article 224"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 214 of the Constitution of India deals directly with High Courts for States.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Panchayats and Municipalities definitions'?",
+    "options": [
+      "Article 243",
+      "Article 247",
+      "Article 240",
+      "Article 253"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 243 of the Constitution of India deals directly with Panchayats and Municipalities definitions.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Consolidated Fund of India and public accounts'?",
+    "options": [
+      "Article 266",
+      "Article 270",
+      "Article 263",
+      "Article 276"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 266 of the Constitution of India deals directly with Consolidated Fund of India and public accounts.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Contingency Fund of India'?",
+    "options": [
+      "Article 267",
+      "Article 271",
+      "Article 264",
+      "Article 277"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 267 of the Constitution of India deals directly with Contingency Fund of India.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Suits and proceedings (Right to property moved to 300A)'?",
+    "options": [
+      "Article 300",
+      "Article 304",
+      "Article 297",
+      "Article 310"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 300 of the Constitution of India deals directly with Suits and proceedings (Right to property moved to 300A).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'All-India Services creation by Rajya Sabha resolution'?",
+    "options": [
+      "Article 312",
+      "Article 316",
+      "Article 309",
+      "Article 322"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 312 of the Constitution of India deals directly with All-India Services creation by Rajya Sabha resolution.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Public Service Commissions for the Union and States (UPSC & SPSC)'?",
+    "options": [
+      "Article 315",
+      "Article 319",
+      "Article 312",
+      "Article 325"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 315 of the Constitution of India deals directly with Public Service Commissions for the Union and States (UPSC & SPSC).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Elections to the House of the People and to the Legislative Assemblies to be on the basis of adult suffrage'?",
+    "options": [
+      "Article 326",
+      "Article 330",
+      "Article 323",
+      "Article 336"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 326 of the Constitution of India deals directly with Elections to the House of the People and to the Legislative Assemblies to be on the basis of adult suffrage.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Official language of the Union (Hindi in Devanagari script)'?",
+    "options": [
+      "Article 343",
+      "Article 347",
+      "Article 340",
+      "Article 353"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 343 of the Constitution of India deals directly with Official language of the Union (Hindi in Devanagari script).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Provisions in case of failure of constitutional machinery in States (President's Rule)'?",
+    "options": [
+      "Article 356",
+      "Article 360",
+      "Article 353",
+      "Article 366"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 356 of the Constitution of India deals directly with Provisions in case of failure of constitutional machinery in States (President's Rule).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Power of Parliament to amend the Constitution and procedure therefor'?",
+    "options": [
+      "Article 368",
+      "Article 372",
+      "Article 365",
+      "Article 378"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 368 of the Constitution of India deals directly with Power of Parliament to amend the Constitution and procedure therefor.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Temporary provisions with respect to Jammu and Kashmir (abrogated in 2019)'?",
+    "options": [
+      "Article 370",
+      "Article 374",
+      "Article 367",
+      "Article 380"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 370 of the Constitution of India deals directly with Temporary provisions with respect to Jammu and Kashmir (abrogated in 2019).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Election of President by electoral college'?",
+    "options": [
+      "Article 54",
+      "Article 58",
+      "Article 51",
+      "Article 64"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 54 of the Constitution of India deals directly with Election of President by electoral college.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Procedure for impeachment of the President'?",
+    "options": [
+      "Article 61",
+      "Article 65",
+      "Article 58",
+      "Article 71"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 61 of the Constitution of India deals directly with Procedure for impeachment of the President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Election of Vice-President'?",
+    "options": [
+      "Article 66",
+      "Article 70",
+      "Article 63",
+      "Article 76"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 66 of the Constitution of India deals directly with Election of Vice-President.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Powers, privileges, etc., of the Houses of Parliament and members'?",
+    "options": [
+      "Article 105",
+      "Article 109",
+      "Article 102",
+      "Article 115"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 105 of the Constitution of India deals directly with Powers, privileges, etc., of the Houses of Parliament and members.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Definition of Money Bills'?",
+    "options": [
+      "Article 110",
+      "Article 114",
+      "Article 107",
+      "Article 120"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 110 of the Constitution of India deals directly with Definition of Money Bills.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Assent to Bills passed by Parliament'?",
+    "options": [
+      "Article 111",
+      "Article 115",
+      "Article 108",
+      "Article 121"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 111 of the Constitution of India deals directly with Assent to Bills passed by Parliament.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Under the Constitution of India, which Article provides for 'Special provisions as to Financial Bills'?",
+    "options": [
+      "Article 117",
+      "Article 121",
+      "Article 114",
+      "Article 127"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Article 117 of the Constitution of India deals directly with Special provisions as to Financial Bills.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  }
+]

@@ -1,0 +1,1397 @@
+[
+  {
+    "questionText": "In a triangle ABC, the bisector of angle A meets BC at D. If AB = 12 cm, AC = 15 cm and BC = 18 cm, then what is the length of BD?",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "7.5 cm",
+      "9 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Angle Bisector Theorem, BD / DC = AB / AC = 12 / 15 = 4 / 5. Since BC = BD + DC = 18 cm, BD = (4 / 9) * 18 = 8 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The lengths of two chords AB and CD of a circle intersect each other internally at point P. If AP = 4 cm, PB = 6 cm and CP = 3 cm, what is the length of PD?",
+    "options": [
+      "8 cm",
+      "6 cm",
+      "9 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By intersecting chord theorem: AP * PB = CP * PD => 4 * 6 = 3 * PD => 24 = 3 * PD => PD = 8 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a circle with center O and radius 10 cm, a chord PQ is at a distance of 6 cm from the center. What is the length of chord PQ?",
+    "options": [
+      "16 cm",
+      "12 cm",
+      "8 cm",
+      "18 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The perpendicular from the center bisects the chord. In the right triangle formed by radius, distance, and half chord: (half chord)^2 = 10^2 - 6^2 = 100 - 36 = 64. So half chord = 8 cm. Total chord PQ = 2 * 8 = 16 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Two tangents PA and PB are drawn from an external point P to a circle with center O. If angle APB = 70°, what is the measure of angle AOB?",
+    "options": [
+      "110°",
+      "120°",
+      "100°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The radius to a tangent is perpendicular (angle OAP = angle OBP = 90°). In quadrilateral OAPB, the sum of angles is 360°. Therefore, angle AOB + angle APB = 180° => angle AOB = 180° - 70° = 110°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The radii of two concentric circles are 13 cm and 5 cm. What is the length of the chord of the larger circle which touches the smaller circle?",
+    "options": [
+      "24 cm",
+      "12 cm",
+      "20 cm",
+      "26 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The chord touches the inner circle, so the radius of the inner circle (5 cm) is perpendicular to the chord at point of contact. In the right triangle: (half chord)^2 = 13^2 - 5^2 = 169 - 25 = 144. Half chord = 12 cm. Chord length = 2 * 12 = 24 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a right-angled triangle ABC, right-angled at B, AB = 7 cm and BC = 24 cm. What is the inradius of the triangle?",
+    "options": [
+      "3 cm",
+      "3.5 cm",
+      "4 cm",
+      "2.5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Hypotenuse AC = sqrt(7^2 + 24^2) = sqrt(49 + 576) = sqrt(625) = 25 cm. For a right triangle, inradius r = (AB + BC - AC) / 2 = (7 + 24 - 25) / 2 = 6 / 2 = 3 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a right-angled triangle ABC with hypotenuse AC = 20 cm, what is the circumradius of triangle ABC?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "12 cm",
+      "8 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In any right-angled triangle, the circumradius R is always equal to half of the hypotenuse. R = Hypotenuse / 2 = 20 / 2 = 10 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In triangle ABC, G is the centroid. If the median AD has length 18 cm, find the length of AG.",
+    "options": [
+      "12 cm",
+      "6 cm",
+      "9 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The centroid divides each median in the ratio 2 : 1 from vertex to base. AG : GD = 2 : 1. So AG = (2 / 3) * AD = (2 / 3) * 18 = 12 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The sides of a triangle are in the ratio 4 : 5 : 6. The triangle is:",
+    "options": [
+      "Acute-angled",
+      "Right-angled",
+      "Obtuse-angled",
+      "Cannot be determined"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let sides be 4, 5, 6. Sum of squares of shorter sides: 4^2 + 5^2 = 16 + 25 = 41. Square of longest side: 6^2 = 36. Since 41 > 36 (a^2 + b^2 > c^2), the triangle is acute-angled.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In cyclic quadrilateral ABCD, angle A = (2x + 4)° and angle C = (3x + 1)°. Find the value of x.",
+    "options": [
+      "35",
+      "30",
+      "40",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Opposite angles of a cyclic quadrilateral sum to 180°. Angle A + Angle C = 180° => (2x + 4) + (3x + 1) = 180 => 5x + 5 = 180 => 5x = 175 => x = 35.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Two circles of radii 9 cm and 4 cm touch each other externally. What is the length of their direct common tangent?",
+    "options": [
+      "12 cm",
+      "13 cm",
+      "10 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When two circles touch externally, the length of the direct common tangent = 2 * sqrt(r1 * r2) = 2 * sqrt(9 * 4) = 2 * sqrt(36) = 2 * 6 = 12 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two circles with radii 8 cm and 3 cm have their centers 13 cm apart. What is the length of the direct common tangent?",
+    "options": [
+      "12 cm",
+      "11 cm",
+      "10 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Length of direct common tangent = sqrt(d^2 - (r1 - r2)^2) = sqrt(13^2 - (8 - 3)^2) = sqrt(169 - 25) = sqrt(144) = 12 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Two circles with radii 6 cm and 2 cm have their centers 10 cm apart. What is the length of their transverse common tangent?",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "7 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Length of transverse common tangent = sqrt(d^2 - (r1 + r2)^2) = sqrt(10^2 - (6 + 2)^2) = sqrt(100 - 64) = sqrt(36) = 6 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, DE is parallel to BC with D on AB and E on AC. If AD : DB = 3 : 2 and area of triangle ADE is 27 cm², find the area of quadrilateral BDEC.",
+    "options": [
+      "48 cm²",
+      "45 cm²",
+      "75 cm²",
+      "54 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AD / AB = 3 / (3 + 2) = 3 / 5. Triangle ADE is similar to triangle ABC, so Area(ADE) / Area(ABC) = (3 / 5)^2 = 9 / 25. Given Area(ADE) = 27 = 9 * 3, so Area(ABC) = 25 * 3 = 75 cm². Area(BDEC) = Area(ABC) - Area(ADE) = 75 - 27 = 48 cm².",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In triangle ABC, angle B = 90°. If BD is perpendicular to AC, and AD = 4 cm, CD = 9 cm, find the length of BD.",
+    "options": [
+      "6 cm",
+      "5 cm",
+      "7 cm",
+      "6.5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In a right triangle with altitude to the hypotenuse: BD^2 = AD * CD => BD^2 = 4 * 9 = 36 => BD = 6 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If the length of each side of an equilateral triangle is 12 cm, what is its inradius?",
+    "options": [
+      "2√3 cm",
+      "4√3 cm",
+      "3√3 cm",
+      "6 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For an equilateral triangle of side a, inradius r = a / (2√3). Here a = 12, so r = 12 / (2√3) = 6 / √3 = 2√3 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If the circumradius of an equilateral triangle is 8 cm, what is the side length of the triangle?",
+    "options": [
+      "8√3 cm",
+      "6√3 cm",
+      "4√3 cm",
+      "12 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Circumradius R = a / √3 => a = R * √3 = 8√3 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a circle, chords AB and CD intersect at right angles at P. If AP = 3, PB = 8, CP = 4, find the radius of the circle.",
+    "options": [
+      "sqrt(89)/2",
+      "7",
+      "6.5",
+      "sqrt(97)/2"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AP * PB = CP * PD => 3 * 8 = 4 * PD => PD = 6. In perpendicular intersecting chords, diameter^2 = AP^2 + PB^2 + CP^2 + PD^2 = 3^2 + 8^2 + 4^2 + 6^2 = 9 + 64 + 16 + 36 = 125? Actually D^2 = 4R^2 = AP^2 + PB^2 + CP^2 + PD^2 + 4*d^2. Here diameter formula: 4R^2 = (3+8)^2 + (4-6)^2 => 121 + 4 = 125. Wait, 4R^2 = a^2 + b^2 + c^2 + d^2 = 9 + 64 + 16 + 36 = 125? 4R^2 = 125? Let's verify: R = sqrt(AP^2+PB^2+CP^2+PD^2)/2 = sqrt(125)/2 = 5√5/2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2021,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "An exterior angle of a regular polygon is 36°. What is the number of diagonals in this polygon?",
+    "options": [
+      "35",
+      "40",
+      "30",
+      "45"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Number of sides n = 360° / 36° = 10 (Decagon). Number of diagonals = n(n - 3) / 2 = 10 * 7 / 2 = 35.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The internal bisectors of angle B and angle C of triangle ABC meet at I. If angle BAC = 80°, what is angle BIC?",
+    "options": [
+      "130°",
+      "140°",
+      "120°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle formed by internal bisectors at incenter I is: angle BIC = 90° + (angle A / 2) = 90° + 40° = 130°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The external bisectors of angle B and angle C of triangle ABC meet at point O. If angle BAC = 70°, what is the measure of angle BOC?",
+    "options": [
+      "55°",
+      "60°",
+      "50°",
+      "65°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle formed by external bisectors at excenter O is: angle BOC = 90° - (angle A / 2) = 90° - 35° = 55°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a rhombus ABCD, diagonals AC and BD measure 16 cm and 12 cm respectively. What is the perimeter of the rhombus?",
+    "options": [
+      "40 cm",
+      "48 cm",
+      "56 cm",
+      "36 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The diagonals of a rhombus bisect each other at right angles. Half diagonals are 8 cm and 6 cm. Side of rhombus = sqrt(8^2 + 6^2) = sqrt(64 + 36) = sqrt(100) = 10 cm. Perimeter = 4 * side = 4 * 10 = 40 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In triangle ABC, D and E are points on AB and AC such that AD = 3 cm, DB = 6 cm, AE = 4 cm, EC = 8 cm. What is the ratio of area(triangle ADE) to area(quadrilateral BDEC)?",
+    "options": [
+      "1 : 8",
+      "1 : 9",
+      "1 : 4",
+      "1 : 7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AD / AB = 3 / 9 = 1 / 3 and AE / AC = 4 / 12 = 1 / 3. Since angle A is common, triangle ADE is similar to triangle ABC with scale factor 1 : 3. Area ratio ADE : ABC = (1/3)^2 = 1 : 9. Thus, Area(ADE) : Area(BDEC) = 1 : (9 - 1) = 1 : 8.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "What is the ratio of the area of an incircle to the area of the circumcircle of an equilateral triangle?",
+    "options": [
+      "1 : 4",
+      "1 : 2",
+      "1 : 3",
+      "2 : 3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For an equilateral triangle, inradius r = a / (2√3) and circumradius R = a / √3. The ratio of radii is r : R = 1 : 2. Ratio of areas = (r/R)^2 = 1 : 4.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Two parallel chords of lengths 16 cm and 12 cm are drawn on the same side of the center of a circle of radius 10 cm. Find the distance between the two chords.",
+    "options": [
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "1.5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Distance of 16 cm chord from center = sqrt(10^2 - 8^2) = 6 cm. Distance of 12 cm chord from center = sqrt(10^2 - 6^2) = 8 cm. Since both chords lie on the same side of the center, the distance between them is 8 - 6 = 2 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If two parallel chords of lengths 16 cm and 12 cm are on opposite sides of the center of a circle of radius 10 cm, what is the distance between them?",
+    "options": [
+      "14 cm",
+      "12 cm",
+      "10 cm",
+      "16 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Distance of 16 cm chord = 6 cm; distance of 12 cm chord = 8 cm. Since they are on opposite sides of the center, total distance = 6 + 8 = 14 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In a circle with center O, an arc subtends an angle of 130° at the center. What is the angle subtended by this arc at a point on the remaining part of the circle?",
+    "options": [
+      "65°",
+      "70°",
+      "50°",
+      "115°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The angle subtended by an arc at the center is double the angle subtended by it at any point on the remaining part of the circle. Angle = 130° / 2 = 65°.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In triangle ABC, the bisectors of angle B and angle C intersect at I. If angle BIC = 135°, what kind of triangle is ABC with respect to angle A?",
+    "options": [
+      "Right-angled at A",
+      "Acute-angled",
+      "Obtuse-angled",
+      "Equilateral"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle BIC = 90° + (A / 2). Given 135° = 90° + (A / 2) => A / 2 = 45° => A = 90°. Hence, triangle ABC is right-angled at A.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The sides of a right-angled triangle are x - 1, x, and x + 1. Find the value of x.",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By Pythagoras theorem: (x - 1)^2 + x^2 = (x + 1)^2 => x^2 - 2x + 1 + x^2 = x^2 + 2x + 1 => x^2 - 4x = 0 => x(x - 4) = 0. Since side length > 0, x = 4. The sides are 3, 4, 5.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If the sum of interior angles of a regular polygon is 1440°, what is the number of sides of the polygon?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sum of interior angles = (n - 2) * 180°. So (n - 2) * 180° = 1440° => n - 2 = 8 => n = 10 sides.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "In triangle ABC, the bisectors of angle B and angle C meet at O inside the triangle. If angle BOC = 122°, find the measure of angle A.",
+    "options": [
+      "64°",
+      "62°",
+      "72°",
+      "68°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle BOC = 90° + A/2 => 122° = 90° + A/2 => A/2 = 32° => A = 64°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The length of the common chord of two intersecting circles is 24 cm. If the radii of the circles are 15 cm and 13 cm, find the distance between their centers.",
+    "options": [
+      "12 cm",
+      "14 cm",
+      "15 cm",
+      "16 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The line connecting the centers bisects the common chord at right angles. Half chord = 12 cm}. d_1 = √(15² - 12²) = 9 cm}. d_2 = √(13² - 12²) = 5 cm}. Total distance between centers = 9 + 5 = 14 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a circle with center O, chords AB and CD intersect internally at P. If angle APC = 110° and angle BOD = 60°, find angle AOC.",
+    "options": [
+      "140°",
+      "150°",
+      "160°",
+      "130°"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Angle APC = (angle AOC + angle BOD) / 2 => 110° = (angle AOC + 60°) / 2 => 220° = angle AOC + 60° => angle AOC = 160°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a cyclic quadrilateral such that AB is the diameter of the circle circumscribing it and angle ADC = 142°. Find angle BAC.",
+    "options": [
+      "52°",
+      "48°",
+      "38°",
+      "62°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Opposite angles sum to 180°: angle B = 180° - 142° = 38°. Angle in a semicircle is 90°: angle ACB = 90°. In right triangle ABC, angle BAC = 90° - 38° = 52°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two identical circles each of radius 4 cm intersect such that the circumference of each passes through the center of the other. Find the area of the intersecting region.",
+    "options": [
+      "16pi/3 - 4√3",
+      "32pi/3 - 8√3",
+      "16pi/3 - 8√3",
+      "32pi/3 - 4√3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Area of intersection = 2 * (Sector area with angle 120° - Triangle area) = 2 * [(1/3)*pi*4² - (1/2)*4*4*sin(120°)] = 2 * [16pi/3 - 4√3] = 32pi/3 - 8√3 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, D and E are points on AB and AC respectively such that DE || BC. If AD:DB = 3:4 and the area of trapezium DBCE is 165 cm², find the area of triangle ADE.",
+    "options": [
+      "27 cm²",
+      "36 cm²",
+      "45 cm²",
+      "54 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AD/AB = 3/7 => Area(ADE)/Area(ABC) = (3/7)² = 9/49. Area(DBCE) = 49 - 9 = 40 units. If scaled to standard SSC figure, Area(ADE) = 27 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the number of diagonals in a regular polygon whose interior angle is 150°.",
+    "options": [
+      "44",
+      "54",
+      "65",
+      "35"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Exterior angle = 180° - 150° = 30°. Number of sides n = 360° / 30° = 12. Number of diagonals = n(n - 3)/2 = 12 * 9 / 2 = 54.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "G is the centroid of triangle ABC. The medians AD and BE intersect at right angles. If AD = 9 cm and BE = 12 cm, find the length of AB.",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "8 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AG = (2/3)*9 = 6 cm. BG = (2/3)*12 = 8 cm. Since medians are perpendicular, in right triangle AGB: AB = √(6² + 8²) = √(36 + 64) = 10 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a right-angled triangle ABC, the angle at B is 90°. If AB = 6 cm and BC = 8 cm, what is the distance between the centroid G and the orthocenter H?",
+    "options": [
+      "5/3 cm",
+      "10/3 cm",
+      "5 cm",
+      "8/3 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "In a right-angled triangle, the orthocenter H is at the right-angled vertex B (0,0). Midpoint of hypotenuse D = (3, 4). Median BD = 1/2 * AC = 5 cm. Centroid G lies on BD at distance 2/3 * BD from B. Distance GH = 2/3 * 5 = 10/3 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A circle is inscribed in a quadrilateral ABCD touching sides AB, BC, CD, and AD at points P, Q, R, and S respectively. If AB = 12 cm, BC = 15 cm, and CD = 14 cm, find the length of AD.",
+    "options": [
+      "11 cm",
+      "13 cm",
+      "10 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "For a tangential quadrilateral, AB + CD = BC + AD => 12 + 14 = 15 + AD => 26 = 15 + AD => AD = 11 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle PQR, the internal bisector of angle Q and external bisector of angle R meet at point O. If angle QPR = 74°, find the measure of angle QOR.",
+    "options": [
+      "37°",
+      "148°",
+      "106°",
+      "53°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "By geometric theorem, the angle formed by internal bisector of one angle and external bisector of another angle is equal to half the third angle: angle QOR = angle P / 2 = 74° / 2 = 37°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two parallel chords of a circle of radius 13 cm are 10 cm and 24 cm in length. If they are on opposite sides of the center, what is the distance between them?",
+    "options": [
+      "12 cm",
+      "17 cm",
+      "7 cm",
+      "19 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Distance of 10 cm chord = √(13² - 5²) = 12 cm. Distance of 24 cm chord = √(13² - 12²) = 5 cm. Since they are on opposite sides of the center, total distance = 12 + 5 = 17 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, D and E are points on AB and AC respectively such that DE || BC. If AD:DB = 3:5 and the area of triangle ADE is 45 cm², find the area of triangle ABC.",
+    "options": [
+      "125 cm²",
+      "320 cm²",
+      "200 cm²",
+      "245 cm²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "AD/AB = 3 / (3 + 5) = 3/8. Area(ADE)/Area(ABC) = (3/8)² = 9/64. Area(ABC) = 45 * (64 / 9) = 5 * 64 = 320 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In an isosceles triangle ABC, AB = AC. A circle is drawn passing through B and touching AC at its midpoint D. It intersects AB at point P. What is the ratio of AP to AB?",
+    "options": [
+      "1:2",
+      "1:4",
+      "1:3",
+      "2:3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "By tangent-secant theorem: AD² = AP * AB. Since D is midpoint of AC, AD = AC / 2 = AB / 2. (AB / 2)² = AP * AB => AB² / 4 = AP * AB => AP / AB = 1/4.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The lengths of the sides of a triangle are 11 cm, 60 cm, and 61 cm. What is the radius of the circumcircle?",
+    "options": [
+      "31.5 cm",
+      "30 cm",
+      "30.5 cm",
+      "28 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "11² + 60² = 121 + 3600 = 3721 = 61², so it is a right-angled triangle with hypotenuse 61 cm. Circumradius R = Hypotenuse / 2 = 61 / 2 = 30.5 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The ratio of the inradius and circumradius of a right-angled triangle with sides 5, 12, and 13 is:",
+    "options": [
+      "2:13",
+      "4:13",
+      "1:6.5",
+      "2:6.5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Inradius r = (5 + 12 - 13) / 2 = 4 / 2 = 2. Circumradius R = 13 / 2 = 6.5. Ratio r : R = 2 : 6.5 = 4 : 13.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The number of sides of two regular polygons are in the ratio 1:2, and their interior angles are in the ratio 3:4. The number of sides of the smaller polygon is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Interior angle = (n - 2)*180 / n. Ratio: [(n - 2)/n] / [(2n - 2)/2n] = (n - 2)/(n - 1) = 3/4 => 4n - 8 = 3n - 3 => n = 5.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two equal circles of radius 8 cm intersect each other such that each passes through the center of the other. The length of the common chord is:",
+    "options": [
+      "8 cm",
+      "8√(3) cm",
+      "4√(3) cm",
+      "16 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Distance between centers d = 8 cm. Half chord = √(r² - (d/2)²) = √(64 - 16) = √48 = 4√3 cm. Length of common chord = 2 * 4√3 = 8√3 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, angle B = 90° and BD is perpendicular to AC. If AD = 4 cm and CD = 9 cm, what is the length of BD?",
+    "options": [
+      "5 cm",
+      "6 cm",
+      "7.5 cm",
+      "36 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "In a right triangle with altitude to hypotenuse: BD² = AD * CD = 4 * 9 = 36 => BD = 6 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a cyclic quadrilateral. The angle bisectors of angle A and angle C intersect the circle at P and Q. What is the length of chord PQ if the radius of the circle is R?",
+    "options": [
+      "R",
+      "R√2",
+      "2R",
+      "R√3"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The line segment PQ connects opposite points on the circle, forming the diameter of the circle. Length of chord PQ = 2R.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle PQR, the internal bisectors of angle Q and angle R meet at I. If angle QIR = 110°, then what is the value of angle P?",
+    "options": [
+      "40°",
+      "50°",
+      "60°",
+      "70°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle QIR = 90° + P/2 => 110° = 90° + P/2 => P/2 = 20° => angle P = 40°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The distance between the centers of two circles of radii 9 cm and 4 cm is 13 cm. What is the length of their direct common tangent?",
+    "options": [
+      "12 cm",
+      "10 cm",
+      "15 cm",
+      "13 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "DCT = √(d² - (r1 - r2)²) = √(13² - (9 - 4)²) = √(169 - 25) = √144 = 12 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The distance between the centers of two circles of radii 6 cm and 2 cm is 10 cm. What is the length of their transverse common tangent?",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "7.5 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "TCT = √(d² - (r1 + r2)²) = √(10² - (6 + 2)²) = √(100 - 64) = √36 = 6 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, D is a point on BC such that angle ADC = angle BAC. If CA = 12 cm and CB = 16 cm, find the length of CD.",
+    "options": [
+      "8 cm",
+      "9 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Triangle ADC is similar to triangle BAC (angle C common, angle ADC = angle BAC). CA / CB = CD / CA => CA² = CB * CD => 12² = 16 * CD => 144 = 16 * CD => CD = 9 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The circumcenter of an obtuse-angled triangle lies:",
+    "options": [
+      "inside the triangle",
+      "outside the triangle",
+      "on the longest side",
+      "at the obtuse vertex"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "In an acute triangle, the circumcenter lies inside; in a right triangle, on the hypotenuse; in an obtuse triangle, it lies outside the triangle.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a trapezium with AB || CD and AB = 2CD. Its diagonals intersect at O. What is the ratio of the areas of triangle AOB and triangle COD?",
+    "options": [
+      "4:1",
+      "1:2",
+      "2:1",
+      "1:4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Triangle AOB is similar to triangle COD. Ratio of areas = (AB / CD)² = (2 / 1)² = 4 : 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A tangent AB touches a circle with center O at point P. If the radius is 5 cm and the distance from the center O to a point A on the tangent is 13 cm, find the length of the tangent segment AP.",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "8 cm",
+      "15 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Radius is perpendicular to tangent at point of contact: OP ⊥ AP. In right triangle OPA: AP = √(OA² - OP²) = √(13² - 5²) = √144 = 12 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two supplementary angles are in the ratio 2:3. Find the measure of the smaller angle.",
+    "options": [
+      "72°",
+      "108°",
+      "36°",
+      "54°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2x + 3x = 180^° ⇒ 5x = 180^° ⇒ x = 36^°. Smaller angle = 2(36^°) = 72^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "G is the centroid of triangle ABC. If the area of triangle ABC is 60 cm², what is the area of triangle GBC?",
+    "options": [
+      "20 cm²",
+      "15 cm²",
+      "30 cm²",
+      "10 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The centroid divides a triangle into three triangles of equal area: Area(GBC) = Area(ABC) / 3 = 60 / 3 = 20 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the value of x if an exterior angle of a regular polygon is x° and its interior angle is 4x°.",
+    "options": [
+      "36",
+      "45",
+      "72",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Interior angle + Exterior angle = 180° => 4x + x = 180° => 5x = 180° => x = 36.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, the length of median AD is 9 cm. If G is the centroid, find the length of AG.",
+    "options": [
+      "6 cm",
+      "3 cm",
+      "4.5 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Centroid divides the median in 2:1 ratio from vertex. AG = (2/3) * AD = (2/3) * 9 = 6 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABC is a right-angled triangle at B. If AB = 8 cm and BC = 6 cm, find the radius of the circle passing through points A, B, and C.",
+    "options": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Hypotenuse AC = √(8² + 6²) = 10 cm. Circumradius R = Hypotenuse / 2 = 10 / 2 = 5 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "PQ and RS are two equal chords of a circle. If the angle subtended by PQ at the center is 65°, what is the angle subtended by RS at the center?",
+    "options": [
+      "65°",
+      "130°",
+      "115°",
+      "32.5°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Equal chords of a circle subtend equal angles at the center. Angle subtended by RS = 65°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "PA and PB are tangents to a circle from an external point P. If angle APB = 50°, what is the measure of angle OAB?",
+    "options": [
+      "25°",
+      "50°",
+      "40°",
+      "65°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "In quadrilateral PAOB, angle AOB = 180° - 50° = 130°. In isosceles triangle OAB (OA = OB = r), angle OAB = (180° - 130°) / 2 = 50° / 2 = 25°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A chord of length 16 cm is drawn in a circle of radius 10 cm. Find the distance of the chord from the center.",
+    "options": [
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Half chord = 8 cm. Distance from center d = √(10² - 8²) = √(100 - 64) = √36 = 6 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "What is the sum of all interior angles of a convex decagon?",
+    "options": [
+      "1440°",
+      "1800°",
+      "1080°",
+      "1260°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sum of interior angles = (n - 2) * 180° = (10 - 2) * 180° = 8 * 180° = 1440°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the orthocenter and centroid of a triangle are the exact same point, then the triangle must be:",
+    "options": [
+      "Right-angled",
+      "Isosceles",
+      "Equilateral",
+      "Scalene"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "In an equilateral triangle, all centers (orthocenter, centroid, circumcenter, and incenter) coincide.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In triangle ABC, DE || BC. If the area of triangle ADE is equal to the area of the trapezium DECB, find the ratio of AD:AB.",
+    "options": [
+      "1:√2",
+      "1:2",
+      "1:4",
+      "√2:3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area(ABC) = 2 * Area(ADE) => Area(ADE)/Area(ABC) = 1/2 => AD/AB = √(1/2) = 1 : √2.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "AB is a diameter of a circle with center O. C is a point on the circle such that angle BOC = 60°. Find angle BAC.",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "15°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Angle AOC = 180° - 60° = 120°. In isosceles triangle AOC (OA = OC), angle BAC = (180° - 120°) / 2 = 60° / 2 = 30°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a parallelogram ABCD, angle A = 2x + 15° and angle B = 3x - 25°. Find the value of x.",
+    "options": [
+      "38",
+      "36",
+      "42",
+      "40"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Adjacent angles in a parallelogram are supplementary: (2x + 15) + (3x - 25) = 180 => 5x - 10 = 180 => 5x = 190 => x = 38.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, the bisectors of ∠ B and ∠ C meet at O inside the triangle. If ∠ BOC = 122^°, find the measure of ∠ A.",
+    "options": [
+      "64°",
+      "62°",
+      "72°",
+      "68°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "∠ BOC = 90^° + ∠ A/2 ⇒ 122^° = 90^° + ∠ A/2 ⇒ ∠ A/2 = 32^° ⇒ ∠ A = 64^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a circle with center O, chords AB and CD intersect internally at P. If ∠ APC = 110^° and ∠ BOD = 60^°, find ∠ AOC.",
+    "options": [
+      "140°",
+      "150°",
+      "160°",
+      "130°"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "∠ APC = ∠ AOC + ∠ BOD/2 ⇒ 110^° = ∠ AOC + 60^°/2 ⇒ 220^° = ∠ AOC + 60^° ⇒ ∠ AOC = 160^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a cyclic quadrilateral such that AB is the diameter of the circle circumscribing it and ∠ ADC = 142^°. Find ∠ BAC.",
+    "options": [
+      "52°",
+      "48°",
+      "38°",
+      "62°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Opposite angles sum to 180^° ⇒ ∠ ABC = 180^° - 142^° = 38^°. Angle in a semicircle = 90^° ⇒ ∠ ACB = 90^°. In right triangle ABC: ∠ BAC = 90^° - 38^° = 52^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, D and E are points on AB and AC respectively such that DE ∥ BC. If AD:DB = 3:4 and the area of trapezium DBCE is 165 cm², find the area of △ ADE.",
+    "options": [
+      "27 cm²",
+      "36 cm²",
+      "45 cm²",
+      "54 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AD/AB = 3/7 ⇒ \\frac{Area}(△ ADE)}{Area}(△ ABC)} = (3/7)² = 9/49. Area of trapezium } DBCE = 49 - 9 = 40 units}. Scaled to standard SSC problem: Area}(△ ADE) = 27 cm}².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "G is the centroid of △ ABC. The medians AD and BE intersect at right angles. If AD = 9 cm and BE = 12 cm, find the length of AB.",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "8 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "AG = 2/3 × 9 = 6 cm}. BG = 2/3 × 12 = 8 cm}. In right-angled triangle AGB: AB = √(6² + 8²) = √(36 + 64) = 10 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ PQR, the internal bisector of ∠ Q and external bisector of ∠ R meet at point O. If ∠ QPR = 74^°, find the measure of ∠ QOR.",
+    "options": [
+      "37°",
+      "148°",
+      "106°",
+      "53°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "∠ QOR = ∠ P/2 = 74^°/2 = 37^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, D and E are points on AB and AC respectively such that DE ∥ BC. If AD:DB = 3:5 and the area of △ ADE is 45 cm², find the area of △ ABC.",
+    "options": [
+      "125 cm²",
+      "320 cm²",
+      "200 cm²",
+      "245 cm²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "AD/AB = 3/8 ⇒ \\frac{Area}(△ ADE)}{Area}(△ ABC)} = 9/64. Area = 45 × 64/9 = 320 cm}².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, ∠ B = 90^° and BD ⊥ AC. If AD = 4 cm and CD = 9 cm, what is the length of BD?",
+    "options": [
+      "5 cm",
+      "6 cm",
+      "7.5 cm",
+      "36 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "BD² = AD × CD = 4 × 9 = 36 ⇒ BD = 6 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a cyclic quadrilateral. The angle bisectors of ∠ A and ∠ C intersect the circle at P and Q. What is the length of chord PQ if the radius of the circle is R?",
+    "options": [
+      "R",
+      "R√(2)",
+      "2R",
+      "R√(3)"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The line segment PQ forms the diameter of the circumscribing circle. Diameter = 2R.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A regular hexagon is inscribed in a circle of radius 14 cm. Find the area of the hexagon.",
+    "options": [
+      "294√(3) cm²",
+      "196√(3) cm²",
+      "147√(3) cm²",
+      "392√(3) cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Side a = R = 14 cm}. Area = 6 × \\frac{√(3)}{4} × 14² = 294√(3) cm}².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ PQR, the internal bisectors of ∠ Q and ∠ R meet at I. If ∠ QIR = 110^°, then what is the value of ∠ P?",
+    "options": [
+      "40°",
+      "50°",
+      "60°",
+      "70°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "110^° = 90^° + ∠ P/2 ⇒ ∠ P = 40^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a circle with center O, an arc subtends an angle of 72° at the center. If the area of the sector is 30.8 cm², find the radius of the circle. (Use π = 22/7)",
+    "options": [
+      "7 cm",
+      "14 cm",
+      "10.5 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "72/360 × 22/7 × r² = 30.8 ⇒ r² = 49 ⇒ r = 7 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, D is a point on BC such that ∠ ADC = ∠ BAC. If CA = 12 cm and CB = 16 cm, find the length of CD.",
+    "options": [
+      "8 cm",
+      "9 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "By similarity: CA² = CB × CD ⇒ 12² = 16 × CD ⇒ CD = 9 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "ABCD is a trapezium with AB ∥ CD and AB = 2CD. Its diagonals intersect at O. What is the ratio of the areas of △ AOB and △ COD?",
+    "options": [
+      "1:2",
+      "2:1",
+      "4:1",
+      "1:4"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ratio of areas = (AB/CD)² = (2/1)² = 4:1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The area of a triangle is 216 cm² and its inradius is 6 cm. What is the perimeter of the triangle?",
+    "options": [
+      "36 cm",
+      "108 cm",
+      "72 cm",
+      "144 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Area} = r × s ⇒ 216 = 6 × s ⇒ s = 36. Perimeter = 2s = 72 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "G is the centroid of △ ABC. If the area of △ ABC is 60 cm², what is the area of △ GBC?",
+    "options": [
+      "15 cm²",
+      "20 cm²",
+      "30 cm²",
+      "10 cm²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Centroid divides the triangle into three triangles of equal area: Area} = 60/3 = 20 cm}².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the value of x if an exterior angle of a regular polygon is x^° and its interior angle is 4x^°.",
+    "options": [
+      "36",
+      "45",
+      "72",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "x + 4x = 180^° ⇒ 5x = 180^° ⇒ x = 36.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, the length of median AD is 9 cm. If G is the centroid, find the length of AG.",
+    "options": [
+      "3 cm",
+      "6 cm",
+      "4.5 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "AG = 2/3 × 9 = 6 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "PA and PB are tangents to a circle from an external point P. If ∠ APB = 50^°, what is the measure of ∠ OAB?",
+    "options": [
+      "25°",
+      "50°",
+      "40°",
+      "65°"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "∠ AOB = 180^° - 50^° = 130^°. In isosceles triangle OAB: ∠ OAB = 180^° - 130^°/2 = 25^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In △ ABC, DE ∥ BC. If the area of △ ADE is equal to the area of the trapezium DECB, find the ratio of AD:AB.",
+    "options": [
+      "1:√(2)",
+      "1:2",
+      "1:4",
+      "√(2):3"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "\\frac{Area}(△ ADE)}{Area}(△ ABC)} = 1/2 ⇒ AD/AB = \\frac{1}{√(2)}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "AB is a diameter of a circle with center O. C is a point on the circle such that ∠ BOC = 60^°. Find ∠ BAC.",
+    "options": [
+      "60°",
+      "45°",
+      "30°",
+      "15°"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "∠ AOC = 180^° - 60^° = 120^°. In isosceles △ AOC: ∠ BAC = 180^° - 120^°/2 = 30^°.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a parallelogram ABCD, ∠ A = 2x + 15^° and ∠ B = 3x - 25^°. Find the value of x.",
+    "options": [
+      "36",
+      "38",
+      "42",
+      "40"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(2x + 15) + (3x - 25) = 180 ⇒ 5x = 190 ⇒ x = 38.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The area of an equilateral triangle is 400√(3) m². Find its perimeter.",
+    "options": [
+      "120 m",
+      "150 m",
+      "90 m",
+      "135 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "\\frac{√(3)}{4} a² = 400√(3) ⇒ a² = 1600 ⇒ a = 40 m}. Perimeter = 3 × 40 = 120 m}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

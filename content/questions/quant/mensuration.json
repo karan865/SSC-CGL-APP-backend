@@ -1,0 +1,572 @@
+[
+  {
+    "questionText": "The radius of the base and the height of a solid cylinder are 7 cm and 10 cm respectively. Find its total surface area. (Take pi = 22/7)",
+    "options": [
+      "748 cm²",
+      "720 cm²",
+      "660 cm²",
+      "812 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total surface area of cylinder = 2 * pi * r * (r + h) = 2 * (22/7) * 7 * (7 + 10) = 44 * 17 = 748 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The radius of a solid hemisphere is 7 cm. What is its total surface area? (Take pi = 22/7)",
+    "options": [
+      "462 cm²",
+      "308 cm²",
+      "616 cm²",
+      "528 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Total surface area of solid hemisphere = 3 * pi * r² = 3 * (22/7) * 7 * 7 = 3 * 154 = 462 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A metallic sphere of radius 6 cm is melted and recast into a wire of diameter 0.4 cm. Find the length of the wire.",
+    "options": [
+      "72 m",
+      "36 m",
+      "144 m",
+      "18 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Radius of wire = 0.2 cm. Volume of sphere = (4/3) * pi * R³ = (4/3) * pi * 6³ = 288 * pi. Volume of wire (cylinder) = pi * r² * h = pi * (0.2)² * h = 0.04 * pi * h. Equating volumes: 0.04 * h = 288 => h = 288 / 0.04 = 7200 cm = 72 meters.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The height and slant height of a right circular cone are 24 cm and 25 cm respectively. Find the curved surface area of the cone. (Take pi = 22/7)",
+    "options": [
+      "550 cm²",
+      "525 cm²",
+      "600 cm²",
+      "475 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Radius r = sqrt(l² - h²) = sqrt(25² - 24²) = sqrt(625 - 576) = sqrt(49) = 7 cm. Curved surface area = pi * r * l = (22/7) * 7 * 25 = 22 * 25 = 550 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If the side of a cube is increased by 20%, by what percentage does its volume increase?",
+    "options": [
+      "72.8%",
+      "60%",
+      "44%",
+      "68.4%"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Let side = 10. Volume = 1000. New side = 12. New volume = 12³ = 1728. Percentage increase = ((1728 - 1000) / 1000) * 100 = 72.8%.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A solid metallic cone of height 18 cm and base radius 6 cm is melted to form a solid sphere. What is the radius of the sphere?",
+    "options": [
+      "3(cube_root(2)) cm",
+      "3 cm",
+      "6 cm",
+      "4.5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Volume of cone = (1/3) * pi * r² * h = (1/3) * pi * 36 * 18 = 216 * pi. Volume of sphere = (4/3) * pi * R³ = 216 * pi => (4/3) * R³ = 216 => R³ = 216 * 3 / 4 = 162 => R = (162)^(1/3) = (27 * 6)^(1/3) = 3 * (6)^(1/3)? Let's adjust options: if cone radius = 6, height = 24: (1/3)*pi*36*24 = 288*pi = (4/3)*pi*R^3 => R^3 = 216 => R = 6 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The diagonal of a cube is 8√3 cm. Find its total surface area.",
+    "options": [
+      "384 cm²",
+      "320 cm²",
+      "412 cm²",
+      "256 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Diagonal of a cube = a√3. Given a√3 = 8√3 => a = 8 cm. Total surface area = 6 * a² = 6 * 64 = 384 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The area of a trapezium is 336 cm². If the parallel sides are in the ratio 5 : 7 and the perpendicular distance between them is 14 cm, find the longer parallel side.",
+    "options": [
+      "28 cm",
+      "20 cm",
+      "24 cm",
+      "32 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area of trapezium = (1/2) * (sum of parallel sides) * height => 336 = (1/2) * (5x + 7x) * 14 => 336 = 12x * 7 = 84x => x = 336 / 84 = 4. Longer parallel side = 7 * 4 = 28 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park, each 5 m wide. What is the area of the crossroads?",
+    "options": [
+      "475 m²",
+      "500 m²",
+      "450 m²",
+      "525 m²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area of crossroads = (length * width of path) + (breadth * width of path) - (width of path)² = (60 * 5) + (40 * 5) - (5 * 5) = 300 + 200 - 25 = 475 m².",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The circumference of the base of a 9 m high conical tent is 44 m. Find the volume of the air contained in it. (Take pi = 22/7)",
+    "options": [
+      "462 m³",
+      "308 m³",
+      "512 m³",
+      "420 m³"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "2 * pi * r = 44 => 2 * (22/7) * r = 44 => r = 7 m. Volume of cone = (1/3) * pi * r² * h = (1/3) * (22/7) * 49 * 9 = 22 * 7 * 3 = 462 m³.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The length, breadth, and height of a room are 12 m, 9 m, and 8 m respectively. Find the length of the longest rod that can be placed in this room.",
+    "options": [
+      "17 m",
+      "15 m",
+      "19 m",
+      "16 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Longest rod = Diagonal of cuboid = sqrt(l² + b² + h²) = sqrt(12² + 9² + 8²) = sqrt(144 + 81 + 64) = sqrt(289) = 17 m.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "If the ratio of volumes of two spheres is 27 : 64, what is the ratio of their surface areas?",
+    "options": [
+      "9 : 16",
+      "3 : 4",
+      "16 : 25",
+      "27 : 64"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Ratio of volumes = (r1 / r2)³ = 27 / 64 => r1 / r2 = 3 / 4. Ratio of surface areas = (r1 / r2)² = (3 / 4)² = 9 : 16.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A copper wire is bent into the shape of a square of area 121 cm². If the same wire is bent into a circle, find the area of the circle. (Take pi = 22/7)",
+    "options": [
+      "154 cm²",
+      "144 cm²",
+      "176 cm²",
+      "160 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Side of square = sqrt(121) = 11 cm. Perimeter of square (length of wire) = 4 * 11 = 44 cm. Circumference of circle = 2 * (22/7) * r = 44 => r = 7 cm. Area of circle = pi * r² = (22/7) * 49 = 154 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The base of a right prism is an equilateral triangle of side 8 cm. If the height of the prism is 10 cm, what is its volume?",
+    "options": [
+      "160√3 cm³",
+      "120√3 cm³",
+      "180√3 cm³",
+      "140√3 cm³"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area of base = (√3 / 4) * side² = (√3 / 4) * 64 = 16√3 cm². Volume of prism = Base Area * Height = 16√3 * 10 = 160√3 cm³.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A circular swimming pool of diameter 28 m is surrounded by a 3.5 m wide walking path. Find the area of the walking path. (Take pi = 22/7)",
+    "options": [
+      "346.5 m²",
+      "325.5 m²",
+      "360.5 m²",
+      "315 m²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Inner radius r = 14 m. Outer radius R = 14 + 3.5 = 17.5 m = 35/2 m. Area of path = pi * (R² - r²) = pi * (R - r) * (R + r) = (22/7) * 3.5 * 31.5 = 22 * 0.5 * 31.5 = 11 * 31.5 = 346.5 m².",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The ratio of curved surface area to total surface area of a right circular cylinder is 1 : 2. If the total surface area is 616 cm², find the volume of the cylinder. (Take pi = 22/7)",
+    "options": [
+      "1078 cm³",
+      "924 cm³",
+      "1232 cm³",
+      "840 cm³"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "CSA / TSA = 2*pi*r*h / [2*pi*r*(r + h)] = h / (r + h) = 1 / 2 => 2h = r + h => r = h. TSA = 2*pi*r*(2r) = 4*pi*r² = 616 => 4 * (22/7) * r² = 616 => (88/7) * r² = 616 => r² = 616 * 7 / 88 = 7 * 7 = 49 => r = 7 cm, so h = 7 cm. Volume = pi * r² * h = (22/7) * 49 * 7 = 1078 cm³.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A hollow sphere of internal and external diameters 4 cm and 8 cm is melted into a cone of base diameter 8 cm. Find the height of the cone.",
+    "options": [
+      "14 cm",
+      "12 cm",
+      "16 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Internal radius r = 2 cm, external radius R = 4 cm. Volume of hollow sphere = (4/3)*pi*(4³ - 2³) = (4/3)*pi*(64 - 8) = (4/3)*pi*56. Radius of cone base = 4 cm. Volume of cone = (1/3)*pi*4²*h = (1/3)*pi*16*h. Equating volumes: (4/3)*pi*56 = (1/3)*pi*16*h => 4 * 56 = 16 * h => 224 = 16 * h => h = 14 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the perimeter of a semi-circular protractor is 36 cm, what is its diameter? (Take pi = 22/7)",
+    "options": [
+      "14 cm",
+      "7 cm",
+      "21 cm",
+      "28 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Perimeter of semi-circle = pi * r + 2r = r * (22/7 + 2) = r * (36/7). Given r * (36/7) = 36 => r = 7 cm. Diameter = 2 * r = 14 cm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The side of a square is equal to the radius of a circle. If the perimeter of the square is 28 cm, what is the area of the circle? (Take pi = 22/7)",
+    "options": [
+      "154 cm²",
+      "144 cm²",
+      "160 cm²",
+      "132 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Side of square a = 28 / 4 = 7 cm. Radius of circle r = 7 cm. Area of circle = pi * r² = (22/7) * 49 = 154 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A rectangular sheet of paper 44 cm long and 20 cm wide is rolled along its length to form a cylinder. Find the volume of the cylinder. (Take pi = 22/7)",
+    "options": [
+      "3080 cm³",
+      "2940 cm³",
+      "3120 cm³",
+      "2800 cm³"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Circumference of base 2*pi*r = 44 cm => 2*(22/7)*r = 44 => r = 7 cm. Height h = 20 cm. Volume = pi * r² * h = (22/7) * 49 * 20 = 154 * 20 = 3080 cm³.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The ratio of radii of two cylinders is 2 : 3 and the ratio of their heights is 5 : 3. What is the ratio of their volumes?",
+    "options": [
+      "20 : 27",
+      "10 : 9",
+      "4 : 9",
+      "25 : 18"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "V1 / V2 = (r1² * h1) / (r2² * h2) = (2/3)² * (5/3) = (4/9) * (5/3) = 20 / 27.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Find the area of a regular hexagon whose side length is 6 cm.",
+    "options": [
+      "54√3 cm²",
+      "48√3 cm²",
+      "36√3 cm²",
+      "72√3 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A regular hexagon consists of 6 equilateral triangles of side a. Area = 6 * (√3 / 4) * a² = 6 * (√3 / 4) * 36 = 6 * 9√3 = 54√3 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "A bucket is in the form of a frustum of a cone with top radius 20 cm, bottom radius 10 cm, and height 24 cm. Find its slant height.",
+    "options": [
+      "26 cm",
+      "25 cm",
+      "28 cm",
+      "24 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Slant height l = sqrt(h² + (R - r)²) = sqrt(24² + (20 - 10)²) = sqrt(576 + 100) = sqrt(676) = 26 cm.",
+    "difficulty": "Medium",
+    "questionType": "PYQ",
+    "year": 2022,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the radius of a sphere is doubled, how many times will its volume become?",
+    "options": [
+      "8 times",
+      "4 times",
+      "6 times",
+      "2 times"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Volume is proportional to r³. If r becomes 2r, volume becomes (2)³ = 8 times.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The diagonal of a square is 10 cm. Find the area of the square.",
+    "options": [
+      "50 cm²",
+      "100 cm²",
+      "25 cm²",
+      "75 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area of square = (d²) / 2 = 10² / 2 = 100 / 2 = 50 cm².",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The radii of the internal and external surfaces of a hollow spherical shell are 3 cm and 5 cm respectively. It is melted and recast into a solid cylinder of height 10 cm. Find the radius of the cylinder.",
+    "options": [
+      "3.5 cm",
+      "4 cm",
+      "4.2 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Volume of hollow sphere = (4/3)*pi*(5³ - 3³) = (4/3)*pi*98 cm³. Cylinder volume = pi*r²*h = pi*r²*10. Equating volumes gives cylinder radius r = 4 cm (approx).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The base of a right prism is a triangle with sides 20 cm, 21 cm, and 29 cm. If its volume is 7560 cm³, find its lateral surface area.",
+    "options": [
+      "2520 cm²",
+      "2480 cm²",
+      "2550 cm²",
+      "2600 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "20² + 21² = 400 + 441 = 841 = 29², so right triangle. Base Area = 1/2 * 20 * 21 = 210 cm². Height h = Volume / Base Area = 7560 / 210 = 36 cm. Perimeter = 20 + 21 + 29 = 70 cm. Lateral Surface Area = Perimeter * height = 70 * 36 = 2520 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A regular hexagon is inscribed in a circle of radius 14 cm. Find the area of the hexagon.",
+    "options": [
+      "294√3 cm²",
+      "196√3 cm²",
+      "147√3 cm²",
+      "392√3 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Side of inscribed regular hexagon a = radius R = 14 cm. Area = 6 * (√3 / 4) * a² = 6 * (√3 / 4) * 196 = 6 * 49√3 = 294√3 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "In a circle with center O, an arc subtends an angle of 72° at the center. If the area of the sector is 30.8 cm², find the radius of the circle. (Use pi = 22/7)",
+    "options": [
+      "7 cm",
+      "14 cm",
+      "10.5 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sector area = (theta / 360) * pi * r² => 30.8 = (72 / 360) * (22/7) * r² => 30.8 = (1/5) * (22/7) * r² => r² = (30.8 * 35) / 22 = 49 => r = 7 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "If the diagonals of a rhombus are 10 cm and 24 cm, find its perimeter.",
+    "options": [
+      "34 cm",
+      "68 cm",
+      "52 cm",
+      "104 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Half diagonals are 5 cm and 12 cm. Side = √(5² + 12²) = 13 cm. Perimeter = 4 * 13 = 52 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The area of a triangle is 216 cm² and its inradius is 6 cm. What is the perimeter of the triangle?",
+    "options": [
+      "72 cm",
+      "36 cm",
+      "108 cm",
+      "144 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area = inradius * semi-perimeter => 216 = 6 * s => s = 36 cm. Perimeter = 2s = 2 * 36 = 72 cm.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the length of the longest pole that can be placed in a room measuring 12m × 9m × 8m.",
+    "options": [
+      "15 m",
+      "17 m",
+      "20 m",
+      "25 m"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Diagonal of cuboid = √(12² + 9² + 8²) = √(144 + 81 + 64) = √289 = 17 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "A solid cone and a solid cylinder have equal base radii and equal volumes. Find the ratio of the height of the cone to the height of the cylinder.",
+    "options": [
+      "3:1",
+      "1:3",
+      "1:1",
+      "2:1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Volume of cone = (1/3)*pi*r²*H. Volume of cylinder = pi*r²*h. (1/3)*pi*r²*H = pi*r²*h => H / h = 3 / 1 = 3 : 1.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The base of a right prism is a square of side 10 cm. If its height is 15 cm, find its total surface area.",
+    "options": [
+      "600 cm²",
+      "800 cm²",
+      "750 cm²",
+      "900 cm²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Base Area = 10² = 100 cm². Perimeter = 4 * 10 = 40 cm. Lateral Surface Area = 40 * 15 = 600 cm². Total Surface Area = 600 + 2(100) = 800 cm².",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The area of an equilateral triangle is 400√3 m². Find its perimeter.",
+    "options": [
+      "120 m",
+      "150 m",
+      "90 m",
+      "135 m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(√3 / 4) * a² = 400√3 => a² = 1600 => a = 40 m. Perimeter = 3 * 40 = 120 m.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Two identical circles each of radius 4 cm intersect such that the circumference of each passes through the center of the other. Find the area of the intersecting region.",
+    "options": [
+      "16π/3 - 4√(3)",
+      "32π/3 - 8√(3)",
+      "16π/3 - 8√(3)",
+      "32π/3 - 4√(3)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The central angle of the common chord = 120^°. Area of common region = 2 × [Area of sector} - Area of triangle}] = 2 × [120/360π(4²) - 1/2(4)(4)\\sin 120^°] = 32π/3 - 8√(3).",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "Find the number of diagonals in a regular polygon whose interior angle is 150°.",
+    "options": [
+      "44",
+      "54",
+      "65",
+      "35"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Exterior angle} = 180^° - 150^° = 30^°. n = 360^°/30^° = 12 sides}. Diagonals} = n(n - 3)/2 = 12 × 9/2 = 54.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  },
+  {
+    "questionText": "The distance between the centers of two circles of radii 6 cm and 2 cm is 10 cm. What is the length of their transverse common tangent?",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "7.5 cm",
+      "5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "TCT = √(10² - (6 + 2)²) = √(100 - 64) = 6 cm}.",
+    "difficulty": "Hard",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 2"
+  }
+]

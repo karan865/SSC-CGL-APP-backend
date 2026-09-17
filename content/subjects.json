@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "quantitative-aptitude",
+    "aliases": ["quant"],
+    "name": "Quantitative Aptitude",
+    "description": "Arithmetic, Algebra, Geometry, Trigonometry, and Data Interpretation",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "slug": "reasoning",
+    "name": "General Intelligence & Reasoning",
+    "description": "Analogies, Syllogism, Coding-Decoding, Series, and Visual Logic",
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "slug": "english",
+    "name": "English Comprehension",
+    "description": "Grammar, Vocabulary, Error Spotting, Idioms, and Reading Comprehension",
+    "order": 3,
+    "isActive": true
+  },
+  {
+    "slug": "general-awareness",
+    "aliases": ["general_awareness", "ga"],
+    "name": "General Awareness",
+    "description": "Indian Polity, Modern History, Geography, Economics, and General Science",
+    "order": 4,
+    "isActive": true
+  }
+]

@@ -1,0 +1,1127 @@
+[
+  {
+    "questionText": "What is the chemical formula of Washing Soda?",
+    "options": [
+      "Na2CO3 . 10H2O",
+      "NaHCO3",
+      "NaOH",
+      "CaSO4 . 2H2O"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Washing Soda is hydrated sodium carbonate (Na2CO3\u00b710H2O). Baking soda is sodium bicarbonate (NaHCO3).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which vitamin is also known as Ascorbic Acid?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin A"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin C is ascorbic acid. Scurvy is caused by its deficiency.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the SI unit of electric resistance?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The SI unit of electrical resistance is the Ohm (symbol: \u03a9), named after Georg Simon Ohm.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which blood group is known as the 'Universal Donor'?",
+    "options": [
+      "O negative (O-)",
+      "AB positive (AB+)",
+      "A positive (A+)",
+      "B negative (B-)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "O negative blood has neither A nor B antigens nor Rh antigen, making it the universal donor.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which gas is commonly known as 'Laughing Gas'?",
+    "options": [
+      "Nitrous Oxide (N2O)",
+      "Nitric Oxide (NO)",
+      "Carbon Monoxide (CO)",
+      "Sulfur Dioxide (SO2)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Nitrous oxide (N2O) is used as an anesthetic and is known as laughing gas.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the normal human body temperature in Celsius?",
+    "options": [
+      "37 \u00b0C",
+      "35 \u00b0C",
+      "39 \u00b0C",
+      "36 \u00b0C"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The average normal human body temperature is generally accepted as 37 \u00b0C (98.6 \u00b0F).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which organelle is known as the 'Powerhouse of the Cell'?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Golgi Apparatus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mitochondria generate most of the chemical energy needed by the cell (in the form of ATP).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Sound waves cannot travel through which of the following?",
+    "options": [
+      "Vacuum",
+      "Water",
+      "Steel",
+      "Air"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sound waves are mechanical longitudinal waves and require a material medium for propagation.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "What is the phenomenon responsible for the twinkling of stars?",
+    "options": [
+      "Atmospheric Refraction",
+      "Total Internal Reflection",
+      "Dispersion of light",
+      "Scattering of light"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The twinkling of stars is caused by atmospheric refraction of starlight due to layers of varying density and temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which instrument is used to measure the purity of milk?",
+    "options": [
+      "Lactometer",
+      "Barometer",
+      "Hydrometer",
+      "Saccharometer"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A lactometer is a hydrometer designed to measure the specific gravity of milk to determine its purity.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2023,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-16] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-17] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-18] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-19] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-20] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-21] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-22] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-23] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-24] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-25] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-26] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-27] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-28] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-29] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-30] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-31] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-32] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-33] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-34] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-35] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-36] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-37] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-38] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-39] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-40] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-41] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-42] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-43] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-44] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-45] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-46] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-47] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-48] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-49] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-50] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-51] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-52] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-53] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-54] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-55] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-56] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-57] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-58] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-59] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-60] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-61] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-62] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-63] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-64] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-65] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-66] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-67] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-68] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-69] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-70] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-71] Deficiency of Vitamin D in children causes:",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Scurvy",
+      "Night Blindness"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-72] The blue color of the sky during daytime is due to:",
+    "options": [
+      "Rayleigh Scattering",
+      "Refraction",
+      "Reflection",
+      "Dispersion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Shorter wavelengths of blue light are scattered more strongly by atmospheric molecules (Rayleigh scattering).",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-73] Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury (Hg)",
+      "Bromine",
+      "Gallium",
+      "Sodium"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-74] Which non-metal is liquid at room temperature?",
+    "options": [
+      "Bromine (Br)",
+      "Chlorine",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Bromine is the only non-metallic element that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  },
+  {
+    "questionText": "[Sci-75] Photosynthesis in green plants takes place inside which organelle?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll which absorbs sunlight for photosynthesis.",
+    "difficulty": "Easy",
+    "questionType": "PYQ",
+    "year": 2024,
+    "exam": "SSC CGL Tier 1"
+  }
+]
