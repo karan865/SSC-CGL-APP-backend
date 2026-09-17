@@ -201,7 +201,7 @@ export async function generateDailyPlan(
     // 3. PRIORITY 3: PERSONALIZED RECOMMENDATION
     if (remainingSlots >= 5) {
       try {
-        const rec = await getRecommendedPractice(normalizedUserId);
+        const rec = await getRecommendedPractice(normalizedUserId, 3, examId);
         const alreadyIncluded = planItems.some(
           (it) => it.topicId && it.topicId.toString() === rec.topicId
         );
@@ -270,9 +270,11 @@ export async function generateDailyPlan(
     // 5. PRIORITY 5: MINI MOCK DRILL
     if (remainingSlots >= 5) {
       const mockSlots = remainingSlots;
+      const isJpsc = examId && (examId.toLowerCase() === 'jpsc' || examId.toLowerCase() === 'jpsc-cce');
+      const mockTitle = isJpsc ? 'Prelims Mini Mock Sprint' : 'Tier-1 Mini Mock Sprint';
       planItems.push({
         type: 'MINI_MOCK',
-        title: 'Tier-1 Mini Mock Sprint',
+        title: mockTitle,
         questionCount: mockSlots,
         completedCount: 0,
         priority: 40,
