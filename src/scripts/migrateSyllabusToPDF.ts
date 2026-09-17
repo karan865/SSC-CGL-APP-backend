@@ -351,16 +351,16 @@ async function run() {
   }
 
   console.log('Deactivating old subjects and topics for JPSC...');
-  await Subject.updateMany({ examId: exam._id }, { $set: { isActive: false } });
-  await Topic.updateMany({ examId: exam._id }, { $set: { isActive: false } });
+  await Subject.updateMany({ examId: exam!._id }, { $set: { isActive: false } });
+  await Topic.updateMany({ examId: exam!._id }, { $set: { isActive: false } });
 
   console.log('Creating new hierarchy...');
 
   async function createStageHierarchy(stageDef: any) {
-    let stage = await ExamStage.findOne({ examId: exam._id, slug: stageDef.slug });
+    let stage = await ExamStage.findOne({ examId: exam!._id, slug: stageDef.slug });
     if (!stage) {
       stage = new ExamStage({
-        examId: exam._id,
+        examId: exam!._id,
         name: stageDef.name,
         slug: stageDef.slug,
         order: stageDef.order,
@@ -375,10 +375,10 @@ async function run() {
     }
 
     for (const paperDef of stageDef.papers) {
-      let paper = await ExamPaper.findOne({ examId: exam._id, stageId: stage._id, slug: paperDef.slug });
+      let paper = await ExamPaper.findOne({ examId: exam!._id, stageId: stage._id, slug: paperDef.slug });
       if (!paper) {
         paper = new ExamPaper({
-          examId: exam._id,
+          examId: exam!._id,
           stageId: stage._id,
           name: paperDef.name,
           slug: paperDef.slug,
@@ -394,10 +394,10 @@ async function run() {
       }
 
       for (const subjectDef of paperDef.subjects) {
-        let subject = await Subject.findOne({ examId: exam._id, slug: subjectDef.slug });
+        let subject = await Subject.findOne({ examId: exam!._id, slug: subjectDef.slug });
         if (!subject) {
           subject = new Subject({
-            examId: exam._id,
+            examId: exam!._id,
             stageId: stage._id,
             paperId: paper._id,
             name: subjectDef.name,
@@ -421,7 +421,7 @@ async function run() {
           let topic = await Topic.findOne({ subjectId: subject._id, slug: tSlug });
           if (!topic) {
             topic = new Topic({
-              examId: exam._id,
+              examId: exam!._id,
               stageId: stage._id,
               paperId: paper._id,
               subjectId: subject._id,

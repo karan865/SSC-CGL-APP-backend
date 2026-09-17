@@ -34,7 +34,7 @@ async function run() {
 
   // Create the 10 new topics
   console.log('Creating new 10 categories...');
-  const newTopicDocs = [];
+  const newTopicDocs: any[] = [];
   for (let i = 0; i < NEW_TOPICS.length; i++) {
     const tDef = NEW_TOPICS[i];
     let topic = await Topic.findOne({ slug: tDef.slug, subjectId: p1Sub._id });
