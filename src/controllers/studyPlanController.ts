@@ -59,7 +59,8 @@ export const startPlanHandler = async (
 ): Promise<void> => {
   try {
     const userId = getUserId(req);
-    const result = await startDailyPlan(userId);
+    const examId = (req.body?.examId || req.query?.examId) as string | undefined;
+    const result = await startDailyPlan(userId, examId);
     res.status(200).json(successResponse('Daily study plan started', result));
   } catch (error) {
     next(error);
@@ -82,7 +83,8 @@ export const completePlanItemHandler = async (
     }
 
     try {
-      const result = await completePlanItem(userId, itemId, answeredCount);
+      const examId = (req.body?.examId || req.query?.examId) as string | undefined;
+      const result = await completePlanItem(userId, itemId, answeredCount, examId);
       res.status(200).json(successResponse('Study plan item progress recorded', result));
     } catch (err: any) {
       if (err.message === 'PLAN_ITEM_NOT_FOUND') {
@@ -125,8 +127,8 @@ export const updateGoalHandler = async (
       return;
     }
 
-    const plan = await updateDailyGoal(userId, goalQuestions);
     const examId = (req.body?.examId || req.query?.examId) as string | undefined;
+    const plan = await updateDailyGoal(userId, goalQuestions, examId);
     const progress = await getPlanProgress(userId, examId);
     res.status(200).json(successResponse('Daily study goal updated successfully', progress));
   } catch (error) {

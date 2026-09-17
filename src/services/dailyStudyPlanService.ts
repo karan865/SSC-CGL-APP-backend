@@ -384,8 +384,8 @@ export async function getPlanProgress(
 /**
  * Starts the daily study plan (transitions status to IN_PROGRESS).
  */
-export async function startDailyPlan(userId: string) {
-  const plan = await getTodayPlan(userId);
+export async function startDailyPlan(userId: string, examId?: string) {
+  const plan = await getTodayPlan(userId, examId);
   if (plan.status === 'NOT_STARTED') {
     plan.status = 'IN_PROGRESS';
     await plan.save();
@@ -405,9 +405,10 @@ export async function startDailyPlan(userId: string) {
 export async function completePlanItem(
   userId: string,
   itemId: string,
-  answeredCount: number = 1
+  answeredCount: number = 1,
+  examId?: string
 ) {
-  const plan = await getTodayPlan(userId);
+  const plan = await getTodayPlan(userId, examId);
   const targetItem = plan.items.id(itemId);
 
   if (!targetItem) {
@@ -455,7 +456,7 @@ export async function completePlanItem(
 /**
  * Updates the user's daily study goal (20, 35, 50 questions) and rescales the plan.
  */
-export async function updateDailyGoal(userId: string, goalQuestions: number) {
+export async function updateDailyGoal(userId: string, goalQuestions: number, examId?: string) {
   const validGoal = [20, 35, 50].includes(Number(goalQuestions)) ? Number(goalQuestions) : 35;
-  return generateDailyPlan(userId, validGoal, true);
+  return generateDailyPlan(userId, validGoal, true, examId);
 }
