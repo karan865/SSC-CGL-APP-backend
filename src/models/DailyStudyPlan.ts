@@ -74,8 +74,8 @@ const dailyStudyPlanSchema = new Schema<IDailyStudyPlan>(
   { timestamps: true }
 );
 
-// One canonical study plan per user per day
-dailyStudyPlanSchema.index({ userId: 1, dateKey: 1 }, { unique: true });
+// One canonical study plan per user per exam per day
+dailyStudyPlanSchema.index({ userId: 1, dateKey: 1, examId: 1 }, { unique: true });
 dailyStudyPlanSchema.index({ userId: 1, status: 1 });
 dailyStudyPlanSchema.index({ examId: 1, userId: 1, dateKey: 1 });
 

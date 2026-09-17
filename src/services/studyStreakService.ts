@@ -162,13 +162,14 @@ export async function getTodayStatus(userId: string): Promise<StreakStatusRespon
   const normalizedUserId = userId?.trim() || 'guest_default';
   const todayKey = getTodayDateKey();
 
-  // Check if today's study plan is already COMPLETED
+  // Check if today's study plan is already COMPLETED for any exam
   const todayPlan = await DailyStudyPlan.findOne({
     userId: normalizedUserId,
     dateKey: todayKey,
+    status: 'COMPLETED',
   });
 
-  if (todayPlan && todayPlan.status === 'COMPLETED') {
+  if (todayPlan) {
     // Ensure streak record is updated idempotently
     return recordDailyGoalCompletion(normalizedUserId, todayKey);
   }
