@@ -183,10 +183,15 @@ export async function getDueRevisions(
   }
 
   const questionIds = dueRecords.map((r) => r.questionId);
-  const rawQuestions = await Question.find({
+  const questionFilter: any = {
     _id: { $in: questionIds },
     isActive: true,
-  })
+  };
+  // Double-filter: ensure fetched questions belong to this exam
+  if (examObjId) {
+    questionFilter.examId = examObjId;
+  }
+  const rawQuestions = await Question.find(questionFilter)
     .select('-correctAnswer -explanation') // Strict security projection
     .lean();
 

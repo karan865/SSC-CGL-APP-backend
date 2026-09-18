@@ -3,6 +3,7 @@ import { Subject } from '../models/Subject';
 import { Topic } from '../models/Topic';
 import { Question } from '../models/Question';
 import { QuestionAttempt } from '../models/QuestionAttempt';
+import { Exam } from '../models/Exam';
 
 import { DailyStudyPlan } from '../models/DailyStudyPlan';
 import { getTodayDateKey } from './dailyStudyPlanService';
@@ -104,6 +105,14 @@ export async function selectPracticeQuestions(
     const todayPlan = await DailyStudyPlan.findOne({ userId: normalizedUserId, dateKey: getTodayDateKey() }).sort({ createdAt: -1 });
     if (todayPlan && todayPlan.examId) {
       resolvedExamId = todayPlan.examId.toString();
+    }
+  }
+
+  // Resolve exam slug strings (e.g. 'jpsc', 'ssc-cgl') to ObjectIds
+  if (resolvedExamId && !mongoose.Types.ObjectId.isValid(resolvedExamId)) {
+    const examDoc = await Exam.findOne({ slug: resolvedExamId.toLowerCase(), isActive: true });
+    if (examDoc) {
+      resolvedExamId = examDoc._id.toString();
     }
   }
 
