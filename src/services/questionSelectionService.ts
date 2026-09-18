@@ -87,9 +87,7 @@ export async function selectPracticeQuestions(
     paperId,
   } = params;
 
-  if (!mongoose.Types.ObjectId.isValid(subjectId) || !mongoose.Types.ObjectId.isValid(topicId)) {
-    throw new Error('INVALID_ID');
-  }
+
 
   const validDifficulties = ['Easy', 'Medium', 'Hard'];
   if (!validDifficulties.includes(difficulty)) {
