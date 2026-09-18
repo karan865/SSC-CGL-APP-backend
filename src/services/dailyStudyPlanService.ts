@@ -61,6 +61,8 @@ export async function generateDailyPlan(
   const dateKey = getTodayDateKey();
   const goal = [20, 35, 50].includes(Number(requestedGoal)) ? Number(requestedGoal) : 35;
   const examObjId = await resolveExamObjectId(examId);
+  const resolvedExamDoc = examObjId ? await Exam.findById(examObjId) : null;
+  const examSlug = resolvedExamDoc?.slug || 'ssc-cgl';
 
   const planQuery: any = { userId: normalizedUserId, dateKey };
   if (examObjId) planQuery.examId = examObjId;
@@ -73,7 +75,7 @@ export async function generateDailyPlan(
     }
   }
 
-  const performance = await getUserPerformance(normalizedUserId, examId);
+  const performance = await getUserPerformance(normalizedUserId, examSlug);
   const attempts = performance.totalAttempted;
 
   let planItems: Array<Partial<IStudyPlanItem>> = [];
@@ -142,7 +144,7 @@ export async function generateDailyPlan(
 
     // 1. PRIORITY 1: DUE REVISION
     try {
-      const dueData = await getDueRevisions(normalizedUserId, 15, undefined, examId);
+      const dueData = await getDueRevisions(normalizedUserId, 15, undefined, examSlug);
       if (dueData && dueData.dueCount > 0) {
         const maxRevision = Math.min(
           dueData.dueCount,
@@ -201,7 +203,7 @@ export async function generateDailyPlan(
     // 3. PRIORITY 3: PERSONALIZED RECOMMENDATION
     if (remainingSlots >= 5) {
       try {
-        const rec = await getRecommendedPractice(normalizedUserId, 3, examId);
+        const rec = await getRecommendedPractice(normalizedUserId, 3, examSlug);
         const alreadyIncluded = planItems.some(
           (it) => it.topicId && it.topicId.toString() === rec.topicId
         );
@@ -270,7 +272,7 @@ export async function generateDailyPlan(
     // 5. PRIORITY 5: MINI MOCK DRILL
     if (remainingSlots >= 5) {
       const mockSlots = remainingSlots;
-      const isJpsc = examId && (examId.toLowerCase() === 'jpsc' || examId.toLowerCase() === 'jpsc-cce');
+      const isJpsc = examSlug === 'jpsc' || examSlug === 'jpsc-cce';
       const mockTitle = isJpsc ? 'Prelims Mini Mock Sprint' : 'Tier-1 Mini Mock Sprint';
       planItems.push({
         type: 'MINI_MOCK',
